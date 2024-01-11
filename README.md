@@ -111,7 +111,6 @@ This is list was generated automatically from [awesome.ecosyste.ms](https://awes
 - [awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources.
 - [dive-into-machine-learning](https://github.com/dive-into-machine-learning/dive-into-machine-learning) - Free ways to dive into machine learning with Python and Jupyter Notebook. Notebooks, courses, and other links. (First posted in 2016.).
 - [awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
-- [Awesome-LLM?tab=readme-ov-file](https://github.com/Hannibal046/Awesome-LLM?tab=readme-ov-file) - Awesome-LLM: a curated list of Large Language Model.
 - [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model.
 - [awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp) - A collection of resources on modern C++.
 - [awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
@@ -450,7 +449,6 @@ This is list was generated automatically from [awesome.ecosyste.ms](https://awes
 - [awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries) - :sunglasses: A curated list of robotics libraries and software.
 - [machine-learning-with-ruby](https://github.com/arbox/machine-learning-with-ruby) - Curated list: Resources for machine learning in Ruby.
 - [awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
-- [url?style=social&url=https%3A%2F%2Fgithub.com%2Feon01%2Fawesome-chatgpt](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Feon01%2Fawesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
 - [awesome-ricing](https://github.com/fosslife/awesome-ricing) - A curated list of awesome tools and technology to help you out with ricing on linux.
 - [awesome-opengl](https://github.com/eug/awesome-opengl) - A curated list of awesome OpenGL libraries, debuggers and resources.
 - [awesome-jvm](https://github.com/deephacks/awesome-jvm) - A curated list of awesome loosely performance related JVM stuff. Inspired by awesome-python.
@@ -971,7 +969,6 @@ This is list was generated automatically from [awesome.ecosyste.ms](https://awes
 - [awesome-buggy-erc20-tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected.
 - [awesome-monte-carlo-tree-search-papers](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers) - A curated list of Monte Carlo tree search papers with implementations. .
 - [Awesome-Self-Supervised-Papers](https://github.com/dev-sungman/Awesome-Self-Supervised-Papers) - Paper bank for Self-Supervised Learning.
-- [JSON-Schema-Test-Suite?utm_source=awesome-jsonschema](https://github.com/json-schema-org/JSON-Schema-Test-Suite?utm_source=awesome-jsonschema) - A language agnostic test suite for the JSON Schema specifications.
 - [awesome-dev-fun](https://github.com/mislavcimpersak/awesome-dev-fun) - A curated list of awesome fun libs/packages/languages that have no real purpose but to make a developer chuckle.
 - [awesome-acf](https://github.com/navidkashani/awesome-acf) - a collection of third party add-ons for advanced custom field plugin for WordPress.
 - [awesome-3dbody-papers](https://github.com/3DFaceBody/awesome-3dbody-papers) - 😎Awesome list of papers about 3D body.
@@ -1732,7 +1729,6 @@ This is list was generated automatically from [awesome.ecosyste.ms](https://awes
 - [awesome-recruitment-tests](https://github.com/zsoltime/awesome-recruitment-tests) - A curated list of awesome coding assignments and recruitment tests.
 - [AwesomeInterpreter](https://github.com/BaseMax/AwesomeInterpreter) - The Big list of the github, open-source interpreters.
 - [Awesome-Bioinformatics-CN](https://github.com/feifei9606/Awesome-Bioinformatics-CN) - 生物信息学软件，资源和工具库的精选列表.
-- [badge.svg?count_bg=%2379C83D&edge_flat=false&icon=&icon_color=%23E7E7E7&title=hits&title_bg=%23555555&url=https%3A%2F%2Fgithub.com%2F738%2Fmade-in-korea](https://hits.seeyoufarm.com/api/count/incr/badge.svg?count_bg=%2379C83D&edge_flat=false&icon=&icon_color=%23E7E7E7&title=hits&title_bg=%23555555&url=https%3A%2F%2Fgithub.com%2F738%2Fmade-in-korea) - 🇰🇷 Curating the best projects that were made and mainly contributed by Korean developers.
 - [awesome-jamstack-resources](https://github.com/Olanetsoft/awesome-jamstack-resources) - This is a Curated list of resources using the JAMStack: A modern web development architecture for creating fast, secure and dynamic websites.
 - [awesome-electron-zh](https://github.com/chinanf-boy/awesome-electron-zh) - 🇨🇳翻译: < awesome-electron > 噢 electron 的 资源列表耶 ❤ 校对 ✔.
 - [awesome-kotlin-libraries-for-android](https://github.com/appcypher/awesome-kotlin-libraries-for-android) - 😎 A curated list of awesome Kotlin libraries for Android.
