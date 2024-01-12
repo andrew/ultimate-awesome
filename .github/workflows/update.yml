@@ -1,0 +1,29 @@
+name: Update README
+
+on:
+  schedule:
+    - cron:  '0 0 * * *'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Download text
+        run: |
+          wget -O new-readme.txt https://awesome.ecosyste.ms/lists/markdown
+
+      - name: Replace README
+        run: |
+          mv new-readme.txt README.md
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "andrewnez@gmail.com"
+          git config --local user.name "Andrew Nesbitt"
+          git add README.md
+          git commit -m "Update README from https://awesome.ecosyste.ms"
+          git push
