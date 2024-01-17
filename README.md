@@ -66,21 +66,23 @@ Last generated: 2024-01-17, 4948 lists.
 - [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics.
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness.
 - [lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere.
-- [awesome-ai-awesomeness](https://github.com/amusi/awesome-ai-awesomeness) - A curated list of awesome awesomeness about artificial intelligence.
 - [awesome-product-manager](https://github.com/yuhenobi/awesome-product-manager) - A curated list of awesome resources for product managers to learn and grow.
 - [awesome-cn](https://github.com/gamedilong/awesome-cn) - Awesome项目中文翻译，提升查阅效率.
-- [awesome-jsonschema](https://github.com/sourcemeta/awesome-jsonschema) - A curated list of awesome JSON Schema resources, tutorials, tools, and more.
 - [awesome-awesome](https://github.com/coopermaa/awesome-awesome) - Awesome collection of awesome lists.
 - [more-awesome](https://github.com/0ex/more-awesome) - An extensive list of "awesome" lists to help you find resources and starting points on every topic.
-- [awesome-ai-list-guide](https://github.com/bigcash/awesome-ai-list-guide) - The guide of awesome list about AI.
 - [fucking-awesome](https://github.com/correia-jpv/fucking-awesome) - 😎 Awesome lists about all kinds of interesting topics. With repository stars⭐ and forks🍴.
 - [fucking-awesome](https://github.com/Correia-jpv/fucking-awesome) - 😎 Awesome lists about all kinds of interesting topics. With repository stars⭐ and forks🍴.
 - [ultimate-awesome](https://github.com/andrew/ultimate-awesome) - Every awesome list on every topic, including awesome lists of awesome lists, updated daily.
+- [fucking-lists](https://github.com/Correia-jpv/fucking-lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere. With repository stars⭐ and forks🍴.
 - [collection](https://github.com/exajobs/collection) - Welcome to the definitive collection of collections (of collections) curated on GitHub and elsewhere .
-- [awesome-artificial-intelligence](https://github.com/okhosting/awesome-artificial-intelligence) - Curated list of open source and comercial tools, services, libraries, documentation and everything AI.
+- [awesome-cn](https://github.com/iphpjs/awesome-cn) - Awesome精选列表.
 - [awesome-possum](https://github.com/codelabspro/awesome-possum) - A collection of awesome dev resources.
 - [Awesome-Web3](https://github.com/Fang-Zhang/Awesome-Web3) - 😎 Awesome lists about all kinds of interesting Web3 topics.
+- [awesome](https://github.com/GazimbeIsaac/awesome) - Awesome.
 - [awesomelist](https://github.com/ramanihiteshc/awesomelist) - All list awesome technical and non.
+- [awesome-learning](https://github.com/rubenclaes/awesome-learning) - List of learning URL's .
+- [awesome](https://github.com/touhid1/awesome) - Awesome lists about all kinds of interesting topics.
+- [awesome](https://github.com/weesources/awesome) - Awesome list about all kinds of interesting topics .
 
 ## Programming Language Lists
 ### Python Lists
@@ -146,6 +148,7 @@ Last generated: 2024-01-17, 4948 lists.
 - [awesome-netbox](https://github.com/osism/awesome-netbox) - A curated list of awesome NetBox resources.
 - [awesome-automl](https://github.com/ChanChiChoi/awesome-automl) - Collecting related resources of automated machine learning here.
 - [Python-Security-Tool-Database](https://github.com/MythicStack/Python-Security-Tool-Database) - Solid Python toolkit for those in the security industry. Some by me, most by smarter people.
+- [awesome-ai-list-guide](https://github.com/bigcash/awesome-ai-list-guide) - The guide of awesome list about AI.
 - [awesome-plone](https://github.com/collective/awesome-plone) - Add-ons and resources for the CMS Plone.
 - [awesome-python-web-frameworks](https://github.com/sfermigier/awesome-python-web-frameworks) - A curated list of awesome Python Web Frameworks (micro, full-stack, REST, etc.).
 - [awesome-python](https://github.com/gribouille/awesome-python) - An enriched version of awesome-python (
@@ -1574,6 +1577,7 @@ Last generated: 2024-01-17, 4948 lists.
 - [awesome-blockchain-ai](https://github.com/steven2358/awesome-blockchain-ai) - A curated list of Blockchain projects for Artificial Intelligence and Machine Learning.
 - [awesome-sketch](https://github.com/diessica/awesome-sketch) - :books: delightful stuff for SketchApp students.
 - [awesome-iocs](https://github.com/sroberts/awesome-iocs) - A collection of sources of indicators of compromise.
+- [awesome-ai-awesomeness](https://github.com/amusi/awesome-ai-awesomeness) - A curated list of awesome awesomeness about artificial intelligence.
 - [awesome-google-cloud](https://github.com/GoogleCloudPlatform/awesome-google-cloud) - A curated list of awesome stuff for Google Cloud Platform.
 - [awesome-swiftui](https://github.com/chinsyo/awesome-swiftui) - A curated list of awesome SwiftUI tutorials, libraries, videos and articles.
 - [awesome-automotive](https://github.com/Marcin214/awesome-automotive) - A curated list of delightful and free automotive engineering resources, looking for contributors ❗.
@@ -2157,8 +2161,8 @@ Last generated: 2024-01-17, 4948 lists.
 - [awesome-svelte](https://github.com/rocketlaunchr/awesome-svelte) - Awesome Svelte: Useful resources for developing Svelte applications.
 - [awesome-lowcode](https://github.com/antdimot/awesome-lowcode) - A collection of Awesome low-code development platform (LCDP).
 - [Awesome-Table-Recognition](https://github.com/cv-small-snails/Awesome-Table-Recognition) - A curated list of resources dedicated to table recognition.
-- [Awesome-Ethereum](https://github.com/ttumiel/Awesome-Ethereum) - A Curated List of Awesome Ethereum Resources.
 - [awesome-cloud-native-security](https://github.com/Metarget/awesome-cloud-native-security) - Awesome resources about cloud native security 🐿.
+- [Awesome-Ethereum](https://github.com/ttumiel/Awesome-Ethereum) - A Curated List of Awesome Ethereum Resources.
 - [awesome-RGBD-SLAM](https://github.com/electech6/awesome-RGBD-SLAM) - RGB-D SLAM open sources，good papers，famous research institutions.
 - [awesome-multi-modal-reinforcement-learning](https://github.com/opendilab/awesome-multi-modal-reinforcement-learning) - A curated list of Multi-Modal Reinforcement Learning resources (continually updated).
 - [awesome-nativescript](https://github.com/jbristowe/awesome-nativescript) - A curated list of awesome articles, plugins, and resources for NativeScript.
@@ -2932,6 +2936,7 @@ Last generated: 2024-01-17, 4948 lists.
 - [awesome-aha](https://github.com/jondot/awesome-aha) - Awesome list for "Aha!" moments related to programming and computer science. Accelerate your learning.
 - [awesome-open-source-synths](https://github.com/jonmoshier/awesome-open-source-synths) - Awesome Open Source Synths List!.
 - [awesome-persian-blogs](https://github.com/ohmydevops/awesome-persian-blogs) -  📝 لیست وبلاگ‌های فارسی‌زبان در حوزه‌های مختلف.
+- [awesome-jsonschema](https://github.com/sourcemeta/awesome-jsonschema) - A curated list of awesome JSON Schema resources, tutorials, tools, and more.
 - [awesome-azure-static-web-apps](https://github.com/staticwebdev/awesome-azure-static-web-apps) - Curated list of resources for Azure Static Web Apps.
 - [awesome-learning-collections](https://github.com/johnpaulada/awesome-learning-collections) - ✨ A curated list of awesome learning collections on various topics.
 - [awesome-dojo](https://github.com/petk/awesome-dojo) - A curated list of awesome Dojo JavaScript Toolkit libraries, resources and other shiny things.
@@ -4334,7 +4339,6 @@ Last generated: 2024-01-17, 4948 lists.
 - [awesome-celo](https://github.com/celo-org/awesome-celo) - A curated list of awesome Celo resources, libraries, tools and more.
 - [awesome_articles](https://github.com/choeunhak/awesome_articles) - ⭐ High Quality Development Articles.
 - [awesome](https://github.com/ComputationalPhysiology/awesome) - Awesome list for Computational Physiology.
-- [fucking-lists](https://github.com/Correia-jpv/fucking-lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere. With repository stars⭐ and forks🍴.
 - [awesome-boilerplates](https://github.com/ellerbrock/awesome-boilerplates) - :kissing_cat: Collection with Awesome Boilerplates to get started quickly.
 - [awesome-learn-azure](https://github.com/fabianmagrini/awesome-learn-azure) - A curated list of resources for learning Microsoft Azure.
 - [awesome-gis](https://github.com/geographybg/awesome-gis) - Колекция от бази данни, обучителни материали, инструменти, карти и други полезни ресурси свързани с географска тематика.
@@ -4757,7 +4761,6 @@ Last generated: 2024-01-17, 4948 lists.
 - [awesome-ttgo-vga](https://github.com/iandstanley/awesome-ttgo-vga) - List of TTGO-VGA stuff.
 - [awesome-collection](https://github.com/ileodo/awesome-collection) - My Awesome Collection (Bookmarks).
 - [awesome-android](https://github.com/imbeerus/awesome-android) - Guides, tools, plugins and etc.
-- [awesome-cn](https://github.com/iphpjs/awesome-cn) - Awesome精选列表.
 - [awesome-sketch](https://github.com/iraycd/awesome-sketch) - Awesome for Sketch.
 - [awesome-nifi](https://github.com/isaccanedo/awesome-nifi) - :book: A list of useful Apache NiFi resources, processor bundles and tools.
 - [awesome-design-research](https://github.com/iwabm/awesome-design-research) - A curated list of inpainting papers and resources, inspired by awesome-computer-vision.
@@ -4804,6 +4807,7 @@ Last generated: 2024-01-17, 4948 lists.
 - [awesome-gtnn](https://github.com/n-kats/awesome-gtnn) - Lists of awesome resources for geometric or topological neural network.
 - [awesome-learning](https://github.com/NoelDeMartin/awesome-learning) - Some awesome resources I've found useful in my learning journey.
 - [awesome-ambient-noises](https://github.com/oiwn/awesome-ambient-noises) - A curated list of awesome ambient noises for listening while programming.
+- [awesome-artificial-intelligence](https://github.com/okhosting/awesome-artificial-intelligence) - Curated list of open source and comercial tools, services, libraries, documentation and everything AI.
 - [awesome-databricks](https://github.com/ossinova/awesome-databricks) - A collection of useful and awesome Databricks resources.
 - [awesome-avl](https://github.com/pdbeard/awesome-avl) - Awesome-avl.
 - [awesome-iot-cloud-plataforms](https://github.com/pineli/awesome-iot-cloud-plataforms) - Lista de Plataformas em Nuvem de IoT e softwares relacionados.
@@ -4955,7 +4959,6 @@ Last generated: 2024-01-17, 4948 lists.
 - [awesome-institutional-hpc](https://github.com/frankier/awesome-institutional-hpc) - List of tools you can use to get the most from your institutional HPC resources.
 - [awesome-guix](https://github.com/franzos/awesome-guix) - Docs, Channels, example configs and more - Guix is Awesome.
 - [awesome-extended-reality](https://github.com/friedrith/awesome-extended-reality) - A curated list of all technologies related to virtual reality, augmented reality, etc.
-- [awesome](https://github.com/GazimbeIsaac/awesome) - Awesome.
 - [awesome-book-authoring](https://github.com/GazimbeIsaac/awesome-book-authoring) - Awesome-Book-Authoring.
 - [awesome-command-line-apps](https://github.com/GazimbeIsaac/awesome-command-line-apps) - Awesome-Commmand-Line-Apps.
 - [awesome-go](https://github.com/GazimbeIsaac/awesome-go) - Awesome-Go.
@@ -5056,7 +5059,6 @@ Last generated: 2024-01-17, 4948 lists.
 - [awesome-links](https://github.com/rinotc/awesome-links) - 勉強していて参考になったURL集.
 - [av-io-awesome](https://github.com/Rogersiver/av-io-awesome) - An awesome doc for all of the AV tools and tips I have collected.
 - [awesome-platforms](https://github.com/roma-glushko/awesome-platforms) - 📦 A list of awesome open source platforms, complete end-to-end applications.
-- [awesome-learning](https://github.com/rubenclaes/awesome-learning) - List of learning URL's .
 - [awesome-stuff](https://github.com/runyasak/awesome-stuff) - 😎My awesome stuff about programming.
 - [awesomeblog](https://github.com/ryandupay/awesomeblog) - This is repository for awesome blog application for global IT Course.
 - [awesome-dendron-poc](https://github.com/ScriptAutomate/awesome-dendron-poc) - POC for awesome dendron list and CI/CD in place.
@@ -5083,7 +5085,6 @@ Last generated: 2024-01-17, 4948 lists.
 - [awesomeYouTube](https://github.com/ThePyProgrammer/awesomeYouTube) - A curated list of carefully retrieved awesome videos to learn absolutely anything you need to know in coding and maths.
 - [AVS-awesome-vehicle-security-](https://github.com/TheRipperJhon/AVS-awesome-vehicle-security-) - UNA LISTA SELECCIONADA DE RECURSOS PARA AUTOMOVIL.
 - [awesome-flexbox-tutorials](https://github.com/Tkachenko-School/awesome-flexbox-tutorials) - Top tutorials to learn Flexboxes for Frontend Development.
-- [awesome](https://github.com/touhid1/awesome) - Awesome lists about all kinds of interesting topics.
 - [awesome-CXL](https://github.com/twicy/awesome-CXL) - This is a repo listing papers/blogs/news related to CXL. Let's take the leap to Next-Gen memory system with the awesome CXL.
 - [awesome-peercoin](https://github.com/ulkas/awesome-peercoin) - A curated list of awesome Peercoin articles, libraries and resources.
 - [awesome-wealthtech](https://github.com/upstarter/awesome-wealthtech) - An Awesome lists of wealth-tech resources for quant traders and investors.
@@ -5097,7 +5098,6 @@ Last generated: 2024-01-17, 4948 lists.
 - [pure-awesomeness](https://github.com/WagnerMoreira/pure-awesomeness) - My list of awesome stuff on GitHub.
 - [awesome-code](https://github.com/wanlinus/awesome-code) - Awesome lists about all kinds of interesting topics.
 - [awesome-tesla-australia](https://github.com/warwickofthegh/awesome-tesla-australia) - A curated list of links and tip for owning a Tesla in Australia.
-- [awesome](https://github.com/weesources/awesome) - Awesome list about all kinds of interesting topics .
 - [awesome_design_tools](https://github.com/weesources/awesome_design_tools) - The best design tools and plugins for everything.
 - [awesome-frontend](https://github.com/weihongyu12/awesome-frontend) - 收集的一些前端资源，包括UI框架和各种插件.
 - [awesome-cra-v2](https://github.com/willnguyen1312/awesome-cra-v2) - My playground on create-react-app v2 with Netlify.
