@@ -3,7 +3,7 @@ Every awesome list on every topic, including awesome lists of awesome lists, upd
 
 This is list was generated automatically from [awesome.ecosyste.ms](https://awesome.ecosyste.ms/), an open API service indexing awesome lists of open source software. It includes every awesome list with at least 30 items and a description, sorted by most stars first.
 
-Last generated: 2025-05-28, 8480 lists.
+Last generated: 2025-05-29, 8480 lists.
 
 ## Contents
 - [Lists of Lists](#lists-of-lists)
