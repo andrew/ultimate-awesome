@@ -3,7 +3,7 @@ Every awesome list on every topic, including awesome lists of awesome lists, upd
 
 This is list was generated automatically from [awesome.ecosyste.ms](https://awesome.ecosyste.ms/), an open API service indexing awesome lists of open source software. It includes every awesome list with at least 30 items and a description, sorted by most stars first.
 
-Last generated: 2025-08-14, 8759 lists.
+Last generated: 2025-08-15, 8761 lists.
 
 ## Contents
 - [Lists of Lists](#lists-of-lists)
@@ -27,8 +27,8 @@ Last generated: 2025-08-14, 8759 lists.
   - [Nix Lists](#nix-lists)
   - [Dart Lists](#dart-lists)
   - [Crystal Lists](#crystal-lists)
-  - [Ruby Lists](#ruby-lists)
   - [Typst Lists](#typst-lists)
+  - [Ruby Lists](#ruby-lists)
   - [C++ Lists](#c++-lists)
   - [V Lists](#v-lists)
   - [Erlang Lists](#erlang-lists)
@@ -237,9 +237,9 @@ Last generated: 2025-08-14, 8759 lists.
 - [Awesome-Remix](https://github.com/re50urces/Awesome-Remix) - Curated List Awesome Remix Resources.
 - [awesome-node](https://github.com/shaikh-shahid/awesome-node) - Best Node.js tools, libraries, frameworks and resources.
 - [fucking-awesome-angular](https://github.com/correia-jpv/fucking-awesome-angular) - 📄 A curated list of awesome Angular resources. With repository stars⭐ and forks🍴.
+- [awesome-shadcn-ui](https://github.com/xiaomingx/awesome-shadcn-ui) - Shadcn ui相关的项目清单.
 - [awesome-github-wechat-app](https://github.com/xn2113/awesome-github-wechat-app) - 微信小程序开源项目汇总.
 - [awesome-react](https://github.com/acrool/awesome-react) - A collection of awesome things regarding React ecosystem.
-- [awesome-shadcn-ui](https://github.com/xiaomingx/awesome-shadcn-ui) - Shadcn ui相关的项目清单.
 - [fucking-awesome-eslint](https://github.com/correia-jpv/fucking-awesome-eslint) - A list of awesome ESLint plugins, configs, etc. With repository stars⭐ and forks🍴.
 - [fucking-es6-tools](https://github.com/correia-jpv/fucking-es6-tools) - An aggregation of tooling for using ES6 today. With repository stars⭐ and forks🍴.
 - [awesome-angular-components](https://github.com/is2ei/awesome-angular-components) - Catalog of Angular 2+ Components & Libraries.
@@ -312,8 +312,8 @@ Last generated: 2025-08-14, 8759 lists.
 - [minecraft-hack-clients](https://github.com/Minecraft-Anarchy/minecraft-hack-clients) - A collection of Minecraft Hack Clients.
 - [aboutfx](https://github.com/mkpaz/aboutfx) - An unofficial GitHub repo that sums up everything about the JavaFX project state on a single page.
 - [awesome-minecraft](https://github.com/LiteDevelopers/awesome-minecraft) - 😎 Awesome Minecraft ⭐ A list of frameworks, libraries and software relating to Minecraft.
-- [awesome-android-ui](https://github.com/vimalcvs/awesome-android-ui) - 😎😍Android libs and UI from GitHub or other websites. android libs from GitHub.
 - [awesome-fabric](https://github.com/Siphalor/awesome-fabric) - A curated list of Fabric libraries and tools - contributions welcome.
+- [awesome-android-ui](https://github.com/vimalcvs/awesome-android-ui) - 😎😍Android libs and UI from GitHub or other websites. android libs from GitHub.
 - [awesome-android](https://github.com/liuguangqiang/awesome-android) - A awesome list of organizations, developers and libraries.
 - [gwt-boot-awesome-lili](https://github.com/gwtboot/gwt-boot-awesome-lili) - Collection of JavaScript Libraries with JsInterop Interfaces and Others - GWT Awesome Library List (Gwit a LiLi).
 - [fucking-awesome-android-ui](https://github.com/correia-jpv/fucking-awesome-android-ui) - A curated list of awesome Android UI/UX libraries. With repository stars⭐ and forks🍴.
@@ -458,10 +458,10 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-time-series](https://github.com/lmmentel/awesome-time-series) - Resources for working with time series and sequence data.
 - [awesome-gpt-security](https://github.com/cckuailong/awesome-gpt-security) - A curated list of awesome security tools, experimental case or other interesting things with LLM or GPT.
 - [awesome-machine-learning-resources](https://github.com/ZhiningLiu1998/awesome-machine-learning-resources) - 😎 A curated list of awesome lists across all machine learning topics. | 机器学习/深度学习/人工智能一切主题 (学习范式/任务/应用/模型/道德/交叉学科/数据集/框架/教程) 的资源列表汇总。.
+- [awesome-frappe](https://github.com/gavindsouza/awesome-frappe) - A curated list of awesome things related to the Frappe Framework.
 - [Awesome-state-space-models](https://github.com/radarFudan/Awesome-state-space-models) - Collection of papers on state-space models.
 - [awesome-taichi](https://github.com/taichi-dev/awesome-taichi) - A curated list of awesome Taichi applications, courses, demos and features.
 - [awesome-bbht](https://github.com/0xapt/awesome-bbht) - A bash script that will automatically install a list of bug hunting tools that I find interesting for recon, exploitation, etc. (minus burp) For Ubuntu/Debain.
-- [awesome-frappe](https://github.com/gavindsouza/awesome-frappe) - A curated list of awesome things related to the Frappe Framework.
 - [awesome-physics](https://github.com/wbierbower/awesome-physics) - 🌌 A collaborative list of awesome software for exploring Physics concepts.
 - [awesome-scrapy](https://github.com/AccordBox/awesome-scrapy) - A curated list of awesome packages, articles, and other cool resources from the Scrapy community.
 - [awesome-tensorflow-2](https://github.com/Amin-Tgz/awesome-tensorflow-2) - 👉 Tensorflow 2.x resources such as tutorial, blog, code and videos.
@@ -523,11 +523,11 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-python-html](https://github.com/hasansezertasan/awesome-python-html) - A curated list of things related to python-based HTML generation.
 - [awesome-bittensor](https://github.com/learnbittensor/awesome-bittensor) - A extensive list of all the awesome things around Bittensor.
 - [awesome-agents](https://github.com/vince-lam/awesome-agents) - Compare open-source LLM agentic projects by their metrics to assess popularity and activeness.
+- [awesome-jax](https://github.com/lockwo/awesome-jax) - Curated list of JAX Resources and Packages.
 - [awesome-scientific-image-analysis](https://github.com/epfl-center-for-imaging/awesome-scientific-image-analysis) - A curated list of scientific image analysis resources and software tools.
 - [stars](https://github.com/ju-c/stars) - A curated list of my GitHub stars!.
 - [awesome-ai-agents](https://github.com/nipunaranasinghe/awesome-ai-agents) - A curated list of frameworks, tools, and resources for building and deploying AI agents. From multi-agent systems to autonomous coding assistants, this repository covers the latest advancements in AI agent technology. Perfect for developers, researchers, and AI enthusiasts exploring the future of autonomous systems.
 - [Awesome-Local-LLM](https://github.com/WaterPistolAI/Awesome-Local-LLM) - A curated list of resources, libraries, tools, and communities for working with Local Large Language Models (LLMs).
-- [awesome-jax](https://github.com/lockwo/awesome-jax) - Curated list of JAX Resources and Packages.
 - [awesome-genai](https://github.com/onebirdrocks/awesome-genai) - A curated collection of resources, tools, frameworks, and information related to Generative AI.
 - [awesome-ai-robotics](https://github.com/tc-huang/awesome-ai-robotics) - A list of awesome AI Robotics resources.
 - [awesome-quant](https://github.com/xiaomingx/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance).
@@ -616,8 +616,8 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-onset](https://github.com/alexandregv/awesome-onset) - A collection of awesome Onset packages, assets, tools, guides, and more. 
 - [awesome-yazi](https://github.com/sachinsenal0x64/awesome-yazi) - 🦆 Awesome lists about Yazi file manager.
 - [awesome-solar2d](https://github.com/sekodev/awesome-solar2d) - A collection of awesome Solar2D resources.
-- [awesome-luau](https://github.com/seaofvoices/awesome-luau) - A handpicked list of quality Luau packages, hosted on npm.
 - [awesome-react-lua](https://github.com/yetanotherclown/awesome-react-lua) - Awesome things for React-lua.
+- [awesome-luau](https://github.com/seaofvoices/awesome-luau) - A handpicked list of quality Luau packages, hosted on npm.
 - [awesome-neovim-sorted](https://github.com/jupblb/awesome-neovim-sorted) - Awesome-neovim sorted by stars.
 
 ### Elixir Lists
@@ -705,6 +705,7 @@ Last generated: 2025-08-14, 8759 lists.
 
 ### Nix Lists
 - [awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox].
+- [best-of-nix](https://github.com/tolkonepiu/best-of-nix) - 🏆  A ranked list of the best resources in the Nix community. Updated weekly.
 
 ### Dart Lists
 - [open-source-flutter-apps](https://github.com/tortuvshin/open-source-flutter-apps) - :iphone: List of open source Flutter applications :octocat:.
@@ -716,6 +717,10 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-crystal](https://github.com/veelenga/awesome-crystal) - :gem: A collection of awesome Crystal libraries, tools, frameworks and software.
 - [awesome-crystal](https://github.com/sara0871/awesome-crystal) - Https://GitHub.com/veelenga/awesome-crystal.
 - [awesome-crystal](https://github.com/eric-erki/awesome-crystal) - A collection of awesome Crystal libraries, tools, frameworks and software .
+
+### Typst Lists
+- [awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links.
+- [awesome-typst-cn](https://github.com/typst-cn/awesome-typst-cn) - Awesome Typst 列表中文版.
 
 ### Ruby Lists
 - [awesome-rails-gem](https://github.com/hothero/awesome-rails-gem) - A collection of awesome Ruby Gems for Rails development.
@@ -737,17 +742,13 @@ Last generated: 2025-08-14, 8759 lists.
 - [my-awesome-rails-gem](https://github.com/apradillap/my-awesome-rails-gem) - My collection of awesome Ruby Gems for Rails development.
 - [awesome-ruby](https://github.com/eric-erki/awesome-ruby) - A collection of awesome Ruby libraries, tools, frameworks and software .
 
-### Typst Lists
-- [awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links.
-- [awesome-typst-cn](https://github.com/typst-cn/awesome-typst-cn) - Awesome Typst 列表中文版.
-
 ### C++ Lists
 - [awesome-game-security](https://github.com/gmh5225/awesome-game-security) - Awesome game security [Welcome to PR].
 - [AwesomeCppGameDev](https://github.com/Caerind/AwesomeCppGameDev) - A curated list of awesome C++ (mainly) things for Game Development. Inspired by awesome-. stuff. .
 - [awesome-unreal](https://github.com/insthync/awesome-unreal) - A categorized collection of awesome opensource Unreal Engine 4 and 5 repos.
 - [awesome-juce](https://github.com/sudara/awesome-juce) - A curated list of JUCE modules, templates, plugins, oh my!.
-- [Awesome-SLAM](https://github.com/SilenceOverflow/Awesome-SLAM) - A curated list of SLAM resources.
 - [awesome-game-remakes](https://github.com/radek-sprta/awesome-game-remakes) - Actively maintained open-source game remakes.
+- [Awesome-SLAM](https://github.com/SilenceOverflow/Awesome-SLAM) - A curated list of SLAM resources.
 - [awesome-ncnn](https://github.com/zchrissirhcz/awesome-ncnn) - 😎  A Collection of Awesome NCNN-based Projects.
 - [Awesome-arduino](https://github.com/Lembed/Awesome-arduino) - A curated list of awesome Arduino hardwares, libraries and softwares with update script.
 - [awesome_unreal_engine_4_-_5](https://github.com/aiekick/awesome_unreal_engine_4_-_5) - UE4/UE5 Ressources Collection (Plugins, Effects, Doc, Tools, etc.).
@@ -962,11 +963,11 @@ Last generated: 2025-08-14, 8759 lists.
 - [Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.
 - [awesome-programming-books](https://github.com/jobbole/awesome-programming-books) - 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等.
 - [awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL.
-- [awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources.
-- [awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流.
 - [magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
-- [awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS.
+- [awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources.
 - [awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources.
+- [awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流.
+- [awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS.
 - [static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 - [awesome-ruby](https://github.com/markets/awesome-ruby) - 💎 A collection of awesome Ruby libraries, tools, frameworks and software.
 - [awesome-bigdata](https://github.com/oxnr/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
@@ -977,14 +978,14 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites.
 - [awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 - [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming) - :gem: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources.
-- [awesome-laravel](https://github.com/chiraggude/awesome-laravel) - A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem.
 - [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) - Defund the Police.
+- [awesome-laravel](https://github.com/chiraggude/awesome-laravel) - A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem.
+- [Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) -  :books: Find your next book to read!.
+- [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts.
 - [awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
-- [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp) - A collection of resources on modern C++.
 - [jstips](https://github.com/loverajoel/jstips) - This is about useful JS tips!.
-- [Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) -  :books: Find your next book to read!.
 - [awesome-redux](https://github.com/xgrommx/awesome-redux) - Awesome list of Redux examples and middlewares.
 - [awesome-nestjs](https://github.com/nestjs/awesome-nestjs) - A curated list of awesome things related to NestJS 😎.
 - [awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - 🐶 A curated list of Web Security materials and resources.
@@ -1001,23 +1002,23 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources.
 - [awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications) .
 - [awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) - :metal: awesome-semantic-segmentation.
-- [awesome-cpp-cn](https://github.com/jobbole/awesome-cpp-cn) - C++ 资源大全中文版，标准库、Web应用框架、人工智能、数据库、图片处理、机器学习、日志、代码分析等。由「开源前哨」和「CPP开发者」微信公号团队维护更新。.
 - [awesome-ctf](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and softwares.
+- [awesome-cpp-cn](https://github.com/jobbole/awesome-cpp-cn) - C++ 资源大全中文版，标准库、Web应用框架、人工智能、数据库、图片处理、机器学习、日志、代码分析等。由「开源前哨」和「CPP开发者」微信公号团队维护更新。.
 - [awesome-system-design](https://github.com/madd86/awesome-system-design) - A curated list of awesome System Design (A.K.A. Distributed Systems) resources. .
-- [software-architecture-books](https://github.com/mhadidg/software-architecture-books) - A comprehensive list of books on Software Architecture.
+- [awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces.
 - [awesome-indie](https://github.com/mezod/awesome-indie) - Resources for independent developers to make money.
+- [software-architecture-books](https://github.com/mhadidg/software-architecture-books) - A comprehensive list of books on Software Architecture.
 - [DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! .
 - [awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 - [awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals.
-- [awesome-math](https://github.com/rossant/awesome-math) - A curated list of awesome mathematics resources.
 - [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
+- [awesome-math](https://github.com/rossant/awesome-math) - A curated list of awesome mathematics resources.
 - [be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer) - 成为专业程序员路上用到的各种优秀资料、神器及框架.
 - [spark-joy](https://github.com/swyxio/spark-joy) - ✨😂 2000+ ways to add design flair, user delight, and whimsy to your product.
 - [awesome-architecture](https://github.com/toutiaoio/awesome-architecture) - 架构师技术图谱，助你早日成为架构师.
-- [awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces.
+- [awesome-honeypots](https://github.com/paralax/awesome-honeypots) - An awesome list of honeypot resources.
 - [awesome-compilers](https://github.com/aalhour/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes.
 - [awesome-wasm](https://github.com/mbasso/awesome-wasm) - 😎 Curated list of awesome things regarding the WebAssembly (wasm) ecosystem.
-- [awesome-honeypots](https://github.com/paralax/awesome-honeypots) - An awesome list of honeypot resources.
 - [awesome-rl](https://github.com/aikorea/awesome-rl) - Reinforcement learning resources curated.
 - [awesome-blazor](https://github.com/AdrienTorris/awesome-blazor) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 - [awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services.
@@ -1029,10 +1030,10 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-iptv](https://github.com/iptv-org/awesome-iptv) - A curated list of resources related to IPTV.
 - [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) - :pencil: A curated list of Web Performance Optimization. Everyone can contribute here!.
 - [awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas) - Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas.
+- [awesome-incident-response](https://github.com/meirwah/awesome-incident-response) - A curated list of tools for incident response.
 - [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3.
 - [ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications.
 - [awesome-privacy](https://github.com/lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services.
-- [awesome-incident-response](https://github.com/meirwah/awesome-incident-response) - A curated list of tools for incident response.
 - [MultiplayerNetworkingResources](https://github.com/0xFA11/MultiplayerNetworkingResources) - A curated list of Multiplayer Game Network Programming Resources.
 - [awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) - A curated list of useful resources for gRPC.
 - [awesome-chinese-nlp](https://github.com/crownpku/awesome-chinese-nlp) - A curated list of resources for Chinese NLP 中文自然语言处理相关资料.
@@ -1073,13 +1074,13 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-machine-learning-on-source-code](https://github.com/src-d/awesome-machine-learning-on-source-code) - Cool links & research papers related to Machine Learning applied to source code (MLonCode).
 - [Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 - [awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
+- [awesome-roadmaps](https://github.com/liuchong/awesome-roadmaps) - A curated list of roadmaps.
 - [awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) - A curated list of cryptography resources and links.
 - [awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning) - A curated list of awesome self-supervised methods.
 - [awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) - A curated list of Chaos Engineering resources.
 - [awesome-LLMs-In-China](https://github.com/wgwang/awesome-LLMs-In-China) - 中国大模型.
 - [awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
 - [awesome-R](https://github.com/qinwf/awesome-R) - A curated list of awesome R packages, frameworks and software.
-- [awesome-roadmaps](https://github.com/liuchong/awesome-roadmaps) - A curated list of roadmaps.
 - [awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources.
 - [awesome-rnn](https://github.com/kjw0612/awesome-rnn) - Recurrent Neural Network - A curated list of resources dedicated to RNN.
 - [Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) - A curated list of GPT agents for cybersecurity.
@@ -1094,13 +1095,13 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-blender](https://github.com/agmmnn/awesome-blender) - 🪐 A curated list of awesome Blender addons, tools, tutorials; and 3D resources for everyone.
 - [awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI.
 - [awesome-LLM-resources](https://github.com/WangRongsheng/awesome-LLM-resources) - 🧑‍🚀 全世界最好的LLM资料总结（语音视频生成、Agent、辅助编程、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） | Summary of the world's best LLM resources. .
-- [awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - A curated list of awesome Monorepo tools, software and architectures.
-- [awesome-zero-knowledge-proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs) - A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).
 - [awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) - A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
+- [awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - A curated list of awesome Monorepo tools, software and architectures.
+- [awesome-javascript-learning](https://github.com/micromata/awesome-javascript-learning) - A tiny list limited to the best JavaScript Learning Resources.
+- [awesome-zero-knowledge-proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs) - A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).
 - [awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources) - 🔥 Awesome list of resources on Web Development.
 - [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) - A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Development like root cause analysis.
 - [awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries) - This is an alphabetical list of libraries for Android development, the majority being actively maintained.
-- [awesome-javascript-learning](https://github.com/micromata/awesome-javascript-learning) - A tiny list limited to the best JavaScript Learning Resources.
 - [awesome-nodejs-projects](https://github.com/sqreen/awesome-nodejs-projects) - Curated list of awesome open-source applications made with Node.js.
 - [awesome-infosec](https://github.com/onlurking/awesome-infosec) -  A curated list of awesome infosec courses and training resources.
 - [awesome](https://github.com/nuxt/awesome) - A curated list of awesome things related to Nuxt.js.
@@ -1128,14 +1129,14 @@ Last generated: 2025-08-14, 8759 lists.
 - [Awesome-RxJava](https://github.com/uknownothingsnow/Awesome-RxJava) - RxJava resources.
 - [awesome-asyncio](https://github.com/timofurrer/awesome-asyncio) - A curated list of awesome Python asyncio frameworks, libraries, software and resources.
 - [awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
+- [awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam) - :computer:🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
 - [awesome-reverse-engineering](https://github.com/alphaSeclab/awesome-reverse-engineering) - Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT) And Every Aspect! (More than 3500 open source tools and 2300 posts&videos).
 - [awesome-pwa](https://github.com/hemanth/awesome-pwa) - Awesome list of progressive web apps!.
 - [Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc .
 - [awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs.
-- [awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam) - :computer:🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
+- [awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT.
 - [awesome-ebpf](https://github.com/zoidyzoidzoid/awesome-ebpf) - A curated list of awesome projects related to eBPF.
 - [awesome-Face_Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition) - Papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Deblurring; Face Generation && Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval;.
-- [awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT.
 - [awesome-quant](https://github.com/thuquant/awesome-quant) - 中国的Quant相关资源索引.
 - [awesome-code-review](https://github.com/joho/awesome-code-review) - An "Awesome" list of code review resources - articles, papers, tools, etc.
 - [awesome-mlops](https://github.com/kelvins/awesome-mlops) - :sunglasses: A curated list of awesome MLOps tools.
@@ -1177,6 +1178,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons) - ⚔️ Web Hacker's Weapons / A collection of cool tools used by Web hackers. Happy hacking , Happy bug-hunting.
 - [awesome-analytics](https://github.com/oxnr/awesome-analytics) - A curated list of analytics frameworks, software and other tools.
 - [awesome-dataviz](https://github.com/hal9ai/awesome-dataviz) - :chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.
+- [awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!.
 - [awesome-RLHF](https://github.com/opendilab/awesome-RLHF) - A curated list of reinforcement learning with human feedback resources (continually updated).
 - [awesome-coins](https://github.com/Zheaoli/awesome-coins) - ₿ A guide (for humans!) to cryto-currencies and their algos.
 - [awesome-typescript](https://github.com/semlinker/awesome-typescript) - A collection of awesome TypeScript resources for client-side and server-side development.
@@ -1205,11 +1207,11 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-hyprland](https://github.com/hyprland-community/awesome-hyprland) - Awesome list for Hyprland [maintainer=@yavko].
 - [awesome-stacks](https://github.com/stackshareio/awesome-stacks) - A curated list of tech stacks for building different applications & features.
 - [services-engineering](https://github.com/mmcgrana/services-engineering) - A reading list for services engineering, with a focus on cloud infrastructure services.
+- [awesome-css-learning](https://github.com/micromata/awesome-css-learning) - A tiny list limited to the best CSS Learning Resources.
 - [awesome-elm](https://github.com/sporto/awesome-elm) - A curated list of useful Elm tutorials, libraries and software. Inspired by awesome list. Feel free to contribute. :rocket:.
 - [nginx-resources](https://github.com/fcambus/nginx-resources) - A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine.
 - [awesome-minimalist](https://github.com/neiesc/awesome-minimalist) - A curated list of awesome minimalist frameworks (simple and lightweight).
 - [Awesome-JavaScript-Interviews](https://github.com/rohan-paul/Awesome-JavaScript-Interviews) - Popular JavaScript / React / Node / Mongo stack Interview questions and their answers. Many of them, I faced in actual interviews and ultimately got my first full-stack Dev job :) .
-- [awesome-css-learning](https://github.com/micromata/awesome-css-learning) - A tiny list limited to the best CSS Learning Resources.
 - [awesome-flutter-cn](https://github.com/crazycodeboy/awesome-flutter-cn) - 一个很棒的Flutter学习资源，官方教程，插件，工具，文章，App，视频教程等的资源列表.
 - [awesome-ricing](https://github.com/fosslife/awesome-ricing) - A curated list of awesome tools and technology to help you out with ricing on linux.
 - [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) - A curated list of awesome Bioinformatics libraries and software.
@@ -1237,6 +1239,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health) - A curated list of awesome articles, websites and resources about mental health in the software industry.
 - [awesome-coding-js](https://github.com/ConardLi/awesome-coding-js) - Algorithms and data structures implemented in JavaScript, with detailed explanations and tutorials.
 - [awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies.
+- [Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs) - Curated list of awesome GPTs 👍.
 - [AwesomeJavaFX](https://github.com/mhrimaz/AwesomeJavaFX) - A curated list of awesome JavaFX libraries, books, frameworks, etc.
 - [awesome-frida](https://github.com/dweinstein/awesome-frida) - Awesome Frida - A curated list of Frida resources  (
 - [awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security) - An effort to build a single place for all useful android and iOS security related stuff. All references and tools belong to their respective owners. I'm just maintaining it.
@@ -1244,19 +1247,17 @@ Last generated: 2025-08-14, 8759 lists.
 - [pycrumbs](https://github.com/kirang89/pycrumbs) - Bits and bytes of Python from the Internet.
 - [awesome-dot-net-performance](https://github.com/adamsitnik/awesome-dot-net-performance) - A curated list of awesome .NET Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors. Inspired by awesome-. stuff.
 - [awesome-web-components](https://github.com/web-padawan/awesome-web-components) - A curated list of awesome Web Components resources.
-- [Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs) - Curated list of awesome GPTs 👍.
 - [offline-first](https://github.com/pazguille/offline-first) - :electric_plug: Everything you need to know to create offline-first web apps.
 - [awesome-IntelliJ-IDEA](https://github.com/xiaoxiunique/awesome-IntelliJ-IDEA) - 收集一些 Intellij IDEA 的一些技巧.
 - [awesome-ai-devtools](https://github.com/jamesmurdza/awesome-ai-devtools) - Curated list of AI-powered developer tools.
 - [awesome-hand-pose-estimation](https://github.com/xinghaochen/awesome-hand-pose-estimation) - Awesome work on hand pose estimation/tracking.
 - [awesome-mcp-zh](https://github.com/yzfly/awesome-mcp-zh) - MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients.
 - [awesome-xcode-extensions](https://github.com/theswiftdev/awesome-xcode-extensions) - Awesome native Xcode extensions.
+- [awesome-causality-algorithms](https://github.com/rguo12/awesome-causality-algorithms) - An index of algorithms for learning causality with data.
 - [awesome-ai-residency](https://github.com/dangkhoasdc/awesome-ai-residency) - List of AI Residency Programs.
-- [awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!.
 - [awesome-oscp](https://github.com/0x4D31/awesome-oscp) - A curated list of awesome OSCP resources.
 - [awesome-haskell](https://github.com/krispo/awesome-haskell) - A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.
 - [awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) - A collection of awesome resources related to the yearly Advent of Code challenge.
-- [awesome-causality-algorithms](https://github.com/rguo12/awesome-causality-algorithms) - An index of algorithms for learning causality with data.
 - [awesome-devops](https://github.com/wmariuss/awesome-devops) - A curated list of awesome DevOps platforms, tools, practices and resources.
 - [awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker) - 🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.
 - [awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities) - A curated list of awesome Discord communities for programmers.
@@ -1268,8 +1269,8 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-design-cn](https://github.com/jobbole/awesome-design-cn) - 设计师资源大全，包含：ICON图标、Logo设计、PhotoShop插件、交互设计工具、流程图、线框图/原型图、设计博客等.
 - [awesome-ocr](https://github.com/kba/awesome-ocr) - Links to awesome OCR projects.
 - [favorite-link](https://github.com/guanguans/favorite-link) - ❤️ 每天收集喜欢的开源项目。.
-- [Awesome-Text2SQL](https://github.com/eosphoros-ai/Awesome-Text2SQL) - Curated tutorials and resources for Large Language Models, Text2SQL,  Text2DSL、Text2API、Text2Vis and more.
 - [awesome-lane-detection](https://github.com/amusi/awesome-lane-detection) - A paper list of lane detection.
+- [Awesome-Text2SQL](https://github.com/eosphoros-ai/Awesome-Text2SQL) - Curated tutorials and resources for Large Language Models, Text2SQL,  Text2DSL、Text2API、Text2Vis and more.
 - [awesome-learn-gamedev](https://github.com/dawdle-deer/awesome-learn-gamedev) - A curated collection of game development learning resources.
 - [awesome-katas](https://github.com/gamontal/awesome-katas) - A curated list of code katas.
 - [awesome-awesome](https://github.com/emijrp/awesome-awesome) - A curated list of awesome curated lists of many topics.
@@ -1302,6 +1303,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-mlss](https://github.com/awesome-mlss/awesome-mlss) - 🤖 Machine Learning Summer School Guide.
 - [awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security) - Awesome Node.js Security resources.
 - [awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) - Awesome MCP Servers - A curated list of Model Context Protocol servers.
+- [awesome-PICO-8](https://github.com/pico-8/awesome-PICO-8) - A curated list of awesome PICO-8 resources, carts, tools and more.
 - [awesome-mysql-cn](https://github.com/jobbole/awesome-mysql-cn) - MySQL 资源大全中文版，分析工具、备份、性能测试、配置、部署、GUI 等.
 - [awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science) - Probably the best curated list of data science software in Python.
 - [awesome-api](https://github.com/Kikobeats/awesome-api) - A curated list of awesome resources for design and implement RESTful API's.
@@ -1309,7 +1311,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [Awesome-AI](https://github.com/runningcheese/Awesome-AI) - Awesome AI，你的《人工智能指南》！.
 - [awesome-computer-history](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore.
 - [awesome-ethical-hacking-resources](https://github.com/husnainfareed/awesome-ethical-hacking-resources) - 😎 🔗 Awesome list about all kinds of resources for learning Ethical Hacking and Penetration Testing.
-- [awesome-PICO-8](https://github.com/pico-8/awesome-PICO-8) - A curated list of awesome PICO-8 resources, carts, tools and more.
 - [awesome-cl](https://github.com/CodyReichert/awesome-cl) - A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.
 - [awesome-AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey) - A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.
 - [awesome-clojure](https://github.com/razum2um/awesome-clojure) - A curated list of awesome Clojure libraries and resources. Inspired by awesome-. stuff.
@@ -1327,9 +1328,9 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome_gpt_super_prompting](https://github.com/cyberalbsecop/awesome_gpt_super_prompting) - ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning.
 - [awesome-english](https://github.com/yvoronoy/awesome-english) - A collection of awesome study resources for learners of English.
 - [awesome-html5](https://github.com/diegocard/awesome-html5) - :memo: A curated list of awesome HTML5 resources.
+- [awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
 - [open-source-jobs](https://github.com/t9tio/open-source-jobs) - A list of Open Source projects offering jobs.
 - [Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources) - A list of resources in different fields of Computer Science.
-- [awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
 - [awesome-tensor-compilers](https://github.com/merrymercy/awesome-tensor-compilers) - A list of awesome compiler projects and papers for tensor computation and deep learning.
 - [awesome-network-embedding](https://github.com/chihming/awesome-network-embedding) - A curated list of network embedding techniques.
 - [awesome-git](https://github.com/dictcp/awesome-git) - A curated list of amazingly awesome Git tools, resources and shiny things.
@@ -1339,6 +1340,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-repos](https://github.com/pawelborkar/awesome-repos) - A curated list of GitHub Repositories full of FREE Resources.
 - [awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT and OpenAI API.
 - [awesome-mongodb](https://github.com/ramnes/awesome-mongodb) - :leaves: A curated list of awesome MongoDB resources, libraries, tools and applications.
+- [awesome-industrial-anomaly-detection](https://github.com/M-3LAB/awesome-industrial-anomaly-detection) - Paper list and datasets for industrial image anomaly/defect detection (updating). 工业异常/瑕疵检测论文及数据集检索库(持续更新)。.
 - [awesome-emails](https://github.com/jonathandion/awesome-emails) - ✉️ An awesome list of resources to build better emails.
 - [awesome-logseq](https://github.com/logseq/awesome-logseq) - Awesome Logseq resources created by the community <3.
 - [best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
@@ -1355,8 +1357,8 @@ Last generated: 2025-08-14, 8759 lists.
 - [learning-oop-in-php](https://github.com/marcelgsantos/learning-oop-in-php) - A collection of resources to learn object-oriented programming and related concepts for PHP developers.
 - [Awesome-Domain-LLM](https://github.com/luban-agi/Awesome-Domain-LLM) - 收集和梳理垂直领域的开源模型、数据集及评测基准。.
 - [awesome-italia-remote](https://github.com/italiaremote/awesome-italia-remote) - A list of remote-friendly or full-remote companies that targets Italian talents.
-- [awesome-sushi](https://github.com/738/awesome-sushi) - 🍣 국내 스시 오마카세 맛집 리스트.
 - [awesome-seo](https://github.com/bmpi-dev/awesome-seo) - Google SEO Research and Web Traffic Monetization.
+- [awesome-sushi](https://github.com/738/awesome-sushi) - 🍣 국내 스시 오마카세 맛집 리스트.
 - [awesome-docsify](https://github.com/docsifyjs/awesome-docsify) - 💖 A curated list of awesome things related to docsify.
 - [awesome-vector-tiles](https://github.com/mapbox/awesome-vector-tiles) - Awesome implementations of the Mapbox Vector Tile specification.
 - [awesome-mysql](https://github.com/shlomi-noach/awesome-mysql) - A curated list of awesome MySQL software, libraries, tools and resources.
@@ -1380,7 +1382,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-research](https://github.com/emptymalei/awesome-research) - :seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is deprecated. Instead, I maintain all the contents using the following website].
 - [awesome-engineering-management](https://github.com/engineering-management/awesome-engineering-management) - Pointers and tools for learning and day-to-day practice of engineering management & leadership.
 - [awesome-gan-for-medical-imaging](https://github.com/xinario/awesome-gan-for-medical-imaging) - Awesome GAN for Medical Imaging.
-- [awesome-industrial-anomaly-detection](https://github.com/M-3LAB/awesome-industrial-anomaly-detection) - Paper list and datasets for industrial image anomaly/defect detection (updating). 工业异常/瑕疵检测论文及数据集检索库(持续更新)。.
 - [awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
 - [awesome-eventstorming](https://github.com/mariuszgil/awesome-eventstorming) - Awesome EventStorming.
 - [awesome-regression-testing](https://github.com/mojoaxel/awesome-regression-testing) - 🕶️ A curated list of resources around the topic: visual regression testing.
@@ -1392,8 +1393,8 @@ Last generated: 2025-08-14, 8759 lists.
 - [frontend-development](https://github.com/codingknite/frontend-development) - A curated list of resources for Frontend  development.
 - [awesome-autonomous-vehicles](https://github.com/manfreddiaz/awesome-autonomous-vehicles) - Curated List of Self-Driving Cars and Autonomous Vehicles Resources.
 - [awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials.
-- [devmap](https://github.com/zualex/devmap) - Карта развития веб-разработчика.
 - [Awesome-Graph-Neural-Networks](https://github.com/TrustAGI-Lab/Awesome-Graph-Neural-Networks) - Paper Lists for Graph Neural Networks.
+- [devmap](https://github.com/zualex/devmap) - Карта развития веб-разработчика.
 - [football_analytics](https://github.com/eddwebster/football_analytics) - 📊⚽  A collection of football analytics projects, data, and analysis by Edd Webster (@eddwebster), including a curated list of publicly available resources published by the football analytics community.
 - [awesome-iot-hacks](https://github.com/nebgnahz/awesome-iot-hacks) - A Collection of Hacks in IoT Space so that we can address them (hopefully).
 - [vim-keybindings-everywhere-the-ultimate-list](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list) - The ultimate list of which programs support Vim-like keybindings natively, or how they can be added with extensions. A collaborative project.
@@ -1421,9 +1422,9 @@ Last generated: 2025-08-14, 8759 lists.
 - [Awesome-Rust-MachineLearning](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning) - This repository is a list of machine learning libraries written in Rust. It's a compilation of GitHub repositories, blogs, books, movies, discussions, papers, etc. 🦀.
 - [awesome-crypto-trading-bots](https://github.com/botcrypto-io/awesome-crypto-trading-bots) - Awesome crypto trading bots.
 - [awesome-htmx](https://github.com/rajasegar/awesome-htmx) - Awesome things about htmx.
+- [awesome-wagtail](https://github.com/springload/awesome-wagtail) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 - [awesome-llm-json](https://github.com/imaurer/awesome-llm-json) - Resource list for generating JSON using LLMs via function calling, tools, CFG. Libraries, Models, Notebooks, etc.
 - [awesome-jvm](https://github.com/deephacks/awesome-jvm) - A curated list of awesome loosely performance related JVM stuff. Inspired by awesome-python.
-- [awesome-wagtail](https://github.com/springload/awesome-wagtail) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 - [awesome-security-weixin-official-accounts](https://github.com/DropsOfZut/awesome-security-weixin-official-accounts) - 网络安全类公众号推荐，欢迎大家推荐.
 - [awesome-opensource-hardware](https://github.com/aolofsson/awesome-opensource-hardware) - List of awesome open source hardware tools, generators, and reusable designs.
 - [awesome-llm-powered-agent](https://github.com/hyp1231/awesome-llm-powered-agent) - Awesome things about LLM-powered agents. Papers / Repos / Blogs / .
@@ -1440,6 +1441,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-papers](https://github.com/huggingface/awesome-papers) - Papers & presentation materials from Hugging Face's internal science day.
 - [awesome-charting](https://github.com/zingchart/awesome-charting) - A curated list of the best charting and dataviz resources that developers may find useful, including the best JavaScript charting libraries.
 - [awesome-windows-kernel-security-development](https://github.com/ExpLife0011/awesome-windows-kernel-security-development) - Windows kernel security development.
+- [awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub.
 - [awesome-space](https://github.com/orbitalindex/awesome-space) - 🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index.
 - [awesome-programming-books](https://github.com/zero-equals-false/awesome-programming-books) - 📚 A curated list of awesome programming books (Algorithms and data structures, Artificial intelligence, Software Architecture, Human–computer interaction, Operating Systems, Database Systems, IT Security, Concurrency, Interpreters and Compilers, High-Performance Computing, Distributed Systems, Game Development, Mathematical optimization).
 - [fucking-awesome-python](https://github.com/trananhkma/fucking-awesome-python) - Awesome-python with :octocat: :star: and :fork_and_knife:.
@@ -1450,7 +1452,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-bookmarks](https://github.com/PanJiaChen/awesome-bookmarks) - :sparkling_heart: A curated list of awesome things .
 - [awesome-games-of-coding](https://github.com/michelpereira/awesome-games-of-coding) - A curated list of games that can teach you how to learn a programming language.
 - [awesome-rat](https://github.com/alphaSeclab/awesome-rat) - RAT And C&C Resources. 250+ Open Source Projects, 1200+ RAT/C&C blog/video.
-- [awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub.
 - [awesome-free-software](https://github.com/johnjago/awesome-free-software) - Curated list of open-source, free as in freedom software.
 - [LLM4Rec-Awesome-Papers](https://github.com/WLiK/LLM4Rec-Awesome-Papers) - A list of awesome papers and resources of recommender system on large language model (LLM).
 - [awesome-iam](https://github.com/kdeldycke/awesome-iam) - 👤 Identity and Access Management knowledge for cloud platforms.
@@ -1471,8 +1472,8 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-quarto](https://github.com/mcanouil/awesome-quarto) - A curated list of Quarto talks, tools, examples & articles! Contributions welcome!.
 - [awesome-electron-alternatives](https://github.com/sudhakar3697/awesome-electron-alternatives) - A curated list of awesome Electron alternatives.
 - [awesome-linux-containers](https://github.com/Friz-zy/awesome-linux-containers) - A curated list of awesome Linux Containers frameworks, libraries and software.
-- [awesome-os](https://github.com/jubalh/awesome-os) - A list of operating systems and stuff.
 - [awesome-atom](https://github.com/mehcode/awesome-atom) - A curated list of delightful Atom packages and resources.
+- [awesome-os](https://github.com/jubalh/awesome-os) - A list of operating systems and stuff.
 - [awesome-cloud-security](https://github.com/teamssix/awesome-cloud-security) - Awesome cloud security 收集一些国内外不错的云安全资源，该项目主要面向国内的安全人员.
 - [awesome-swiftui](https://github.com/vlondon/awesome-swiftui) - A collaborative list of awesome articles, talks, books, videos and code examples about SwiftUI.
 - [awesome-duckdb](https://github.com/davidgasquez/awesome-duckdb) - 🦆 A curated list of awesome DuckDB resources.
@@ -1487,10 +1488,10 @@ Last generated: 2025-08-14, 8759 lists.
 - [google-apps-script-awesome-list](https://github.com/oshliaer/google-apps-script-awesome-list) - The usual list of links to interesting resources for Google Apps Script.
 - [awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files.
 - [awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) - List of datasets, codes, and contests related to remote sensing change detection.
+- [awesome-virtualization](https://github.com/Wenzel/awesome-virtualization) - Collection of resources about Virtualization.
 - [awesome-jax](https://github.com/n2cholas/awesome-jax) - JAX - A curated list of resources 
 - [Awesome-LLM-Post-training](https://github.com/mbzuai-oryx/Awesome-LLM-Post-training) - Awesome Reasoning LLM Tutorial/Survey/Guide.
 - [Awesome-independent-tools](https://github.com/yaolifeng0629/Awesome-independent-tools) - 独立开发者工具站（Awesome Independent developer  tools）.
-- [awesome-virtualization](https://github.com/Wenzel/awesome-virtualization) - Collection of resources about Virtualization.
 - [awesome-bert](https://github.com/Jiakui/awesome-bert) - Bert nlp papers, applications and  GitHub resources, including the newst xlnet  ， BERT、XLNet 相关论文和 GitHub 项目.
 - [web3](https://github.com/life-itself/web3) - Making sense of web3 & crypto. Introduction to key concepts and ideas. Rigorous, constructive analysis of key claims pro and con. A look at the deeper hopes and aspirations.
 - [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) - A curated list of awesome adversarial machine learning resources.
@@ -1499,6 +1500,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [quasar-awesome](https://github.com/quasarframework/quasar-awesome) - 🎉 A list of awesome things related to Quasar.
 - [awesome-android-learning-resources](https://github.com/androiddevnotes/awesome-android-learning-resources) - 👓 A curated list of awesome android learning resources for android app developers. .
 - [awesome-keycloak](https://github.com/thomasdarimont/awesome-keycloak) - A curated list of resources for learning about 
+- [awesome-speaking](https://github.com/matteofigus/awesome-speaking) - Resources about public speaking.
 - [awesome-php-cn](https://github.com/jobbole/awesome-php-cn) - PHP资源大全中文版，库、框架、模板、安全、代码分析、日志、第三方库、配置工具、Web 工具等.
 - [awesome-slam-datasets](https://github.com/youngguncho/awesome-slam-datasets) - A curated list of awesome datasets for SLAM.
 - [react-native-awesome](https://github.com/crazycodeboy/react-native-awesome) - React Native 学习资源精选仓库(汇聚知识，分享精华)汇集了各类react-native学习资料、工具、组件、开源App、资源下载、以及相关新闻等，只求精不求全。.
@@ -1520,15 +1522,16 @@ Last generated: 2025-08-14, 8759 lists.
 - [programming-math-science](https://github.com/bobeff/programming-math-science) - This is a list of links to different freely available learning resources about computer programming, math, and science.
 - [Awesome-Diffusion-Models-in-Medical-Imaging](https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging) - Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal).
 - [Awesome-pytorch-list-CNVersion](https://github.com/xavier-zy/Awesome-pytorch-list-CNVersion) - Awesome-pytorch-list 翻译工作进行中.
+- [awesome-diarization](https://github.com/wq2012/awesome-diarization) - A curated list of awesome Speaker Diarization papers, libraries, datasets, and other resources.
 - [awesome-svelte](https://github.com/TheComputerM/awesome-svelte) - ⚡ A curated list of awesome Svelte resources.
 - [awesome-windows-domain-hardening](https://github.com/PaulSec/awesome-windows-domain-hardening) - A curated list of awesome Security Hardening techniques for Windows.
 - [awesome-dotnet-cn](https://github.com/jobbole/awesome-dotnet-cn) - DotNet 资源大全中文版，内容包括：编译器、压缩、应用框架、应用模板、加密、数据库、反编译、IDE、日志、风格指南等。.
-- [awesome-speaking](https://github.com/matteofigus/awesome-speaking) - Resources about public speaking.
 - [awesome-generative-art](https://github.com/kosmos/awesome-generative-art) - Awesome generative art.
 - [awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis) - A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools.
 - [awesome-resources](https://github.com/shahednasser/awesome-resources) - :sunglasses: List of helpful resources added by the community for the community!.
 - [awesome-diffusion-categorized](https://github.com/wangkai930418/awesome-diffusion-categorized) - Collection of diffusion model papers categorized by their subareas.
 - [awesome-cbir-papers](https://github.com/willard-yuan/awesome-cbir-papers) - 📝Awesome and classical image retrieval papers.
+- [awesome-fonts](https://github.com/brabadu/awesome-fonts) - Curated list of fonts and everything.
 - [awesome-startup](https://github.com/KrishMunot/awesome-startup) - :sunglasses: All the required resources to build your own startup.
 - [knowledge-graphs](https://github.com/shaoxiongji/knowledge-graphs) - A collection of research on knowledge graphs.
 - [awesome-anki](https://github.com/tianshanghong/awesome-anki) - A curated list of awesome Anki add-ons, decks and resources.
@@ -1537,7 +1540,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics) - An awesome curated list of Cryptoeconomic research and learning materials.
 - [awesome-made-by-brazilians](https://github.com/felipefialho/awesome-made-by-brazilians) - 🇧🇷 A collection of amazing open source projects built by brazilian developers.
 - [awesome-deep-learning-resources](https://github.com/guillaume-chevalier/awesome-deep-learning-resources) - Rough list of my favorite deep learning resources, useful for revisiting topics or for reference. I have got through all of the content listed there, carefully. - Guillaume Chevalier.
-- [awesome-diarization](https://github.com/wq2012/awesome-diarization) - A curated list of awesome Speaker Diarization papers, libraries, datasets, and other resources.
 - [Awesome-LLM-3D](https://github.com/ActiveVisionLab/Awesome-LLM-3D) - Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world  Resources.
 - [awesome-digital-human](https://github.com/weihaox/awesome-digital-human) - Digital Human Resource: 2D/3D/4D Human Modeling, Avatar Generation & Animation, Clothed People Digitalization, Virtual Try-On, and Others.
 - [awesome-flipperzero-withModules](https://github.com/RogueMaster/awesome-flipperzero-withModules) - A collection of awesome resources & modules for the Flipper Zero device. Best used with Rogue Master Flipper Zero Custom Firmware.
@@ -1560,7 +1562,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-animation](https://github.com/Animatious/awesome-animation) - :octocat: A great list of open sourced UI Motion Library produced by Animatious Group.
 - [awesome-libgen](https://github.com/freereadorg/awesome-libgen) - 😎 Awesome list of Library Genesis, the world's largest free library.
 - [awesome-ocr](https://github.com/wanghaisheng/awesome-ocr) -  A curated list of promising OCR resources.
-- [awesome-fonts](https://github.com/brabadu/awesome-fonts) - Curated list of fonts and everything.
 - [awesome-self-supervised-gnn](https://github.com/ChandlerBang/awesome-self-supervised-gnn) - Papers about pretraining and self-supervised learning on Graph Neural Networks (GNN).
 - [Awesome-CloudSec-Labs](https://github.com/iknowjason/Awesome-CloudSec-Labs) - Awesome free cloud native security learning labs.  Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs. .
 - [awesome-webgpu](https://github.com/mikbry/awesome-webgpu) - 😎 Curated list of awesome things around WebGPU ecosystem. .
@@ -1570,19 +1571,20 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-service-workers](https://github.com/TalAter/awesome-service-workers) - :nut_and_bolt: A collection of awesome resources for learning Service Workers.
 - [awesome-frontend](https://github.com/JingwenTian/awesome-frontend) - A curated list of amazingly awesome frontend libraries, resources and shiny things.
 - [awesome-ansible](https://github.com/ansible-community/awesome-ansible) - Awesome Ansible List.
+- [awesome-tikz](https://github.com/xiaohanyu/awesome-tikz) - A curated list of awesome TikZ documentations, libraries and resources.
 - [awesome-engineering-games](https://github.com/arcataroger/awesome-engineering-games) - A curated list of engineering-related video games rated Very Positive or higher on Steam.
 - [awesome-promises](https://github.com/wbinnssmith/awesome-promises) - A curated list of useful resources for JavaScript Promises.
 - [awesome-ggplot2](https://github.com/erikgahner/awesome-ggplot2) - A curated list of awesome ggplot2 tutorials, packages etc.
 - [awesome-markdown-editors](https://github.com/mundimark/awesome-markdown-editors) - A collection of awesome markdown editors & (pre)viewers for Linux, Apple macOS, Microsoft Windows, the World Wide Web & more.
 - [the-engineering-managers-booklist](https://github.com/jesselpalmer/the-engineering-managers-booklist) - Books for people who are or aspire to manage/lead team(s) of software engineers.
 - [Awesome-offer](https://github.com/lietoumai/Awesome-offer) - 关于面试/谈Offer/程序员职场生涯等.
+- [Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling) - 📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥.
 - [awesome-flutter-desktop](https://github.com/leanflutter/awesome-flutter-desktop) - A curated list of awesome things related to Flutter desktop.
 - [awesome-laravel](https://github.com/TimothyDJones/awesome-laravel) - A curated list of delightful Laravel PHP framework packages and resources.
 - [awesome-decentralized-web](https://github.com/gdamdam/awesome-decentralized-web) - An awesome list of decentralized services and technologies.
 - [awesome-AIOps](https://github.com/linjinjin123/awesome-AIOps) - AIOps学习资料汇总，欢迎一起补全这个仓库，欢迎star.
 - [awesome-markdown](https://github.com/mundimark/awesome-markdown) - A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.).
 - [awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts) - A curated list of podcasts we like to listen to. .
-- [awesome-tikz](https://github.com/xiaohanyu/awesome-tikz) - A curated list of awesome TikZ documentations, libraries and resources.
 - [awesome-deep-trading](https://github.com/cbailes/awesome-deep-trading) - List of awesome resources for machine learning-based algorithmic trading.
 - [awesome-knowledge-graph](https://github.com/totogo/awesome-knowledge-graph) - A curated list of Knowledge Graph related learning materials, databases, tools and other resources.
 - [Awesome-LLM-Compression](https://github.com/HuangOwen/Awesome-LLM-Compression) - Awesome LLM compression research papers and tools.
@@ -1591,8 +1593,8 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-flask](https://github.com/mjhea0/awesome-flask) - A curated list of awesome things related to Flask.
 - [awesome-android](https://github.com/LinuxCafeFederation/awesome-android) - A curated list of awesome open source Android applications, tutorials and resources.
 - [awesome-techleads](https://github.com/gabiduarte/awesome-techleads) - Uma lista selecionada de conteúdos sobre liderança técnica, com preferência em conteúdos em português.
-- [awesome-slam](https://github.com/kanster/awesome-slam) - A curated list of awesome SLAM tutorials, projects and communities.
 - [awesome-gitops](https://github.com/weaveworks/awesome-gitops) - A curated list for awesome GitOps resources.
+- [awesome-slam](https://github.com/kanster/awesome-slam) - A curated list of awesome SLAM tutorials, projects and communities.
 - [awesome-python-scientific-audio](https://github.com/faroit/awesome-python-scientific-audio) -  Curated list of python software and packages related to scientific research in audio.
 - [Awesome-UNIX](https://github.com/sirredbeard/Awesome-UNIX) - All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
 - [awesome-open-geoscience](https://github.com/softwareunderground/awesome-open-geoscience) - Curated from repositories that make our lives as geoscientists, hackers and data wranglers easier or just more awesome.
@@ -1623,6 +1625,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-sdn](https://github.com/sdnds-tw/awesome-sdn) - A awesome list about Software Defined Network (SDN).
 - [scalable-css-reading-list](https://github.com/davidtheclark/scalable-css-reading-list) - Collected dispatches from The Quest for Scalable CSS.
 - [awesome-NeRF-and-3DGS-SLAM](https://github.com/3D-Vision-World/awesome-NeRF-and-3DGS-SLAM) - A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites.
+- [awesome-NeRF-and-3DGS-SLAM](https://github.com/DoongLi/awesome-NeRF-and-3DGS-SLAM) - A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites.
 - [awesome-devsecops](https://github.com/JakobTheDev/awesome-devsecops) - Curating the best DevSecOps resources and tooling.
 - [awesome-normalizing-flows](https://github.com/janosh/awesome-normalizing-flows) - Awesome resources on normalizing flows.
 - [awesome-opensource-unity](https://github.com/StefanoCecere/awesome-opensource-unity) - A list of curated opensource Unity packages for future proof Game Developers.
@@ -1650,8 +1653,9 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-dbdev](https://github.com/huachaohuang/awesome-dbdev) - Awesome materials about database development.
 - [awesome-dbt](https://github.com/Hiflylabs/awesome-dbt) - A curated list of awesome dbt resources .
 - [awesome-vector-search](https://github.com/currentslab/awesome-vector-search) - Collections of vector search related libraries, service and research papers.
-- [awesome-opensource-boilerplates](https://github.com/einguterwaran/awesome-opensource-boilerplates) - A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.
 - [Awesome-GPT-Store](https://github.com/Anil-matcha/Awesome-GPT-Store) - Custom GPT Store - A collection of major GPTS available in public.
+- [awesome-opensource-boilerplates](https://github.com/einguterwaran/awesome-opensource-boilerplates) - A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.
+- [awesome-pinescript](https://github.com/pAulseperformance/awesome-pinescript) - A Comprehensive Collection of Everything Related to Tradingview Pine Script. .
 - [awesome-zig](https://github.com/C-BJ/awesome-zig) - 📜Zig Learning Guide & Project Lists.
 - [awesome-echarts](https://github.com/ecomfe/awesome-echarts) - Awesome list of  Apache ECharts.
 - [awesome-reasonml](https://github.com/vramana/awesome-reasonml) - A collection of awesome things regarding Reason/OCaml ecosystem.
@@ -1663,7 +1667,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-AI-books](https://github.com/zslucky/awesome-AI-books) - Some awesome AI related books and pdfs for learning and downloading, also apply some playground models for learning.
 - [awesome-soc](https://github.com/cyb3rxp/awesome-soc) - A collection of sources of documentation, as well as field best practices, to build/run a SOC.
 - [awesome-search](https://github.com/frutik/awesome-search) - Awesome Search - this is all about the (e-commerce, but not only) search and its awesomeness.
-- [awesome-pinescript](https://github.com/pAulseperformance/awesome-pinescript) - A Comprehensive Collection of Everything Related to Tradingview Pine Script. .
 - [Awesome-Ionic](https://github.com/Alexintosh/Awesome-Ionic) - 😎 A curated list of amazingly awesome Ionic libraries, resources and solutions.
 - [awesome-json](https://github.com/burningtree/awesome-json) - A curated list of awesome JSON libraries and resources.
 - [awesome-move](https://github.com/MystenLabs/awesome-move) - Code and content from the Move community.
@@ -1679,7 +1682,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-wordpress](https://github.com/miziomon/awesome-wordpress) - A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things. Inspired by awesome-php. .
 - [Awesome-Deepfakes-Detection](https://github.com/Daisy-Zhang/Awesome-Deepfakes-Detection) - A list of tools, papers and code related to Deepfake Detection.
 - [awesome-document-understanding](https://github.com/tstanislawek/awesome-document-understanding) - A curated list of resources for Document Understanding (DU) topic.
-- [Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling) - 📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥.
 - [Awesome-web3-Security](https://github.com/Anugrahsr/Awesome-web3-Security) - A curated list of web3Security materials and resources For Pentesters and Bug Hunters.
 - [awesome-scientific-computing](https://github.com/nschloe/awesome-scientific-computing) - :sunglasses: Curated list of awesome software for numerical analysis and scientific computing.
 - [awesome-jetpack-compose-learning-resources](https://github.com/androiddevnotes/awesome-jetpack-compose-learning-resources) - 👓 A continuously updated list of learning Jetpack Compose for Android apps.
@@ -1743,17 +1745,17 @@ Last generated: 2025-08-14, 8759 lists.
 - [Awesome-PlayStation-Vita](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita) - List of awesome stuff for PlayStation Vita.
 - [awesome-fsharp](https://github.com/fsprojects/awesome-fsharp) - A curated list of awesome F# frameworks, libraries, software and resources.
 - [awesome-bci](https://github.com/NeuroTechX/awesome-bci) - Curated Collection of BCI resources.
+- [awesome-gpts](https://github.com/taranjeet/awesome-gpts) - Collection of all the GPTs created by the community.
 - [Awesome-LLM4AD](https://github.com/Thinklab-SJTU/Awesome-LLM4AD) - A curated list of awesome LLM/VLM/VLA for Autonomous Driving(LLM4AD) resources (continually updated).
 - [awesome-tensorflow-lite](https://github.com/margaretmz/awesome-tensorflow-lite) - An awesome list of TensorFlow Lite models, samples, tutorials, tools and learning resources.
 - [Unreal-Engine-Guide](https://github.com/mikeroyal/Unreal-Engine-Guide) - Unreal Engine 5 Guide. Learn to develop games for Windows, Linux, macOS, iOS, Android, Xbox Series X|S, PlayStation  5, Nintendo Switch.
+- [awesome-db](https://github.com/numetriclabz/awesome-db) - A curated list of amazingly awesome database libraries, resources and shiny things by 
 - [Awesome-LLM-Synthetic-Data](https://github.com/wasiahmad/Awesome-LLM-Synthetic-Data) - A reading list on LLM based Synthetic Data Generation 🔥.
-- [awesome-gpts](https://github.com/taranjeet/awesome-gpts) - Collection of all the GPTs created by the community.
 - [awesome-llm-interpretability](https://github.com/JShollaj/awesome-llm-interpretability) - A curated list of Large Language Model (LLM) Interpretability resources.
 - [awesome-crdt](https://github.com/alangibson/awesome-crdt) - A collection of awesome CRDT resources.
 - [awesome-text-summarization](https://github.com/icoxfog417/awesome-text-summarization) - The guide to tackle with the Text Summarization.
 - [Awesome-LLMs-Datasets](https://github.com/lmmlzn/Awesome-LLMs-Datasets) - Summarize existing representative LLMs text datasets.
 - [awesome-ops](https://github.com/opsre/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 651 个。.
-- [awesome-db](https://github.com/numetriclabz/awesome-db) - A curated list of amazingly awesome database libraries, resources and shiny things by 
 - [awesome-mecheng](https://github.com/m2n037/awesome-mecheng) - Awesome Mechanical Engineering Resources.
 - [awesome-glsl](https://github.com/vanrez-nez/awesome-glsl) - :sparkler: Compilation of the best resources to learn programming OpenGL Shaders.
 - [awesome-seml](https://github.com/SE-ML/awesome-seml) - A curated list of articles that cover the software engineering best practices for building machine learning applications.
@@ -1817,20 +1819,22 @@ Last generated: 2025-08-14, 8759 lists.
 - [Awesome-GraphRAG](https://github.com/DEEP-PolyU/Awesome-GraphRAG) - Awesome-GraphRAG: A curated list of resources (surveys, papers, benchmarks, and opensource projects) on graph-based retrieval-augmented generation. .
 - [awesome-flame](https://github.com/flame-engine/awesome-flame) - An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.
 - [awesome-gbadev](https://github.com/gbadev-org/awesome-gbadev) - A curated list of Game Boy Advance development resources.
+- [awesome-django-admin](https://github.com/originalankur/awesome-django-admin) - Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, Themes, Videos, Resources.
 - [awesome-attention-mechanism-in-cv](https://github.com/pprp/awesome-attention-mechanism-in-cv) - Awesome List of Attention Modules and Plug&Play Modules in Computer Vision.
 - [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search) - A curated list of awesome architecture search resources.
 - [awesome-playwright](https://github.com/mxschmitt/awesome-playwright) - A curated list of awesome tools, utils and projects using Playwright.
-- [awesome-django-admin](https://github.com/originalankur/awesome-django-admin) - Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, Themes, Videos, Resources.
 - [FOSS-for-Dev](https://github.com/tvvocold/FOSS-for-Dev) - A hub of Free and open-source software for developers.
 - [awesome-hcloud](https://github.com/hetznercloud/awesome-hcloud) - A curated list of awesome libraries, tools, and integrations for Hetzner Cloud.
 - [awesome-model-based-RL](https://github.com/opendilab/awesome-model-based-RL) - A curated list of awesome model based RL resources (continually updated).
 - [awesome-gcp-certifications](https://github.com/ddneves/awesome-gcp-certifications) -  A curated list of resources for learning about Google Cloud Platform certifications and how to prepare for it.
 - [awesome-hacking](https://github.com/shmilylty/awesome-hacking) - Awesome hacking chinese version.
+- [awesome-robotics](https://github.com/ahundt/awesome-robotics) - A curated list of awesome links and software libraries that are useful for robots.
 - [awesome-mad-science](https://github.com/feross/awesome-mad-science) - Delightful npm packages that make you say "wow, didn't know that was possible!".
 - [awesome-datahoarding](https://github.com/simon987/awesome-datahoarding) - List of data-hoarding related tools.
 - [AwesomeAnimeResearch](https://github.com/SerialLain3170/AwesomeAnimeResearch) - Papers, repository and other data about anime or manga research. Please let me know if you have information that the list does not include.
 - [web3-awesome](https://github.com/fltenwall/web3-awesome) - Web3百科全书👏🏻 打造 web3 全球第一中文资源.
 - [awesome-indie-hacker-tools](https://github.com/iAmCorey/awesome-indie-hacker-tools) - 独立开发/出海开发相关技术栈及工具收录 / Find the best tools for indie hackers here.
+- [Awesome-AI-GPTs](https://github.com/EmbraceAGI/Awesome-AI-GPTs) - Awesome AI GPTs, OpenAI GPTs, GPT-4, ChatGPT, GPTs, Prompts, plugins, Prompts leaking.
 - [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code.
 - [awesome_OpenSetRecognition_list](https://github.com/iCGY96/awesome_OpenSetRecognition_list) - A curated list of papers & resources linked to open set recognition, out-of-distribution, open set domain adaptation and open world recognition.
 - [awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) - Awesome examples of SvelteKit in the wild.
@@ -1841,12 +1845,11 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-smart-tv](https://github.com/vitalets/awesome-smart-tv) - :zap:A curated list of awesome resources for building Smart TV apps.
 - [awesome-speech-enhancement](https://github.com/WenzheLiu-Speech/awesome-speech-enhancement) - Speech enhancement\speech seperation\sound source localization.
 - [awesome-mixture-of-experts](https://github.com/XueFuzhao/awesome-mixture-of-experts) - A collection of AWESOME things about mixture-of-experts.
-- [awesome-he](https://github.com/jonaschn/awesome-he) - ✨ Awesome - A curated list of amazing Homomorphic Encryption libraries, software and resources.
 - [awesome-element](https://github.com/ElementUI/awesome-element) - A curated list of Element projects.
+- [awesome-he](https://github.com/jonaschn/awesome-he) - ✨ Awesome - A curated list of amazing Homomorphic Encryption libraries, software and resources.
 - [awesome-3D-generation](https://github.com/justimyhxu/awesome-3D-generation) - A curated list of awesome 3d generation papers.
 - [awesome-MEV-resources](https://github.com/0xalpharush/awesome-MEV-resources) - Get up to speed on Maximum Extractable Value.
 - [awesome-censys-queries](https://github.com/thehappydinoa/awesome-censys-queries) - A collection of fascinating and bizarre Censys Search Queries .
-- [Awesome-AI-GPTs](https://github.com/EmbraceAGI/Awesome-AI-GPTs) - Awesome AI GPTs, OpenAI GPTs, GPT-4, ChatGPT, GPTs, Prompts, plugins, Prompts leaking.
 - [Awesome-LLMs-on-device](https://github.com/NexaAI/Awesome-LLMs-on-device) - Awesome LLMs on Device: A Comprehensive Survey.
 - [dev-resources](https://github.com/marcelscruz/dev-resources) - A collaborative list of resources for developers.
 - [GAN-Inversion](https://github.com/weihaox/GAN-Inversion) - [TPAMI 2022] GAN Inversion: A Survey.
@@ -1863,7 +1866,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [Awesome-Azure-Pentest](https://github.com/Kyuu-Ji/Awesome-Azure-Pentest) - A collection of resources, tools and more for penetration testing and securing Microsofts cloud platform Azure.
 - [awesome-activitypub](https://github.com/BasixKOR/awesome-activitypub) - Awesome list of ActivityPub based projects.
 - [awesome-auth](https://github.com/casbin/awesome-auth) - 📊 Software and Libraries for Authentication & Authorization & SSO & IAM.
-- [awesome-robotics](https://github.com/ahundt/awesome-robotics) - A curated list of awesome links and software libraries that are useful for robots.
 - [awesome-react-headless-components](https://github.com/jxom/awesome-react-headless-components) - Awesome list of React headless components!.
 - [awesome-gametalks](https://github.com/hzoo/awesome-gametalks) - :speech_balloon: A curated list of gaming talks (development, design, etc).
 - [awesome-transformer-nlp](https://github.com/cedrickchee/awesome-transformer-nlp) - A curated list of NLP resources focused on Transformer networks, attention mechanism, GPT, BERT, ChatGPT, LLMs, and transfer learning.
@@ -1892,10 +1894,12 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-grounding](https://github.com/TheShadow29/awesome-grounding) - Awesome grounding: A curated list of research papers in visual grounding.
 - [awesome-toolbox-chinese](https://github.com/bestxtools/awesome-toolbox-chinese) - 🧰 优秀工具箱集合 - 收集，推荐好用、优秀的工具箱。工具箱大全。|  | 
 - [awesome-hacking-locations](https://github.com/daviddias/awesome-hacking-locations) - :computer: :coffee: List of Awesome Hacking Locations, organised by Country and City, listing if it features power and wifi.
+- [awesome-git-hooks](https://github.com/compscilauren/awesome-git-hooks) - :anchor: A curated list of awesome git hooks.
+- [awesome-kotlin-cn](https://github.com/xitu/awesome-kotlin-cn) - Kotlin 资源大全，包括教程文章、开源库和框架、Demo 等，由掘金技术社区整理和维护。.
 - [awesome-3d-diffusion](https://github.com/cwchenwang/awesome-3d-diffusion) - A collection of papers on diffusion models for 3D generation.
 - [awesome-graphics](https://github.com/ericjang/awesome-graphics) - Curated list of computer graphics tutorials and resources.
 - [awesome-game-engine-dev](https://github.com/stevinz/awesome-game-engine-dev) - Awesome list of resources for Game Engine Development.
-- [awesome-kotlin-cn](https://github.com/xitu/awesome-kotlin-cn) - Kotlin 资源大全，包括教程文章、开源库和框架、Demo 等，由掘金技术社区整理和维护。.
+- [awesome-ffmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg) - 👻 A curated list of awesome FFmpeg resources.
 - [awesome-image-captioning](https://github.com/zhjohnchan/awesome-image-captioning) - A curated list of image captioning and related area resources. :-).
 - [awesome-selenium](https://github.com/christian-bromann/awesome-selenium) - A curated list of delightful Selenium resources.
 - [Awesome-Controllable-T2I-Diffusion-Models](https://github.com/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models) - A collection of resources on controllable generation with text-to-image diffusion models.
@@ -1909,7 +1913,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-learning](https://github.com/mfaisalkhatri/awesome-learning) - A curated lists of awesome learning resources for a Software Test Automation Engineer .
 - [awesome](https://github.com/alpine-collective/awesome) - 🚀A curated list of awesome resources related to Alpine.
 - [free-resources](https://github.com/barnamenevisi/free-resources) - آرشیو منابع رایگان آموزش برنامه نویسی به زبان فارسی ( هر کسی باید بتونه برنامه نویسی رو یاد بگیره، مهم نیست پول داره یا نداره، به امید اینکه کسی به خاطر نداشتن پول از آموزش عقب نمونه ).
-- [awesome-git-hooks](https://github.com/compscilauren/awesome-git-hooks) - :anchor: A curated list of awesome git hooks.
 - [Awesome-NAS-Docker](https://github.com/TWO-ICE/Awesome-NAS-Docker) - 一个专注于 NAS 和 Docker 部署的开源项目合集，覆盖 AI、开发、数据管理、多媒体、运维等场景，提供一键式部署指南和实用教程，让 NAS 变身全能生产力工具！.
 - [awesome-robot-descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions) - A curated list of awesome robot descriptions (URDF, MJCF).
 - [awesome-hdl](https://github.com/drom/awesome-hdl) - Hardware Description Languages.
@@ -1919,7 +1922,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-appwrite](https://github.com/appwrite/awesome-appwrite) - Carefully curated list of awesome Appwrite resources 💪.
 - [sublime-bookmarks](https://github.com/dreikanter/sublime-bookmarks) - Sublime Text essential plugins and resources.
 - [awesome-blockchain-ai](https://github.com/steven2358/awesome-blockchain-ai) - A curated list of Blockchain projects for Artificial Intelligence and Machine Learning.
-- [awesome-ffmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg) - 👻 A curated list of awesome FFmpeg resources.
 - [awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
 - [awesome-gpt](https://github.com/formulahendry/awesome-gpt) - A curated list of awesome projects and resources related to GPT, ChatGPT, OpenAI, LLM, and more.
 - [awesome-burp-suite](https://github.com/alphaSeclab/awesome-burp-suite) - Awesome Burp Suite Resources. 400+ open source Burp plugins, 400+ posts and videos.
@@ -1928,11 +1930,12 @@ Last generated: 2025-08-14, 8759 lists.
 - [definitive-opensource](https://github.com/mustbeperfect/definitive-opensource) - The definitive list of open source.
 - [awesome-wasm-zh](https://github.com/wasmlang/awesome-wasm-zh) - WebAssembly(wasm)资源精选.
 - [awesome-startpage](https://github.com/jnmcfly/awesome-startpage) - This is a carefully compiled list of remarkable projects with the focus on startpages.
+- [awesome-detection-engineering](https://github.com/infosecB/awesome-detection-engineering) - Detection Engineering is a tactical function of a cybersecurity defense program that involves the design, implementation, and operation of detective controls with the goal of proactively identifying malicious or unauthorized activity before it negatively impacts an individual or an organization.
 - [Awesome-Medical-Dataset](https://github.com/openmedlab/Awesome-Medical-Dataset) - Collection of awesome medical dataset resources.
 - [awesome-sar](https://github.com/RadarCODE/awesome-sar) - A curated list of awesome Synthetic Aperture Radar (SAR) software, libraries, and resources.
 - [aprenda-swift](https://github.com/CodandoApple/aprenda-swift) - Uma lista de conteúdos para você aprender Swift.
-- [awesome-gradient-boosting-papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) - A curated list of gradient boosting research papers with implementations. .
 - [dynamic-analysis](https://github.com/analysis-tools-dev/dynamic-analysis) - ⚙️ A curated list of dynamic analysis tools and linters for all programming languages, binaries, and more.
+- [awesome-gradient-boosting-papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) - A curated list of gradient boosting research papers with implementations. .
 - [awesome-pocketbase](https://github.com/benallfree/awesome-pocketbase) - A collection of PocketBase community resources.
 - [llm-hallucination-survey](https://github.com/HillZhang1999/llm-hallucination-survey) - Reading list of hallucination in LLMs. Check out our new survey paper: "Siren’s Song in the AI Ocean: A Survey on Hallucination in Large Language Models".
 - [awesome-gatsby](https://github.com/prayash/awesome-gatsby) - ⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.
@@ -1942,12 +1945,12 @@ Last generated: 2025-08-14, 8759 lists.
 - [toolsforactivism](https://github.com/drewrwilson/toolsforactivism) - Growing list of digital tools for activism things.
 - [awesome-solana-nfts](https://github.com/ilmoi/awesome-solana-nfts) - A curated list of Solana NFT protocols, repos & community tools.
 - [awesome_twitter_CN](https://github.com/DennisThink/awesome_twitter_CN) - 值得关注的中文twitter用户.
+- [awesome-time-series](https://github.com/cuge1995/awesome-time-series) - List of papers, code, and other resources.
 - [Offensive-OSINT-Tools](https://github.com/wddadk/Offensive-OSINT-Tools) - OffSec OSINT Pentest/RedTeam Tools.
 - [awesome-linters](https://github.com/caramelomartins/awesome-linters) - A community-driven list of awesome linters.
 - [awesome-lightning-network](https://github.com/bcongdon/awesome-lightning-network) - ⚡ A curated list of awesome Lightning Network projects for developers and crypto enthusiasts.
 - [Awesome-LLM4IE-Papers](https://github.com/quqxui/Awesome-LLM4IE-Papers) - Awesome papers about generative Information Extraction (IE) using Large Language Models (LLMs) .
 - [Awesome-Foundation-Models](https://github.com/uncbiag/Awesome-Foundation-Models) - A curated list of foundation models for vision and language tasks.
-- [awesome-time-series](https://github.com/cuge1995/awesome-time-series) - List of papers, code, and other resources.
 - [awesome-pyproject](https://github.com/carlosperate/awesome-pyproject) - An Awesome List of projects using the pyproject.toml Python configuration file.
 - [awesome-nft](https://github.com/gianni-dalerta/awesome-nft) - A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries and software.
 - [awesome-functional-programming](https://github.com/lucasviola/awesome-functional-programming) - :alien: A curated list of functional programming resources such as blog posts, communities, discussion topics, wikis and more.
@@ -1962,11 +1965,10 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-privacy](https://github.com/KevinColemanInc/awesome-privacy) - 💡Limiting personal data leaks on the internet.
 - [awesome-agent-papers](https://github.com/luo-junyu/awesome-agent-papers) - [Up-to-date] Large Language Model Agent: A Survey on Methodology, Applications and Challenges.
 - [awesome-isaac-gym](https://github.com/robotlearning123/awesome-isaac-gym) - A curated list of awesome NVIDIA Issac Gym frameworks, papers, software, and resources.
-- [awesome-detection-engineering](https://github.com/infosecB/awesome-detection-engineering) - Detection Engineering is a tactical function of a cybersecurity defense program that involves the design, implementation, and operation of detective controls with the goal of proactively identifying malicious or unauthorized activity before it negatively impacts an individual or an organization.
+- [awesome-bilibili](https://github.com/SyMind/awesome-bilibili) - B 站的宝藏 up 主名单，他们教技术。关于 Web 开发、计算机科学、机器学习、游戏开发、网络安全等 😎.
 - [awesome-language-agents](https://github.com/ysymyth/awesome-language-agents) - List of language agents based on paper "Cognitive Architectures for Language Agents".
 - [Awesome-LongTailed-Learning](https://github.com/Vanint/Awesome-LongTailed-Learning) - A codebase and a curated list of awesome deep long-tailed learning (TPAMI 2023).
 - [awesome-account-abstraction](https://github.com/4337Mafia/awesome-account-abstraction) - 📖 A curated list of resources dedicated to Account Abstraction (EIP-4337).
-- [awesome-bilibili](https://github.com/SyMind/awesome-bilibili) - B 站的宝藏 up 主名单，他们教技术。关于 Web 开发、计算机科学、机器学习、游戏开发、网络安全等 😎.
 - [awesome-webpack-perf](https://github.com/iamakulov/awesome-webpack-perf) - A curated list of webpack tools for web performance.
 - [awesome-wordlists](https://github.com/gmelodie/awesome-wordlists) - A curated list wordlists for bruteforcing and fuzzing.
 - [awesome-nifi](https://github.com/jfrazee/awesome-nifi) - A list of useful Apache NiFi resources, processor bundles and tools.
@@ -1981,6 +1983,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-devbook](https://github.com/738/awesome-devbook) - 📕 국내 개발 도서 리스트.
 - [AWESOME-FER](https://github.com/EvelynFan/AWESOME-FER) - Top conferences & Journals focused on Facial expression recognition (FER)/ Facial action unit (FAU)  .
 - [awesome-chatops](https://github.com/exAspArk/awesome-chatops) - :robot: A collection of awesome things about ChatOps – managing operations through a chat.
+- [Awesome-Open-Vocabulary](https://github.com/jianzongwu/Awesome-Open-Vocabulary) - (TPAMI 2024) A Survey on Open Vocabulary Learning.
 - [awesome-kubernetes-security](https://github.com/ksoclabs/awesome-kubernetes-security) - A curated list of awesome Kubernetes security resources.
 - [Awesome-Unicode](https://github.com/jagracey/Awesome-Unicode) - :joy: :ok_hand: A curated list of delightful Unicode tidbits, packages and resources.
 - [awesome-python-security](https://github.com/guardrailsio/awesome-python-security) - Awesome Python Security resources 🕶🐍🔐.
@@ -1989,14 +1992,14 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-git-hooks](https://github.com/aitemr/awesome-git-hooks) - 😎 A collection of awesome Git Hooks.
 - [security-apis](https://github.com/jaegeral/security-apis) - A collective list of public APIs for use in security. Contributions welcome.
 - [awesome-critical-tech-reading-list](https://github.com/chobeat/awesome-critical-tech-reading-list) - A reading list for the modern critical programmer .
+- [awesome-ai-awesomeness](https://github.com/amusi/awesome-ai-awesomeness) - A curated list of awesome awesomeness about artificial intelligence.
 - [Awesome-Out-Of-Distribution-Detection](https://github.com/huytransformer/Awesome-Out-Of-Distribution-Detection) - Out-of-distribution detection, robustness, and generalization resources. The repository contains a curated list of papers, tutorials, books, videos, articles and open-source libraries etc.
 - [awesome-collision-detection](https://github.com/jslee02/awesome-collision-detection) - :sunglasses: A curated list of awesome collision detection libraries and resources.
+- [awesome-sentiment-analysis](https://github.com/xiamx/awesome-sentiment-analysis) - 😀😄😂😭 A curated list of Sentiment Analysis methods, implementations and misc. 😥😟😱😤 .
 - [awesome-automotive](https://github.com/Marcin214/awesome-automotive) - A curated list of delightful and free automotive engineering resources, looking for contributors ❗.
 - [awesome-zero-shot-learning](https://github.com/sbharadwajj/awesome-zero-shot-learning) - A curated list of papers, code and resources pertaining to zero shot learning.
 - [awesome-high-performance-computing](https://github.com/trevor-vincent/awesome-high-performance-computing) - A curated list of awesome high performance computing resources.
-- [Awesome-Open-Vocabulary](https://github.com/jianzongwu/Awesome-Open-Vocabulary) - (TPAMI 2024) A Survey on Open Vocabulary Learning.
 - [awesome-weekly-robotics](https://github.com/msadowski/awesome-weekly-robotics) - A list of projects that were or will be featured in Weekly Robotics newsletter.
-- [awesome-sentiment-analysis](https://github.com/xiamx/awesome-sentiment-analysis) - 😀😄😂😭 A curated list of Sentiment Analysis methods, implementations and misc. 😥😟😱😤 .
 - [Awesome-Deep-Graph-Clustering](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering) - Awesome Deep Graph Clustering is a collection of SOTA, novel deep graph clustering methods (papers, codes, and datasets).
 - [awesome-networking](https://github.com/facyber/awesome-networking) - A collection of awesome networking courses, books, tutorials and other resources.
 - [awesome-beacon](https://github.com/rabschi/awesome-beacon) - A curated list of awesome Bluetooth beacon software and tools.
@@ -2007,7 +2010,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-react-framer-x](https://github.com/davo/awesome-react-framer-x) - A collection of awesome links to learn React, ES6 & Framer X.
 - [awesome-polars](https://github.com/ddotta/awesome-polars) - A curated list of Polars talks, tools, examples & articles. Contributions welcome ! .
 - [awesome-opensource-email](https://github.com/Mindbaz/awesome-opensource-email) - Awesome Opensource Email Resources.
-- [awesome-ai-awesomeness](https://github.com/amusi/awesome-ai-awesomeness) - A curated list of awesome awesomeness about artificial intelligence.
 - [MobileHackersWeapons](https://github.com/hahwul/MobileHackersWeapons) - Mobile Hacker's Weapons / A collection of cool tools used by Mobile hackers. Happy hacking , Happy bug-hunting.
 - [awesome-ui-component-library](https://github.com/anubhavsrivastava/awesome-ui-component-library) - Curated list of framework component libraries for UI styles/toolkit.
 - [Awesome-Autonomous-Driving](https://github.com/autodriving-heart/Awesome-Autonomous-Driving) - Awesome-autonomous-driving.
@@ -2016,6 +2018,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-hallucination-detection](https://github.com/EdinburghNLP/awesome-hallucination-detection) - List of papers on hallucination detection in LLMs.
 - [awesome-windows](https://github.com/0pandadev/awesome-windows) - An awesome & curated list of tools and apps for Windows 10/11.
 - [openstl](https://github.com/chengtan9907/openstl) - OpenSTL: A Comprehensive Benchmark of Spatio-Temporal Predictive Learning.
+- [awesome-fuzzing](https://github.com/cpuu/awesome-fuzzing) - A curated list of awesome Fuzzing(or Fuzz Testing) for software security.
 - [awesome-dataset-tools](https://github.com/jsbroks/awesome-dataset-tools) - 🔧 A curated list of awesome dataset tools.
 - [awesome-ld-preload](https://github.com/gaul/awesome-ld-preload) - List of resources related to LD_PRELOAD, a mechanism for changing application behavior at run-time.
 - [awesome-github](https://github.com/phillipadsmith/awesome-github) - A curated list of GitHub's awesomeness.
@@ -2025,6 +2028,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-active-learning](https://github.com/SupeRuier/awesome-active-learning) - Everything you need about Active Learning (AL).
 - [awesome-paid-open-source](https://github.com/mrjoelkemp/awesome-paid-open-source) - Collection of links around paid/sustainable open source development.
 - [awesome-distributed-system-projects](https://github.com/roma-glushko/awesome-distributed-system-projects) - 🚀 List of distributed system projects for inspiration and learning to build distributed services from real world examples.
+- [game-datasets](https://github.com/leomaurodesenv/game-datasets) - :video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games.
 - [awesome-AutoML](https://github.com/windmaple/awesome-AutoML) - Curating a list of AutoML-related research, tools, projects and other resources.
 - [awesome-rl-for-cybersecurity](https://github.com/Limmen/awesome-rl-for-cybersecurity) - A curated list of resources dedicated to reinforcement learning applied to cyber security. .
 - [awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science) - Math & CS Awesome List, distinguished by proof and logic and technique.
@@ -2034,7 +2038,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-anti-forensic](https://github.com/shadawck/awesome-anti-forensic) - Tools and packages that are used for countering forensic activities, including encryption, steganography, and anything that modify attributes. This all includes tools to work with anything in general that makes changes to a system for the purposes of hiding information.
 - [awesome-graph-transformer](https://github.com/wehos/awesome-graph-transformer) - Papers about graph transformers. .
 - [awesome-ios-animation](https://github.com/jzau/awesome-ios-animation) - Curated list of iOS Animation libraries.
-- [awesome-fuzzing](https://github.com/cpuu/awesome-fuzzing) - A curated list of awesome Fuzzing(or Fuzz Testing) for software security.
 - [awesome-nomad](https://github.com/jippi/awesome-nomad) - A curated list of amazingly awesome Nomad tools and shiny things.
 - [curated-lists](https://github.com/learn-anything/curated-lists) - Curated lists on various topics.
 - [my-cs-degree](https://github.com/logancyang/my-cs-degree) - A CS degree with a focus on full-stack ML engineering, 2020.
@@ -2065,7 +2068,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-standard-notes](https://github.com/jonhadfield/awesome-standard-notes) - A curated list of tools and information relating to Standard Notes.
 - [awesome-cybersecurity-blueteam-cn](https://github.com/satan1a/awesome-cybersecurity-blueteam-cn) - 网络安全 · 攻防对抗 · 蓝队清单，中文版.
 - [awesome-autonomous-vehicle](https://github.com/DeepTecher/awesome-autonomous-vehicle) - 无人驾驶的资源列表中文版.
-- [game-datasets](https://github.com/leomaurodesenv/game-datasets) - :video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games.
 - [awesome-blockchain](https://github.com/imbaniac/awesome-blockchain) - Curated list of blockchain services and exchanges 🔥🏦🔥🏦🔥🏦🔥.
 - [awesome-ionic](https://github.com/Cap-go/awesome-ionic) - An "awesome" list of Ionic resources .
 - [awesome-hacktoberfest](https://github.com/OtacilioN/awesome-hacktoberfest) - A curated list of awesome Hacktoberfest 2023 repositories, guides and resources.
@@ -2104,9 +2106,10 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-6d-object](https://github.com/ZhongqunZHANG/awesome-6d-object) - Awesome work on object 6 DoF pose estimation.
 - [awesome-computational-neuroscience](https://github.com/eselkin/awesome-computational-neuroscience) - A list of schools and researchers in computational neuroscience.
 - [lobe-chat-agents](https://github.com/lobehub/lobe-chat-agents) - 🤖 / 🏪 Agent Index - This is the agent index for LobeChat. It accesses index.json from this repository to display a list of available agents for LobeChat to the agent market.
-- [awesome-internet-computer](https://github.com/dfinity/awesome-internet-computer) - A curated list of awesome projects and resources relating to the Internet Computer Protocol.
 - [awesome-tech-videos](https://github.com/lucasviola/awesome-tech-videos) - :tv: A curated list of tech conferences from YouTube, vimeo, etc for us to get inspired ;).
+- [awesome-internet-computer](https://github.com/dfinity/awesome-internet-computer) - A curated list of awesome projects and resources relating to the Internet Computer Protocol.
 - [awesome-machine-learning](https://github.com/onmyway133/awesome-machine-learning) - 🎰 A curated list of machine learning resources, preferably CoreML.
+- [awesome-runners](https://github.com/jonico/awesome-runners) - A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix.
 - [awesome-jsgames](https://github.com/proyecto26/awesome-jsgames) - A curated list of awesome JavaScript Games  🎮.
 - [awesome-5g](https://github.com/calee0219/awesome-5g) - Awesome lists about 5G projects.
 - [awesome-conformal-prediction](https://github.com/valeman/awesome-conformal-prediction) - A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.
@@ -2124,9 +2127,9 @@ Last generated: 2025-08-14, 8759 lists.
 - [NL2SQL_Handbook](https://github.com/HKUSTDial/NL2SQL_Handbook) - This is a continuously updated handbook for readers to easily track the latest Text-to-SQL techniques in the literature and provide practical guidance for researchers and practitioners. Official repo for A Survey of Text-to-SQL in the Era of LLMs: Where are we, and where are we going?.
 - [awesome-codebases](https://github.com/alan2207/awesome-codebases) - A collection of awesome open-source codebases worth exploring.
 - [awesome-lisp-languages](https://github.com/dundalek/awesome-lisp-languages) - A list of Lisp-flavored programming languages.
+- [awesome-deep-rl](https://github.com/kengz/awesome-deep-rl) - A curated list of awesome Deep Reinforcement Learning resources.
 - [macos-apps](https://github.com/learn-anything/macos-apps) - Awesome macOS apps.
 - [awesome-codeigniter](https://github.com/codeigniter-id/awesome-codeigniter) - A list of awesome Codeigniter core, helpers, hooks, language, libraries, third party and other cool resources for CodeIgniter :fire:.
-- [awesome-runners](https://github.com/jonico/awesome-runners) - A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix.
 - [awesome-useful-websites](https://github.com/atakanaltok/awesome-useful-websites) - Hand-curated list of awesome and useful websites.
 - [Awesome-Jailbreak-on-LLMs](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs) - Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting jailbreak methods on LLMs. It contains papers, codes, datasets, evaluations, and analyses.
 - [awesome-scene-understanding](https://github.com/bertjiazheng/awesome-scene-understanding) - 😎 A list of awesome scene understanding papers.
@@ -2159,7 +2162,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-swiftui](https://github.com/chinsyo/awesome-swiftui) - A curated list of awesome SwiftUI tutorials, libraries, videos and articles.
 - [awesome-codepoints](https://github.com/Codepoints/awesome-codepoints) - Awesome Code Points.
 - [awesome-active-learning](https://github.com/baifanxxx/awesome-active-learning) - A curated list of awesome Active Learning.
-- [awesome-deep-rl](https://github.com/kengz/awesome-deep-rl) - A curated list of awesome Deep Reinforcement Learning resources.
 - [awesome-notion](https://github.com/spencerpauly/awesome-notion) - A curated list of awesome Notion related things.
 - [awesome-devops](https://github.com/joubertredrat/awesome-devops) - This is my awesome list with all open source and free applications that you can use in your management.
 - [Awesome-GANs](https://github.com/kozistr/Awesome-GANs) - Awesome Generative Adversarial Networks with tensorflow.
@@ -2183,6 +2185,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-threejs](https://github.com/AxiomeCG/awesome-threejs) - 3️⃣ A curated list of awesome ThreeJS resources.
 - [awesome-cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics) - A curated list of Cheminformatics libraries and software.
 - [awesome-android-testing](https://github.com/hotchemi/awesome-android-testing) - A curated list of awesome android testing libraries.
+- [awesome-eventbridge](https://github.com/boyney123/awesome-eventbridge) - List of resources for learning about events, patterns, and using Amazon EventBridge.
 - [awesome-react-graphql](https://github.com/hasura/awesome-react-graphql) - A curated collection of resources, clients and tools that make working with `GraphQL and React/React Native` awesome.
 - [Awesome-Segmentation-With-Transformer](https://github.com/lxtGH/Awesome-Segmentation-With-Transformer) - [T-PAMI-2024] Transformer-Based Visual Segmentation: A Survey.
 - [awesome-salesforce](https://github.com/mailtoharshit/awesome-salesforce) - A curated list of delightful Salesforce Platform Resources.
@@ -2211,7 +2214,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-buttplug](https://github.com/buttplugio/awesome-buttplug) - A list of awesome projects that use the Buttplug Sex Toy Control Library.
 - [awesome-styleguides](https://github.com/RichardLitt/awesome-styleguides) - :clipboard: A list of styleguides.
 - [awesome-web3](https://github.com/ahmet/awesome-web3) - A curated list of awesome Web3 resources, libraries, tools and more.
-- [awesome-eventbridge](https://github.com/boyney123/awesome-eventbridge) - List of resources for learning about events, patterns, and using Amazon EventBridge.
 - [awesome-redis](https://github.com/JamzyWang/awesome-redis) - A curated list of amazingly awesome redis and redis ecosystem resources. .
 - [awesome-radare2](https://github.com/radareorg/awesome-radare2) - A curated list of awesome projects, articles and the other materials powered by Radare2.
 - [awesome-parallel-computing](https://github.com/taskflow/awesome-parallel-computing) - A curated list of awesome parallel computing resources.
@@ -2231,8 +2233,8 @@ Last generated: 2025-08-14, 8759 lists.
 - [Awesome-OSINT-For-Everything](https://github.com/Astrosp/Awesome-OSINT-For-Everything) - OSINT tools for Information gathering, Cybersecurity, Reverse searching, bugbounty, trust and safety, red team oprations and more.
 - [awesome-proxmox-ve](https://github.com/Corsinvest/awesome-proxmox-ve) - A collection of awesome Proxmox VE documentation, tools, api, blogs, site.
 - [awesome-devops-mcp-servers](https://github.com/rohitg00/awesome-devops-mcp-servers) - A curated list of awesome MCP servers focused on DevOps tools and capabilities.
-- [netlas-cookbook](https://github.com/netlas-io/netlas-cookbook) - The goal of this guide is very simple - to teach anyone interested in cyber security, regardless of their knowledge level, how to make the most of Netlas.io.
 - [awesome-machine-learning-art](https://github.com/vibertthio/awesome-machine-learning-art) - :robot::art::guitar:A curated list of awesome projects, works, people, articles, and resource for creating art (including music) with machine learning. It's machine learning art.
+- [netlas-cookbook](https://github.com/netlas-io/netlas-cookbook) - The goal of this guide is very simple - to teach anyone interested in cyber security, regardless of their knowledge level, how to make the most of Netlas.io.
 - [awesome-rl-reasoning-recipes](https://github.com/tsinghuac3i/awesome-rl-reasoning-recipes) - Awesome RL Reasoning Recipes ("Triple R").
 - [Awesome-MCoT](https://github.com/yaotingwangofficial/Awesome-MCoT) - Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey.
 - [awesome-frontend](https://github.com/syaning/awesome-frontend) - Awesome frontend, also my collections.
@@ -2286,6 +2288,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-hexo](https://github.com/hexojs/awesome-hexo) - A curated list of awesome things related to Hexo.
 - [awesome-aws-certifications](https://github.com/ptcodes/awesome-aws-certifications) - ☁️ A curated list of AWS certification materials: videos courses, practice exams, prep tips, etc.
 - [awesome-github](https://github.com/Kikobeats/awesome-github) - An exquisite list of awesome :octocat: secrets.
+- [awesome-gif](https://github.com/davisonio/awesome-gif) - A curated list of awesome GIF resources.
 - [awesome-open-iot](https://github.com/Agile-IoT/awesome-open-iot) - A curated list of awesome open source IoT frameworks, libraries and software.
 - [Awesome-Diffusion-Model-Based-Image-Editing-Methods](https://github.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods) - Diffusion Model-Based Image Editing: A Survey (TPAMI 2025).
 - [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) - A curated list of awesome Web Components tools, articles and resources.
@@ -2299,15 +2302,15 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-trilium](https://github.com/Nriver/awesome-trilium) - A collection of interesting Trilium Notes extensions. Including themes, widgets, scripts, API extensions, etc. Trilium插件合集.
 - [awesome-3dbody-papers](https://github.com/3DFaceBody/awesome-3dbody-papers) - 😎Awesome list of papers about 3D body.
 - [continual-learning-papers](https://github.com/ContinualAI/continual-learning-papers) - Continual Learning papers list, curated by ContinualAI.
+- [Awesome-Mixture-of-Experts-Papers](https://github.com/codecaution/Awesome-Mixture-of-Experts-Papers) - A curated reading list of research in Mixture-of-Experts(MoE).
 - [awesome-forensics](https://github.com/alphaSeclab/awesome-forensics) - Awesome Forensics Resources. Almost 300 open source forensics tools, and 600 blog posts about forensics.
 - [awesome-multi-agent-papers](https://github.com/kyegomez/awesome-multi-agent-papers) - A compilation of the best multi-agent papers.
-- [awesome-gif](https://github.com/davisonio/awesome-gif) - A curated list of awesome GIF resources.
 - [awesome-torch](https://github.com/carpedm20/awesome-torch) - A curated list of awesome Torch tutorials, projects and communities.
 - [awesome-embodied-vision](https://github.com/ChanganVR/awesome-embodied-vision) - Reading list for research topics in embodied vision.
 - [awesome-diversity](https://github.com/folkswhocode/awesome-diversity) - A curated list of amazingly awesome articles, websites and resources about diversity in technology.
 - [awesome-blockchain](https://github.com/igorbarinov/awesome-blockchain) - Curated list of the bitcoin blockchain services.
-- [awesome-material](https://github.com/sachin1092/awesome-material) - A curated list of Google's material design libraries for different frameworks.
 - [awesome-tap](https://github.com/sindresorhus/awesome-tap) - Useful resources for the Test Anything Protocol.
+- [awesome-material](https://github.com/sachin1092/awesome-material) - A curated list of Google's material design libraries for different frameworks.
 - [awesome-wechat](https://github.com/fritx/awesome-wechat) - 微信个人号/公众号相关项目整理 (wechat/weixin/wx).
 - [awesome-holistic-3d](https://github.com/holistic-3d/awesome-holistic-3d) - A list of papers and resources (data,code,etc) for holistic 3D reconstruction in computer vision.
 - [awesome-web-agents](https://github.com/steel-dev/awesome-web-agents) - 🔥 A list of tools, frameworks, and resources for building AI web agents.
@@ -2332,8 +2335,8 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-mobile-robotics](https://github.com/mathiasmantelli/awesome-mobile-robotics) - Useful links of different content related to AI, Computer Vision, and Robotics.
 - [awesome-starcraftAI](https://github.com/SKTBrain/awesome-starcraftAI) - A curated list of resources dedicated to StarCraft AI.
 - [Cool-Fashion-Papers](https://github.com/lzhbrian/Cool-Fashion-Papers) - 👔👗🕶️🎩 Cool resources about Fashion + AI! (papers, datasets, workshops, companies, .) (constantly updating).
+- [awesome-nextjs](https://github.com/officialrajdeepsingh/awesome-nextjs) - A curated list of awesome Nextjs-based libraries that help build small and large-scale applications with next.js.
 - [awesome-local-llms](https://github.com/vince-lam/awesome-local-llms) - Compare open-source local LLM inference projects by their metrics to assess popularity and activeness.
-- [Awesome-Mixture-of-Experts-Papers](https://github.com/codecaution/Awesome-Mixture-of-Experts-Papers) - A curated reading list of research in Mixture-of-Experts(MoE).
 - [awesome-serverless-security](https://github.com/puresec/awesome-serverless-security) - A curated list of awesome serverless security resources such as (e)books, articles, whitepapers, blogs and research papers.
 - [open-computational-neuroscience-resources](https://github.com/asoplata/open-computational-neuroscience-resources) - A publicly-editable collection of open computational neuroscience resources.
 - [awesome-thesis](https://github.com/awesome-thesis/awesome-thesis) - A curated list of practical tips and tricks to help you achieve an awesome CS master thesis [WIP] - contributions are welcome.
@@ -2346,7 +2349,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-entity-component-system](https://github.com/jslee02/awesome-entity-component-system) - :sunglasses: A curated list of Entity-Component-System (ECS) libraries and resources.
 - [awesome-cloudformation](https://github.com/aws-cloudformation/awesome-cloudformation) - A curated list of resources and projects for working with AWS CloudFormation.
 - [awesome-vibe-coding](https://github.com/filipecalegario/awesome-vibe-coding) - A curated list of vibe coding references, collaborating with AI to write code.
-- [awesome-nextjs](https://github.com/officialrajdeepsingh/awesome-nextjs) - A curated list of awesome Nextjs-based libraries that help build small and large-scale applications with next.js.
 - [Awesome-LLMs-in-Graph-tasks](https://github.com/yhLeeee/Awesome-LLMs-in-Graph-tasks) - A curated collection of research papers exploring the utilization of LLMs for graph-related tasks.
 - [awesome-es2015-proxy](https://github.com/mikaelbr/awesome-es2015-proxy) - For learning how to use JavaScript Proxy, or just to see what is possible.
 - [awesome-event-ids](https://github.com/stuhli/awesome-event-ids) - Collection of Event ID ressources useful for Digital Forensics and Incident Response.
@@ -2367,12 +2369,13 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-visionos](https://github.com/stevenpaulhoward/awesome-visionos) - 🥽 awesome Apple visionOS related content.
 - [awesome-jekyll](https://github.com/planetjekyll/awesome-jekyll) - A collection of awesome Jekyll goodies (tools, templates, plugins, guides, etc.).
 - [awesome-firmware-security](https://github.com/PreOS-Security/awesome-firmware-security) - Awesome Firmware Security & Other Helpful Documents.
+- [awesome-OpenSourcePhotography](https://github.com/ibaaj/awesome-OpenSourcePhotography) - A list of awesome free open source software & libraries for photography. Also tools for video.
 - [awesome-feature-engineering](https://github.com/aikho/awesome-feature-engineering) - A curated list of resources dedicated to Feature Engineering Techniques for Machine Learning.
+- [awesome-geek-podcasts](https://github.com/ayr-ton/awesome-geek-podcasts) - A curated list of podcasts we like to listen to. .
 - [awesome-annual-security-reports](https://github.com/jacobdjwilson/awesome-annual-security-reports) - A curated list of annual cyber security reports.
 - [awesome-multi-view-clustering](https://github.com/wangsiwei2010/awesome-multi-view-clustering) - Collections for advanced, novel multi-view clustering methods(papers , codes and datasets).
 - [awesome-r-learning-resources](https://github.com/iamericfletcher/awesome-r-learning-resources) - A curated collection of free resources to help deepen your understanding of the R programming language. Updated regularly. Contributions encouraged via pull request (see contributing.md).
 - [awesome-windows-red-team](https://github.com/marcosvalle/awesome-windows-red-team) -  A curated list of awesome Windows frameworks, libraries, software and resources for Red Teams.
-- [awesome-geek-podcasts](https://github.com/ayr-ton/awesome-geek-podcasts) - A curated list of podcasts we like to listen to. .
 - [awesome-ios-security](https://github.com/Cy-clon3/awesome-ios-security) - A curated list of awesome iOS application security resources.
 - [awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools) - Curated list of awesome SEO tools.
 - [Awesome-Simultaneous-Translation](https://github.com/zhangshaolei1998/Awesome-Simultaneous-Translation) - Paper list of simultaneous translation / streaming translation, including text-to-text machine translation and speech-to-text translation.
@@ -2381,7 +2384,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [Awesome-Scientific-Language-Models](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models) - A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery (EMNLP'24).
 - [awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt) - Selected ChatGPT demos, tools, articles, and more ✨.
 - [Awesome-Self-Supervised-Papers](https://github.com/dev-sungman/Awesome-Self-Supervised-Papers) - Paper bank for Self-Supervised Learning.
-- [awesome-OpenSourcePhotography](https://github.com/ibaaj/awesome-OpenSourcePhotography) - A list of awesome free open source software & libraries for photography. Also tools for video.
 - [Awesome-Imitation-Learning](https://github.com/kristery/Awesome-Imitation-Learning) - A curated list of awesome imitation learning resources and publications.
 - [text_mining_resources](https://github.com/stepthom/text_mining_resources) - Resources for learning about Text Mining and Natural Language Processing.
 - [awesome-CoreML-models](https://github.com/SwiftBrain/awesome-CoreML-models) - Collection of models for Core ML .
@@ -2406,6 +2408,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-ai-data-guided-projects](https://github.com/youssefhosni/awesome-ai-data-guided-projects) - A curated list of data science & AI guided projects to start building your portfolio.
 - [awesome-ios-books](https://github.com/bystritskiy/awesome-ios-books) - 📚 Directory of iOS books.
 - [awesome-blockchain-articles](https://github.com/hylinux1024/awesome-blockchain-articles) - A collection of awesome blockchain articles. Good learning resources about blockchain. .
+- [awesome-observability](https://github.com/adriannovegil/awesome-observability) - Awesome observability page.
 - [awesome-dotnet-core-applications](https://github.com/bharatdwarkani/awesome-dotnet-core-applications) - An awesome collection of .NET Core real time, sample, architecture reference application projects.
 - [awesome-telegram-bots](https://github.com/DenisIzmaylov/awesome-telegram-bots) - Collection of examples, libraries and starter-kits for Telegram Bots.
 - [awesome-optical-flow](https://github.com/hzwer/awesome-optical-flow) - This is a list of awesome paper about optical flow and related work.
@@ -2421,7 +2424,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-bluetooth-security](https://github.com/engn33r/awesome-bluetooth-security) - List of Bluetooth BR/EDR/LE security resources.
 - [Awesome-Parameter-Efficient-Transfer-Learning](https://github.com/synbol/Awesome-Parameter-Efficient-Transfer-Learning) - Collection of awesome parameter-efficient fine-tuning resources. .
 - [awesome-pyramid](https://github.com/uralbash/awesome-pyramid) - A curated list of awesome Pyramid apps, projects and resources.
-- [awesome-observability](https://github.com/adriannovegil/awesome-observability) - Awesome observability page.
 - [awesome-restic](https://github.com/rubiojr/awesome-restic) - Awesome Restic related projects.
 - [awesome-panoptic-segmentation](https://github.com/Angzz/awesome-panoptic-segmentation) - Panoptic Segmentation Resources List.
 - [awesome-3D-vision](https://github.com/Hardy-Uint/awesome-3D-vision) - 3D computer vision incuding SLAM，VSALM，Deep Learning，Structured light，Stereo，Three-dimensional reconstruction，Computer vision，Machine Learning and so on.
@@ -2430,6 +2432,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-frontend-dev](https://github.com/filimonovalexey/awesome-frontend-dev) - Подборка полезных материалов для начинающих веб-разработчиков!.
 - [awesome-astronomy](https://github.com/jonathansick/awesome-astronomy) - A list of awesome astronomy projects.
 - [Awesome-Text-to-3D](https://github.com/yyeboah/Awesome-Text-to-3D) - A growing curation of Text-to-3D, Diffusion-to-3D works.
+- [awesome-halo](https://github.com/halo-sigs/awesome-halo) - 与 Halo 相关的周边生态资源列表.
 - [awesome-laravel-nova](https://github.com/its-awesome/awesome-laravel-nova) -  Curated list of Laravel Nova resources.
 - [awesome-cicd-security](https://github.com/myugan/awesome-cicd-security) - :books: A curated list of awesome CI CD security resources.
 - [awesome-ipsum](https://github.com/templeman/awesome-ipsum) - A curated list of awesome lorem ipsum generators.
@@ -2476,20 +2479,21 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-networking](https://github.com/nyquist/awesome-networking) - Curated list of awesome computer networking resources.
 - [awesome-rive](https://github.com/rive-app/awesome-rive) - An awesome list that curates Rive runtime examples, articles and tutorials, videos, resources and more!.
 - [awesome-macos-commandline](https://github.com/phmullins/awesome-macos-commandline) - A curated list of awesome command-line software for macOS.
+- [awesome-wasi](https://github.com/wasmerio/awesome-wasi) - 😎 Curated list of awesome things regarding WebAssembly WASI ecosystem.
 - [Awesome-Deep-Community-Detection](https://github.com/FanzhenLiu/Awesome-Deep-Community-Detection) - Deep and conventional community detection related papers, implementations, datasets, and tools.
 - [awesome-jekyll-themes](https://github.com/planetjekyll/awesome-jekyll-themes) - A collection of awesome (gem-packaged) Jekyll themes - Add your theme!.
 - [awesome-anomaly-detection](https://github.com/xmoanvaf/awesome-anomaly-detection) - A complete list of papers on anomaly detection. .
+- [awesome-minecraft](https://github.com/bs-community/awesome-minecraft) - 📝 The curated list of awesome things related to Minecraft.
 - [awesome-CRISPR](https://github.com/davidliwei/awesome-CRISPR) - List of software/websites/databases/other stuff for genome engineering.
+- [awesome-sentiment-analysis](https://github.com/declare-lab/awesome-sentiment-analysis) - Reading list for Awesome Sentiment Analysis papers.
 - [awesome-github](https://github.com/fffaraz/awesome-github) - A curated list of awesome GitHub tools, libraries, resources, and shiny things.
 - [awesome-openusd](https://github.com/matiascodesal/awesome-openusd) - A curated list of awesome Universal Scene Description (OpenUSD) resources and projects.
 - [MATLAB-Deep-Learning-Model-Hub](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub) - Discover pretrained models for deep learning in MATLAB.
 - [awesome-smarthome](https://github.com/pfalcon/awesome-smarthome) - Curated list of awesome SmartHome/Home Automation things (open and leaving users in control).
 - [awesome-ml-model-compression](https://github.com/cedrickchee/awesome-ml-model-compression) - Awesome machine learning model compression research papers, quantization, tools, and learning material.
 - [awesome-mysql-performance](https://github.com/Releem/awesome-mysql-performance) - 🔥 A curated list of awesome links related to MySQL / MariaDB / Percona performance tuning.
-- [awesome-wasi](https://github.com/wasmerio/awesome-wasi) - 😎 Curated list of awesome things regarding WebAssembly WASI ecosystem.
 - [awesome-cryptokitties-bubble](https://github.com/cryptocopycats/awesome-cryptokitties-bubble) - Awesome CryptoKitties Bubble (Anno 2017) - Yes, Cute Little Cartoon Cats on the Blockchain!  - Digital collectibles secured on a distributed public database w/ crypto hashes.   Learn by Example from the Real World - Buy! Sell! Hodl! Sire!.
 - [Awesome-time-series](https://github.com/cure-lab/Awesome-time-series) - A comprehensive survey on the time series domains.
-- [awesome-sentiment-analysis](https://github.com/declare-lab/awesome-sentiment-analysis) - Reading list for Awesome Sentiment Analysis papers.
 - [awesome-azure-policy](https://github.com/globalbao/awesome-azure-policy) - A curated list of blogs, videos, tutorials, code, tools, scripts, and anything useful to help you learn Azure Policy - by @JesseLoudon.
 - [awesome-computer-vision-models](https://github.com/gmalivenko/awesome-computer-vision-models) - A list of popular deep learning models related to classification, segmentation and detection problems.
 - [awesome-chatbots](https://github.com/JStumpp/awesome-chatbots) - A curated list of awesome Chatbot services and resources.
@@ -2516,14 +2520,13 @@ Last generated: 2025-08-14, 8759 lists.
 - [Awesome-Sketch-Synthesis](https://github.com/MarkMoHR/Awesome-Sketch-Synthesis) - :books: A collection of papers about Sketch Synthesis (Generation).
 - [AWS-Guide](https://github.com/mikeroyal/AWS-Guide) - Amazon Web Services (AWS) Guide. Learn all about Amazon Web Services Tools, Services, and Certifications.
 - [awesome-dotnet-security](https://github.com/guardrailsio/awesome-dotnet-security) - Awesome .NET Security Resources.
-- [awesome-minecraft](https://github.com/bs-community/awesome-minecraft) - 📝 The curated list of awesome things related to Minecraft.
 - [awesome-frameworkless](https://github.com/frameworkless-movement/awesome-frameworkless) - A collection of awesome things regarding Frameworkless.
 - [awesome-bitcoin-payment-processors](https://github.com/alexk111/awesome-bitcoin-payment-processors) - 🌟 A curated list of Bitcoin payment processors enabling merchants, businesses and nonprofits to accept Bitcoin payments.
 - [awesome-software-engineering](https://github.com/Alliedium/awesome-software-engineering) - A curated list of awesome software engineering resources.
 - [awesome-campus-expert](https://github.com/campus-experts/awesome-campus-expert) - 🕶 An awesome list of resources for campus experts! 🕶.
+- [awesome-stremio](https://github.com/doingodswork/awesome-stremio) - A curated list of awesome tools and addons for Stremio.
 - [awesome-microservice](https://github.com/wanghaisheng/awesome-microservice) - A curated list of Microservice resources .
 - [awesome-arabic](https://github.com/01walid/awesome-arabic) - A curated list of awesome projects and dev/design resources for supporting Arabic computational needs.
-- [awesome-halo](https://github.com/halo-sigs/awesome-halo) - 与 Halo 相关的周边生态资源列表.
 - [awesome-vision-language-navigation](https://github.com/eric-ai-lab/awesome-vision-language-navigation) - A curated list for vision-and-language navigation. ACL 2022 paper "Vision-and-Language Navigation: A Survey of Tasks, Methods, and Future Directions".
 - [awesome-forensicstools](https://github.com/ivbeg/awesome-forensicstools) - Awesome list of digital forensic tools.
 - [awesome-software-patreons](https://github.com/uraimo/awesome-software-patreons) - A curated list of awesome programmers and software projects you can support!.
@@ -2580,6 +2583,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-chakra-ui](https://github.com/chakra-ui/awesome-chakra-ui) - A collection of Chakra UI-related awesomeness.
 - [awesome-emulators](https://github.com/DerekTurtleRoe/awesome-emulators) - An awesome list of emulators!.
 - [Awesome-Polybar](https://github.com/TiagoDanin/Awesome-Polybar) - Curated list of Polybar .
+- [Awesome-Prompting-on-Vision-Language-Model](https://github.com/JindongGu/Awesome-Prompting-on-Vision-Language-Model) - This repo lists relevant papers summarized in our survey paper:  A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models.
 - [awesome-noir](https://github.com/noir-lang/awesome-noir) - A curated list of awesome things related to learning and programming in Noir.
 - [awesome-federated-computing](https://github.com/tushar-semwal/awesome-federated-computing) - :books: :eyeglasses: A collection of research papers, codes, tutorials and blogs on Federated Computing/Learning.
 - [awesome-homelab](https://github.com/ccbikai/awesome-homelab) - Curating Top Open Source Apps for Homelab Enthusiasts.
@@ -2589,7 +2593,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [frontend-tools](https://github.com/felipefialho/frontend-tools) - :fire_engine: Useful tools to frontenders.
 - [awesome-leetcode](https://github.com/tangweikun/awesome-leetcode) - 💄 A collection of awesome leetcode solutions.
 - [Awesome-RL-based-LLM-Reasoning](https://github.com/bruno686/Awesome-RL-based-LLM-Reasoning) - Awesome RL-based LLM Reasoning.
-- [awesome-stremio](https://github.com/doingodswork/awesome-stremio) - A curated list of awesome tools and addons for Stremio.
 - [awesome-zkevm](https://github.com/LuozhuZhang/awesome-zkevm) - A curated list of awesome zkEVM resources, libraries, tools and more.
 - [awesome-robotframework](https://github.com/MarketSquare/awesome-robotframework) - A curated list of awesome Robot Framework resources and libraries.
 - [awesome-supernote](https://github.com/fharper/awesome-supernote) - A curated list of projects, templates or anything interesting related to the Supernote tablet.
@@ -2624,7 +2627,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-PhD](https://github.com/helenahartmann/awesome-PhD) - All the resources I wish I knew when starting my PhD. This repository is aimed to be a living, constantly developing resource where everybody can contribute with new resources!.
 - [react-native-awesome-card-io](https://github.com/Kerumen/react-native-awesome-card-io) - A complete and cross-platform card.io component for React Native (iOS and Android).
 - [ai-catalog](https://github.com/mehmetkahya0/ai-catalog) - Huge AI models catalog. A curated list of AI tools, platforms, and resources across various domains.
-- [Awesome-Prompting-on-Vision-Language-Model](https://github.com/JindongGu/Awesome-Prompting-on-Vision-Language-Model) - This repo lists relevant papers summarized in our survey paper:  A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models.
 - [awesome-integration](https://github.com/stn1slv/awesome-integration) - A curated list of awesome system integration software and resources.
 - [awesome-open-source-systems](https://github.com/ishanvyas22/awesome-open-source-systems) - :sunglasses: A curated list of awesome Free Open Source Softwares(FOSS).
 - [awesome-portugal-data](https://github.com/rgllm/awesome-portugal-data) - 🇵🇹 Lista de repositórios de dados abertos em Portugal.
@@ -2637,9 +2639,9 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-llm-unlearning](https://github.com/chrisliu298/awesome-llm-unlearning) - A resource repository for machine unlearning in large language models.
 - [awesome-appium](https://github.com/SrinivasanTarget/awesome-appium) - A curated list of delightful Appium resources.
 - [awesome-raspberry-pi](https://github.com/blackout314/awesome-raspberry-pi) - Curated list of projects with raspberry pi.
-- [awesome-faceReenactment](https://github.com/DaddyJin/awesome-faceReenactment) - Papers about Face Reenactment/Talking Face Generation.
 - [Awesome-Document-Image-Rectification](https://github.com/fh2019ustc/Awesome-Document-Image-Rectification) - A comprehensive list of awesome document image rectification papers.
 - [chrome-extensions](https://github.com/learn-anything/chrome-extensions) - Awesome Chrome Extensions.
+- [awesome-faceReenactment](https://github.com/DaddyJin/awesome-faceReenactment) - Papers about Face Reenactment/Talking Face Generation.
 - [awesome-end-to-end-autonomous-driving](https://github.com/opendilab/awesome-end-to-end-autonomous-driving) - A curated list of awesome End-to-End Autonomous Driving resources (continually updated).
 - [awesome-edge-computing](https://github.com/qijianpeng/awesome-edge-computing) - A curated list of awesome edge computing, including Frameworks, Simulators, Tools, etc.
 - [open-source-handbook](https://github.com/shainakrumme/open-source-handbook) - ⭐️ Open source projects for all skill levels.
@@ -2705,9 +2707,9 @@ Last generated: 2025-08-14, 8759 lists.
 - [Awesome-Image-Matting](https://github.com/wchstrife/Awesome-Image-Matting) - :notebook: A curated list of deep learning image matting papers and codes.
 - [awesome-ai-infrastructures](https://github.com/1duo/awesome-ai-infrastructures) - Infrastructures™ for Machine Learning Training/Inference in Production.
 - [WinUI-3-Apps-List](https://github.com/DesignLipsx/WinUI-3-Apps-List) - A curated collection of over 420+ apps that embrace the WinUI 3 Design.
-- [awesome-ocelot](https://github.com/geffzhang/awesome-ocelot) - A curated list of awesome ocelot books, courses, trainings, conference talks, blogs and most inspiring open source contributors.
 - [awesome-oss-investors](https://github.com/jonathimer/awesome-oss-investors) - Awesome list of VCs investing in commercial open-source startups 💸.
 - [awesome-dashboards](https://github.com/omarkdev/awesome-dashboards) - List of dashboards free to use.
+- [awesome-ocelot](https://github.com/geffzhang/awesome-ocelot) - A curated list of awesome ocelot books, courses, trainings, conference talks, blogs and most inspiring open source contributors.
 - [awesome-maps](https://github.com/simsieg/awesome-maps) - There is more than google: A collection of great online maps 🌍🗺🌎.
 - [awesome-llms-fine-tuning](https://github.com/Curated-Awesome-Lists/awesome-llms-fine-tuning) - Explore a comprehensive collection of resources, tutorials, papers, tools, and best practices for fine-tuning Large Language Models (LLMs). Perfect for ML practitioners and researchers!.
 - [awesome-js-tooling-in-rust](https://github.com/karimould/awesome-js-tooling-in-rust) - A curated list of JavaScript tooling written in Rust.
@@ -2791,6 +2793,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [Awesome-Ollama](https://github.com/EndoTheDev/Awesome-Ollama) - An opinionated list of awesome Ollama web and desktop uis, frameworks, libraries, software and resources.
 - [awesome-grad-school](https://github.com/poloclub/awesome-grad-school) - 🎓 Advice and resources for thriving and surviving graduate school.
 - [ProjectSoundtracks](https://github.com/sarthology/ProjectSoundtracks) - 🎧 List of best Soundtracks to boost your Productivity and Focus.
+- [awesome-book-authoring](https://github.com/TalAter/awesome-book-authoring) - :books: A collection of awesome resources for technical book authors.
 - [awesome-kubernetes-threat-detection](https://github.com/jatrost/awesome-kubernetes-threat-detection) - A curated list of resources about detecting threats and defending Kubernetes systems.
 - [awesome-data-llm](https://github.com/weAIDB/awesome-data-llm) - Official Repository of "LLM × DATA" Survey Paper.
 - [awesome-bioie](https://github.com/caufieldjh/awesome-bioie) - 🧫 A curated list of resources relevant to doing Biomedical Information Extraction (including BioNLP).
@@ -2801,7 +2804,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-sql](https://github.com/danhuss/awesome-sql) - List of tools and techniques for working with relational databases.
 - [awesome-aleo](https://github.com/howardwu/awesome-aleo) - 🏎️ A curated list of Aleo & Leo code and resources 🏎️.
 - [awesome-manim](https://github.com/ManimCommunity/awesome-manim) - A database with many Manim users and content creators.
-- [awesome-book-authoring](https://github.com/TalAter/awesome-book-authoring) - :books: A collection of awesome resources for technical book authors.
 - [awesome-WebVR](https://github.com/wizztjh/awesome-WebVR) - A curated list of awesome WebVR packages and resources.
 - [awesome-h2o](https://github.com/h2oai/awesome-h2o) - A curated list of research, applications and projects built using the H2O Machine Learning platform.
 - [awesome-pdm](https://github.com/pdm-project/awesome-pdm) - A curated list of awesome PDM plugins and resources.
@@ -2833,6 +2835,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-MATLAB](https://github.com/mikecroucher/awesome-MATLAB) - A curated list of awesome MATLAB toolboxes, applications, software and resources.
 - [Awesome-Multi-Task-Learning](https://github.com/SimonVandenhende/Awesome-Multi-Task-Learning) - A list of multi-task learning papers and projects. .
 - [awesome-visual-localization](https://github.com/siyandong/awesome-visual-localization) - A curated list of awesome visual localization research works.
+- [awesome-tools](https://github.com/sunlei/awesome-tools) - 我常用或收集的工具.
 - [awesome-kgqa](https://github.com/BshoterJ/awesome-kgqa) - A collection of some materials of knowledge graph question answering.
 - [awesome-rxjs](https://github.com/ichpuchtli/awesome-rxjs) - A collection of awesome RxJS resources.
 - [awesome-trustworthy-deep-learning](https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning) - A curated list of trustworthy deep learning papers. Daily updating.
@@ -2852,7 +2855,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [ABSAPapers](https://github.com/ZhengZixiang/ABSAPapers) - Worth-reading papers and related awesome resources on aspect-based sentiment analysis (ABSA). 值得一读的方面级情感分析论文与相关资源集合.
 - [awesome-self-sovereign-identity](https://github.com/animo/awesome-self-sovereign-identity) - An awesome list of self-sovereign identity resources.
 - [awesome-graal](https://github.com/neomatrix369/awesome-graal) - A curated list of awesome resources for Graal, GraalVM, Truffle and related topics.
-- [awesome-tools](https://github.com/sunlei/awesome-tools) - 我常用或收集的工具.
 - [list](https://github.com/awesome-yii/list) - A curated list of awesome Yii Framework extensions, tutorials and other nice things.
 - [awesome-infrared-small-targets](https://github.com/Tianfang-Zhang/awesome-infrared-small-targets) - List of awesome infrared small targets detection methods!.
 - [awesome-sec-s3](https://github.com/mxm0z/awesome-sec-s3) - A collection of awesome AWS S3 tools that collects and enumerates exposed S3 buckets.
@@ -2860,6 +2862,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [ai4artists](https://github.com/jonathandinu/ai4artists) - A list of AI Art courses, tools, libraries, people, and places.
 - [awesome-sqlite](https://github.com/planetopendata/awesome-sqlite) - A collection of awesome sqlite tools, scripts, books, etc.
 - [sentinel-awesome](https://github.com/sentinel-group/sentinel-awesome) - A curated list of awesome things (resource, sample, extensions) for Sentinel.
+- [awesome-websites](https://github.com/StanForever/awesome-websites) - A curated list of awesome websites.
 - [awesome-tester](https://github.com/GitDzreal93/awesome-tester) - 测试开发各种资源汇总.
 - [awesome-metaverse-zh](https://github.com/houbb/awesome-metaverse-zh) - Awesome metaverse projects (元宇宙精选资源汇总).
 - [awesome-github-wiki](https://github.com/MyHoneyBadger/awesome-github-wiki) - :neckbeard: Awesome list GitHub Wikis.
@@ -2878,12 +2881,11 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-camouflaged-object-detection](https://github.com/visionxiang/awesome-camouflaged-object-detection) - A curated list of awesome resources for camouflaged/concealed object detection (COD).
 - [awesome-ebooks-list](https://github.com/ebooklist/awesome-ebooks-list) - 编程类电子书合集.
 - [Awesome-LLM-Prompt-Optimization](https://github.com/jxzhangjhu/Awesome-LLM-Prompt-Optimization) - Awesome-LLM-Prompt-Optimization: a curated list of advanced prompt optimization and tuning methods in Large Language Models.
+- [awesome-reinforcement-learning-lib](https://github.com/wwxFromTju/awesome-reinforcement-learning-lib) - GitHub's code repository is all you need.
 - [awesome-pgo](https://github.com/zamazan4ik/awesome-pgo) - Various materials about Profile Guided Optimization and other similar stuff like AutoFDO, Bolt, etc.
 - [awesome-ava](https://github.com/avajs/awesome-ava) - Awesome AVA resources.
 - [awesome-fuse](https://github.com/fuse-compound/awesome-fuse) - A curated list of awesome Fuse applications, articles, and plugins.
 - [awesome-model-compression-and-acceleration](https://github.com/sun254/awesome-model-compression-and-acceleration) - A list of awesome papers on deep model ompression and acceleration.
-- [awesome-reinforcement-learning-lib](https://github.com/wwxFromTju/awesome-reinforcement-learning-lib) - GitHub's code repository is all you need.
-- [awesome-websites](https://github.com/StanForever/awesome-websites) - A curated list of awesome websites.
 - [awesome-nlprojects](https://github.com/costezki/awesome-nlprojects) - List of projects related to Natural Language Processing (NLP) that make a geek smile for they exist.
 - [Awesome_Satellite_Benchmark_Datasets](https://github.com/Seyed-Ali-Ahmadi/Awesome_Satellite_Benchmark_Datasets) - Supplementary material for our paper "THERE IS NO DATA LIKE MORE DATA" is provided.
 - [awesome-universal-rendering](https://github.com/brillout/awesome-universal-rendering) - Awesome resources about server side sendering (SSR), static rendering, pre-rendering, static site generators (SSG).
@@ -2905,10 +2907,10 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-flutter-talks](https://github.com/Rahiche/awesome-flutter-talks) - A list of Flutter related talks .
 - [awesome-gans-and-deepfakes](https://github.com/enochkan/awesome-gans-and-deepfakes) - A curated list of GAN & Deepfake papers and repositories.
 - [awesome-cryptoeconomics](https://github.com/L4ventures/awesome-cryptoeconomics) - 📚 A curated collection of links for cryptoeconomists.
+- [a11y-courses](https://github.com/mgifford/a11y-courses) - Courses offered in web accessibility (and other learning opportunities).
 - [awesome-privacy](https://github.com/guyanqi/awesome-privacy) - Repository for collection of research papers on privacy. .
 - [Awesome-Federated-Learning-on-Graph-and-GNN-papers](https://github.com/huweibo/Awesome-Federated-Learning-on-Graph-and-GNN-papers) - Federated learning on graph, especially on graph neural networks (GNNs), knowledge graph, and private GNN.
 - [awesome-hangul](https://github.com/lqez/awesome-hangul) - An awesome list of Hangul/Korean related libraries and modules.
-- [a11y-courses](https://github.com/mgifford/a11y-courses) - Courses offered in web accessibility (and other learning opportunities).
 - [awesome-zero-knowledge](https://github.com/odradev/awesome-zero-knowledge) - A curated list of Zero Knowledge links, mostly focusing on blockchain.
 - [awesome-eks](https://github.com/realvz/awesome-eks) - A curated list of awesome tools for Amazon EKS 🌊.
 - [Text-Summarization-Repo](https://github.com/uoneway/Text-Summarization-Repo) - 텍스트 요약 분야의 주요 연구 주제, Must-read Papers, 이용 가능한 model 및 data 등을 추천 자료와 함께 정리한 저장소입니다.
@@ -2926,13 +2928,14 @@ Last generated: 2025-08-14, 8759 lists.
 - [Awesome-NodeJS](https://github.com/tejasrsuthar/Awesome-NodeJS) - A curated collection of best Node.js Resources ✍️.
 - [awesome-mcp-servers](https://github.com/tensorblock/awesome-mcp-servers) - A comprehensive collection of Model Context Protocol (MCP) servers.
 - [Awesome-Mamba-in-Low-Level-Vision](https://github.com/csguoh/Awesome-Mamba-in-Low-Level-Vision) - A paper list of recent mamba efforts for low-level vision.
+- [awesome-deep-phenomena](https://github.com/MinghuiChen43/awesome-deep-phenomena) - A curated list of papers of interesting empirical study and insight on deep learning. Continually updating.
 - [Awesome-Extensions](https://github.com/runningcheese/Awesome-Extensions) - Awesome Extensions for Chrome, Edge and Firefox.
 - [awesome-cs-tutorial](https://github.com/sanbuphy/awesome-cs-tutorial) -   计算机基础、人工智能学习工具、技巧合集 | A collection of ComputerScience and DeepLearning tutorial and tools. .
 - [awesome-recommend-system-pretraining-papers](https://github.com/archersama/awesome-recommend-system-pretraining-papers) - Paper List for Recommend-system  PreTrained Models.
+- [awesome-taleb](https://github.com/cetiny/awesome-taleb) - A curated list of awesome things about Nassim Nicholas Taleb.
 - [awesome-pt](https://github.com/sabersalv/awesome-pt) - A curated list of awesome private tracker tools. PT工具集.
 - [awesome-MIM](https://github.com/ucasligang/awesome-MIM) - Reading list for research topics in Masked Image Modeling.
 - [Awesome-Open-Vocabulary-Object-Detection](https://github.com/witnessai/Awesome-Open-Vocabulary-Object-Detection) - A curated list of papers, datasets and resources pertaining to open vocabulary object detection.
-- [awesome-taleb](https://github.com/cetiny/awesome-taleb) - A curated list of awesome things about Nassim Nicholas Taleb.
 - [awesome-board-games](https://github.com/edm00se/awesome-board-games) - A curated list of awesome and exceptional board games. Please contribute!.
 - [awesome-android-architecture](https://github.com/jsonchao/awesome-android-architecture) - :rocket: Android 架构师成长之路（进行中~）.
 - [awesome-software-design-ja](https://github.com/Katsukiniwa/awesome-software-design-ja) - 日本語でのソフトウェア開発・設計に関する記事や書籍をまとめたリポジトリです.
@@ -2962,7 +2965,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [Awesome-Multimodality](https://github.com/Yutong-Zhou-cv/Awesome-Multimodality) - A Survey on multimodal learning research.
 - [Awesome-Shadow-Removal](https://github.com/GuoLanqing/Awesome-Shadow-Removal) - Collection of  recent shadow removal works, including papers, codes, datasets, and metrics.
 - [awesome-latticeFPGAs](https://github.com/kelu124/awesome-latticeFPGAs) - :book: List of FPGA Lattice boards using open tools.
-- [awesome-deep-phenomena](https://github.com/MinghuiChen43/awesome-deep-phenomena) - A curated list of papers of interesting empirical study and insight on deep learning. Continually updating.
 - [awesome-tech-conferences](https://github.com/trstringer/awesome-tech-conferences) - :loudspeaker: A curated list of upcoming technical conferences.
 - [ASIC-Design-Roadmap](https://github.com/abdelazeem201/ASIC-Design-Roadmap) - The journey of designing an ASIC (application specific integrated circuit) is long and involves a number of major steps – moving from a concept to specification to tape-outs. Although the end product is typically quite small (measured in nanometers), this long journey is interesting and filled with many engineering challenges.
 - [awesome-forests](https://github.com/blutjens/awesome-forests) - 🌳 A curated list of ground-truth forest datasets for the machine learning and forestry community.
@@ -2970,6 +2972,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [Awesome-3D-AIGC](https://github.com/mdyao/Awesome-3D-AIGC) - A curated list of papers and open-source resources focused on 3D AIGC.
 - [awesome-domain-adaptation-object-detection](https://github.com/wangs311/awesome-domain-adaptation-object-detection) - A collection of papers about domain adaptation object detection. Welcome to PR the works (papers, repositories) that are missed by the repo.
 - [awesome-fuse-fs](https://github.com/koding/awesome-fuse-fs) - Resources related to FUSE (filesystem in user space).
+- [awesome-crawler-cn](https://github.com/liinnux/awesome-crawler-cn) - 互联网爬虫，蜘蛛，数据采集器，网页解析器的汇总，因新技术不断发展，新框架层出不穷，此文会不断更新.
 - [awesome-deep-learning-and-machine-learning-questions](https://github.com/bat67/awesome-deep-learning-and-machine-learning-questions) - 【不定期更新】收集整理的一些网站中（如知乎、Quora、Reddit、Stack Exchange等）与深度学习、机器学习、强化学习、数据科学相关的有价值的问题.
 - [awesome-snn-conference-paper](https://github.com/AXYZdong/awesome-snn-conference-paper) - 🔥 This repo collects top international conference papers, codes about Spiking Neural Networks. 本仓库收集了脉冲神经网络领域的顶会顶刊论文和代码，正在持续更新中。.
 - [awesome-fairness-in-ai](https://github.com/datamllab/awesome-fairness-in-ai) - A curated list of awesome Fairness in AI resources.
@@ -2996,7 +2999,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [research-papers](https://github.com/learn-anything/research-papers) - Awesome Research Papers.
 - [awesome-gpt3](https://github.com/mikhail-bot/awesome-gpt3) - Curating the best GPT3 tools and resources.
 - [awesome-streaming-tools](https://github.com/juancarlospaco/awesome-streaming-tools) - Awesome Streaming Tools.
-- [awesome-crawler-cn](https://github.com/liinnux/awesome-crawler-cn) - 互联网爬虫，蜘蛛，数据采集器，网页解析器的汇总，因新技术不断发展，新框架层出不穷，此文会不断更新.
 - [awesome-lottie](https://github.com/LottieFiles/awesome-lottie) - A curated list of bookmarks, libraries, tools and resources related to Lottie and Bodymovin.
 - [awesome-object-pose](https://github.com/nkalavak/awesome-object-pose) - This repository is a curated list of papers and open source code for 6D Object Pose Estimation.
 - [awesome-deep-optics](https://github.com/singer-yang/awesome-deep-optics) - A paper list for deep optics design.
@@ -3010,10 +3012,10 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-mlops](https://github.com/pythondeveloper6/awesome-mlops) - All the available resources to master MLOPS from scratch .
 - [awesome-gank.io](https://github.com/ruijun/awesome-gank.io) - The repository is used to collect the awesome code of gank.io.
 - [Awesome-Nuget-Packages](https://github.com/mjebrahimi/Awesome-Nuget-Packages) - 📦 A curated list of awesome and best Nuget packages sorted by most popular ones.
+- [awesome-raspberry-pi-zh](https://github.com/1021683053/awesome-raspberry-pi-zh) - 树莓派工具，镜像，教程，文章.
 - [awesome-embedded-linux](https://github.com/fkromer/awesome-embedded-linux) - A curated list of awesome Embedded Linux resources.
 - [awesome-differential-privacy](https://github.com/menisadi/awesome-differential-privacy) - List of differential-privacy related resources.
 - [Awesome-3D-LiDAR-Datasets](https://github.com/minwoo0611/Awesome-3D-LiDAR-Datasets) - This reposiotry is the collection for public 3D LiDAR datasets.
-- [awesome-raspberry-pi-zh](https://github.com/1021683053/awesome-raspberry-pi-zh) - 树莓派工具，镜像，教程，文章.
 - [awesome-aurelia](https://github.com/aurelia-contrib/awesome-aurelia) - A curated list of amazingly awesome Aurelia libraries.
 - [awesome-RGBD-SLAM](https://github.com/electech6/awesome-RGBD-SLAM) - RGB-D SLAM open sources，good papers，famous research institutions.
 - [awesome-hedera](https://github.com/hashgraph/awesome-hedera) - Hedera is an open-source, layer 1, EVM-compatible blockchain network. It supports smart contracts just like Ethereum does, and also offers several additional native services. The network is governed by leading organizations around the world.
@@ -3029,6 +3031,8 @@ Last generated: 2025-08-14, 8759 lists.
 - [angular-awesome-list](https://github.com/Angular-RU/angular-awesome-list) - Список ресурсов по Angular на русском.
 - [awesome-js-posts](https://github.com/palashmon/awesome-js-posts) - A curated list of the latest posts, blogs and repositories related to JavaScript.
 - [awesome-machine-learning-jupyter-notebooks-for-colab](https://github.com/toxtli/awesome-machine-learning-jupyter-notebooks-for-colab) - A curated list of Machine Learning and Deep Learning tutorials in Jupyter Notebook format ready to run in Google Colaboratory.
+- [awesome-AR](https://github.com/dharmeshkakadia/awesome-AR) - A curated list of awesome AR (Augmented Reality) resources.
+- [awesome-playcanvas](https://github.com/playcanvas/awesome-playcanvas) - A curated list of awesome PlayCanvas assets, resources, and more.
 - [awesome-macropad](https://github.com/prcutler/awesome-macropad) - A curated list of awesome applications, macros, 3D printed cases, guides, and more for the Adafruit CircuitPython rp2040 MacroPad.
 - [awesome-cuda-and-hpc](https://github.com/coderonion/awesome-cuda-and-hpc) - 🚀🚀🚀 This repository lists some awesome public CUDA, cuda-python, cuBLAS, cuDNN, CUTLASS, TensorRT, TensorRT-LLM, Triton, TVM, MLIR, PTX and High Performance Computing (HPC) projects.
 - [awesome-pycharm](https://github.com/JetBrains/awesome-pycharm) - A curated list of resources for learning and using PyCharm, a Python IDE from JetBrains.
@@ -3044,7 +3048,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-tss](https://github.com/ZenGo-X/awesome-tss) - A curated list of distributed key generation and threshold signatures implementations.
 - [awesome-kinesis](https://github.com/bbbbbrie/awesome-kinesis) - Unofficial curated list of resources and references for Kinesis keyboard enthusiasts.
 - [awesome-odoo](https://github.com/desdelinux/awesome-odoo) - A curated list of awesome Odoo resources.
-- [awesome-AR](https://github.com/dharmeshkakadia/awesome-AR) - A curated list of awesome AR (Augmented Reality) resources.
 - [awesome-digital-humanities](https://github.com/dh-tech/awesome-digital-humanities) - Software for humanities scholars using quantitative or computational methods.
 - [awesome-ember](https://github.com/nmec/awesome-ember) - A curated list of awesome Ember.js things.
 - [awesome-post-quantum](https://github.com/veorq/awesome-post-quantum) - A curated list of resources about post-quantum cryptography.
@@ -3104,11 +3107,11 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-opendirectories](https://github.com/Devaro3/awesome-opendirectories) - Websites for data hoarders - grouped by category.
 - [awesome-free-startup-resources](https://github.com/jasonnoahchoi/awesome-free-startup-resources) - Inspired by /u/fluffhead1 on Reddit. Many thanks for the start of such an awesome list.
 - [Pop_OS-Guide](https://github.com/mikeroyal/Pop_OS-Guide) - Pop!_OS Guide. Pop!_OS is an Operating System developed by System76.
+- [awesome-linux-minimalism](https://github.com/MindPatch/awesome-linux-minimalism) - Awesome linux minimalism suggestions.
 - [awesome-citygml](https://github.com/OloOcki/awesome-citygml) - The ultimate list of open data semantic 3D city models.
 - [awesome-fsrs](https://github.com/open-spaced-repetition/awesome-fsrs) - A curated list of awesome FSRS implementations, papers and resources.
 - [awesome-synthetic-datasets](https://github.com/davanstrien/awesome-synthetic-datasets) - Awesome synthetic (text) datasets.
 - [awesome-rancher](https://github.com/jmreicha/awesome-rancher) - Curated list of Rancher resources.
-- [awesome-linux-minimalism](https://github.com/MindPatch/awesome-linux-minimalism) - Awesome linux minimalism suggestions.
 - [awesome-frontend-resources](https://github.com/requestly/awesome-frontend-resources) - A curated collection of awesome resources for frontend developers: tutorials, tools, libraries, design assets, and more! 🚀.
 - [awesome-winui](https://github.com/scottkuhl/awesome-winui) - A collection of awesome resources for WinUI / Windows developers.
 - [awesome-ynab](https://github.com/scottrobertson/awesome-ynab) - A list of YNAB projects.
@@ -3119,7 +3122,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-nanopore](https://github.com/GoekeLab/awesome-nanopore) - A curated list of awesome nanopore analysis tools.
 - [awesome-nativescript](https://github.com/jbristowe/awesome-nativescript) - A curated list of awesome articles, plugins, and resources for NativeScript.
 - [Library-of-Ethereum](https://github.com/ArpitIngle/Library-of-Ethereum) - Curated Collection of Ethereum Ecosystem Resources.
-- [awesome-playcanvas](https://github.com/playcanvas/awesome-playcanvas) - A curated list of awesome PlayCanvas assets, resources, and more.
+- [Awesome-LWMs](https://github.com/jaychempan/Awesome-LWMs) - A Collection of Awesome Large Weather Models (LWMs) |  AI for Earth (AI4Earth) | AI for Science (AI4Science).
 - [awesome-autonomous-gpt](https://github.com/ScarletPan/awesome-autonomous-gpt) - A curated list of awesome projects and resources related to autonomous AI agents.
 - [awesome_long_form_video_understanding](https://github.com/ttengwang/awesome_long_form_video_understanding) - Awesome papers & datasets specifically focused on long-term videos. .
 - [awesome-package-maintainer](https://github.com/jubalh/awesome-package-maintainer) - How to become a packager.
@@ -3142,6 +3145,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-websocket-security](https://github.com/PalindromeLabs/awesome-websocket-security) - Awesome information for WebSockets security research.
 - [graph-networks](https://github.com/yazdotai/graph-networks) - A list of interesting graph neural networks (GNN) links with a primary interest in recommendations and tensorflow that is continually updated and refined.
 - [awesome-security-collection](https://github.com/alphaSeclab/awesome-security-collection) - 1000+ GitHub Security Resource Collection Repos.
+- [awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese) - 🦩 优秀的中文区个人主页搜集.
 - [awesome-conditional-content-generation](https://github.com/haofanwang/awesome-conditional-content-generation) - Update-to-data resources for conditional content generation, including human motion generation, image or video generation and editing.
 - [awesome-consul](https://github.com/josegonzalez/awesome-consul) - A list of awesome consul projects, libraries.
 - [awesome-zotero](https://github.com/mohamedelashri/awesome-zotero) - A curated list of awesome Zotero resources.
@@ -3174,22 +3178,21 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-emotion-recognition-in-conversations](https://github.com/declare-lab/awesome-emotion-recognition-in-conversations) - A comprehensive reading list for Emotion Recognition in Conversations.
 - [Awesome-ML-SP-Papers](https://github.com/gnipping/Awesome-ML-SP-Papers) - A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS).
 - [awesome-tensorlayer](https://github.com/tensorlayer/awesome-tensorlayer) - A curated list of dedicated resources and applications.
-- [Awesome-LWMs](https://github.com/jaychempan/Awesome-LWMs) - 🌍  A Collection of Awesome Large Weather Models (LWMs) |  AI for Earth (AI4Earth) | AI for Science (AI4Science).
+- [awesome-world-models](https://github.com/leofan90/awesome-world-models) - A comprehensive list of papers for the definition of World Models and using World Models for General Video Generation, Embodied AI, and Autonomous Driving, including papers, codes, and related websites.
 - [awesome](https://github.com/better-auth/awesome) - A curated list of awesome things related to better-auth.
 - [awesome-doctrine](https://github.com/biberlabs/awesome-doctrine) - A curated list of amazingly awesome Doctrine 2 ORM related libraries, resources and shiny things.
 - [awesome-legal-nlp](https://github.com/maastrichtlawtech/awesome-legal-nlp) - 📖  A curated list of LegalNLP resources from all around the web.
 - [awesome-prml-ja](https://github.com/tsg-ut/awesome-prml-ja) - インターネット各地に散逸する「パターン認識と機械学習」の解説資料を集約するリポジトリ.
 - [awesome-transformer-search](https://github.com/automl/awesome-transformer-search) - A curated list of awesome resources combining Transformers with Neural Architecture Search.
 - [awesome-self-reference](https://github.com/aztek/awesome-self-reference) - A curated list of examples of self-reference in art, science, and technology.
-- [awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese) - 🦩 优秀的中文区个人主页搜集.
 - [awesome-AIOps](https://github.com/OpsPAI/awesome-AIOps) - A curated list of awesome academic researches and industrial materials about Artificial Intelligence for IT Operations (AIOps).
+- [awesome-programming-presentations](https://github.com/techgaun/awesome-programming-presentations) - Presentations that programmers should watch.
 - [awesome-neural-adaptation-in-NLP](https://github.com/bplank/awesome-neural-adaptation-in-NLP) - Awesome Neural Adaptation in Natural Language Processing. A curated list. 
 - [awesome-mvs](https://github.com/krahets/awesome-mvs) - A curated list of tutorials, papers, software related to multi-view stereo.
 - [awesome-digital-history](https://github.com/maehr/awesome-digital-history) - Find primary sources online and learn how to research history digitally.
 - [awesome-causality](https://github.com/napsternxg/awesome-causality) - Resources related to causality.
 - [awesome-iconjar](https://github.com/pluwen/awesome-iconjar) - 44 Collect free icon sets for iconjar. 收集免费的图标包，iconjar 格式（44套）。.
 - [Awesome-Code-Intelligence](https://github.com/QiushiSun/Awesome-Code-Intelligence) - Neural Code Intelligence Survey 2024; Reading lists and resources.
-- [awesome-programming-presentations](https://github.com/techgaun/awesome-programming-presentations) - Presentations that programmers should watch.
 - [awesome-jupyterlab-extension](https://github.com/Yogayu/awesome-jupyterlab-extension) - 😎 A curated list of awesome Jupyterlab extension projects. 🌠 Detailed introduction with images.
 - [awesome-adversarial-examples-dl](https://github.com/chbrian/awesome-adversarial-examples-dl) - A curated list of awesome resources for adversarial examples in deep learning.
 - [awesome-plan9](https://github.com/henesy/awesome-plan9) - A curated list of awesome Plan9-related documents, libraries, and software.
@@ -3215,8 +3218,8 @@ Last generated: 2025-08-14, 8759 lists.
 - [World-Simulator](https://github.com/ALEEEHU/World-Simulator) - Simulating the Real World: Survey & Resources, which contains our survey "Simulating the Real World: A Unified Survey of Multimodal Generative Models" and Awesome-Text2X-Resources. Watch this repository for the latest updates! 🔥.
 - [awesome-cell-detection-segmentation](https://github.com/blakeliu/awesome-cell-detection-segmentation) - Nucleus/cell and histopathology image classification,detection,segmentation.
 - [Awesome-Medical-Healthcare-Dataset-For-LLM](https://github.com/onejune2018/Awesome-Medical-Healthcare-Dataset-For-LLM) - A curated list of popular Datasets, Models and Papers for LLMs in Medical/Healthcare.
-- [awesome-dnd](https://github.com/flamableconcrete/awesome-dnd) - Resources for Dungeons & Dragons.
 - [awesome-controllable-video-generation](https://github.com/mayuelala/awesome-controllable-video-generation) - 🚀🚀🚀A curated list of papers on controllable video generation. .
+- [awesome-dnd](https://github.com/flamableconcrete/awesome-dnd) - Resources for Dungeons & Dragons.
 - [awesome-retrospectives](https://github.com/josephearl/awesome-retrospectives) - A curated list of resources for facilitating and learning about retrospectives.
 - [lobe-chat-plugins](https://github.com/lobehub/lobe-chat-plugins) - 🧩 / 🏪  Plugin Index - This is the plugin index for LobeChat. It accesses index.json from this repository to display a list of available plugins for LobeChat to the user.
 - [awesome-android-libraries](https://github.com/yeungeek/awesome-android-libraries) - Awesome android libraries.
@@ -3283,6 +3286,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-pentest](https://github.com/muhammd/awesome-pentest) - Awesome Penetration Testing   A collection of awesome penetration testing resources.
 - [awesome-snowflake](https://github.com/Snowflake-Labs/awesome-snowflake) - A curated list of resources about Snowflake.
 - [awesome-search-engine-optimization](https://github.com/thospfuller/awesome-search-engine-optimization) - A curated list of backlink, social signal opportunities, link building strategies and tactics, along with educational opportunities to help improve search engine results and ranking.
+- [reading-material](https://github.com/agrim123/reading-material) - List of some useful blogs, books, courses, papers etc. :books:.
 - [awesome-dendron](https://github.com/dendronhq/awesome-dendron) - A big list of Dendron docs, talks, tools, examples, articles, extensions, vaults, showcases, and more that the internet has to offer.
 - [awesome-plonk](https://github.com/Fluidex/awesome-plonk) - A curated list of awesome things related to plonk proof system.
 - [websites](https://github.com/learn-anything/websites) - Awesome Websites.
@@ -3306,17 +3310,17 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-clip](https://github.com/talkuhulk/awesome-clip) - A curated list of research based on CLIP.
 - [awesome-tuist](https://github.com/tuist/awesome-tuist) - A community-driven collection of Tuist related posts, plugins, talks, and much more.
 - [Awesome-LegalAI-Resources](https://github.com/CSHaitao/Awesome-LegalAI-Resources) - This repository aims to collect all LegalAI data to facilitate the development of intelligent justice systems.
+- [awesome-malware-persistence](https://github.com/Karneades/awesome-malware-persistence) - A curated list of awesome malware persistence tools and resources. .
 - [awesome-distributed-ml](https://github.com/Shenggan/awesome-distributed-ml) - A curated list of awesome projects and papers for distributed training or inference.
 - [awesome-clojure-likes](https://github.com/chr15m/awesome-clojure-likes) - Curated list of Clojure-like programming languages.
 - [Data-Engineering-Roadmap](https://github.com/ErdemOzgen/Data-Engineering-Roadmap) - Roadmap for Data Engineering.
 - [awesome-persian](https://github.com/fffaraz/awesome-persian) - A curated list of amazingly awesome Persian supporting tools, fonts, and development resources.
+- [awesome-gdpr](https://github.com/oppoverbakke/awesome-gdpr) - Protection of natural persons with regard to the processing of personal data and on the free movement of such data.
 - [awesome-machine-learning-robotics](https://github.com/Phylliade/awesome-machine-learning-robotics) - A curated list of resources about Machine Learning for Robotics.
 - [awesome-kql-sentinel](https://github.com/reprise99/awesome-kql-sentinel) - A curated list of blogs, videos, tutorials, queries and anything else valuable to help you learn and master KQL and Microsoft Sentinel.
 - [Awesome](https://github.com/ScoopInstaller/Awesome) - A curated list of awesome Scoop resources and more.
-- [reading-material](https://github.com/agrim123/reading-material) - List of some useful blogs, books, courses, papers etc. :books:.
 - [awesome-ai4molconformation-md](https://github.com/aspirincode/awesome-ai4molconformation-md) - List of molecules (small molecules, RNA, peptide, protein, enzymes, antibody,  and PPIs)  conformations and molecular dynamics (force fields) using generative artificial intelligence and deep learning.
 - [Awesome-Semi-Supervised-Semantic-Segmentation](https://github.com/BBBBchan/Awesome-Semi-Supervised-Semantic-Segmentation) - A summary of recent semi-supervised semantic segmentation methods.
-- [awesome-gdpr](https://github.com/oppoverbakke/awesome-gdpr) - Protection of natural persons with regard to the processing of personal data and on the free movement of such data.
 - [awesome-log4shell](https://github.com/snyk-labs/awesome-log4shell) - An Awesome List of Log4Shell resources to help you stay informed and secure! 🔒.
 - [awesome-clang](https://github.com/ingve/awesome-clang) - Useful resources and samples for using Clang-related tools, or for building stuff on top of Clang.
 - [awesome-optimal-transport](https://github.com/kilianFatras/awesome-optimal-transport) - A list of awesome papers and cool resources on optimal transport and its applications in general! As you will notice, this list is currently mostly focused on optimal transport for machine learning topics.
@@ -3329,11 +3333,12 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-normalization-techniques](https://github.com/tczhangzhi/awesome-normalization-techniques) - Papers for normalization techniques, released codes collections.
 - [awesome-platform-engineering](https://github.com/toptechevangelist/awesome-platform-engineering) - An awesome list of Platform Engineering 平台工程列表.
 - [fucking-the-book-of-secret-knowledge](https://github.com/Correia-jpv/fucking-the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. With repository stars⭐ and forks🍴.
-- [awesome-malware-persistence](https://github.com/Karneades/awesome-malware-persistence) - A curated list of awesome malware persistence tools and resources. .
 - [awesome-urbit](https://github.com/urbit/awesome-urbit) - A curated collection of projects and tools in the Urbit ecosystem.
 - [staticsitegenerators](https://github.com/bevry/staticsitegenerators) - A comprehensive, partially automatically generated comparison of static site generators.
+- [awesome-kubernetes-operator-resources](https://github.com/calvin-puram/awesome-kubernetes-operator-resources) - A curated list of awesome resources: articles, books and videos about Kubernetes Operators.
 - [awesome-twitter-tools](https://github.com/hridaydutta123/awesome-twitter-tools) - A curated list of awesome twitter tools.
 - [Awesome-Foundation-Models-for-Weather-and-Climate](https://github.com/shengchaochen82/Awesome-Foundation-Models-for-Weather-and-Climate) - A comprehesive survey about foundation models for weather and cliamte data understanding.
+- [awesome-computercraft](https://github.com/tomodachi94/awesome-computercraft) - Useful libraries, programs, literature, and mods for ComputerCraft and its forks.
 - [Awesome-Human-Video-Generation](https://github.com/wentaoL86/Awesome-Human-Video-Generation) - A work list of recent human video generation method. This repository focus on half/full body human video generation method, The Nerf, Gaussian splashing, Motion Pose, and talking head/Portrait is not included. Our details survey is online now.
 - [awesome-deep-neuroevolution](https://github.com/Alro10/awesome-deep-neuroevolution) - A collection of Deep Neuroevolution resources or evolutionary algorithms applying in Deep Learning (constantly updating).
 - [awesome-CAD](https://github.com/bertjiazheng/awesome-CAD) - 😎 A list of awesome Computer-Aided Design (CAD) papers.
@@ -3346,10 +3351,11 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-brasil](https://github.com/vinicius73/awesome-brasil) - Uma lista de projetos Open Source Brasileiros!.
 - [awesome-llm-reasoning-openai-o1-survey](https://github.com/wjn1996/awesome-llm-reasoning-openai-o1-survey) - The related works and background techniques about Openai o1.
 - [awesome-medical-imaging](https://github.com/fepegar/awesome-medical-imaging) - Awesome list of software that I use to do research in medical imaging.
+- [awesome-digital-marketing](https://github.com/paulbradish/awesome-digital-marketing) - 😎 A curated list of awesome digital marketing guides, resources, services, & more.
 - [awesome-seed-rs](https://github.com/seed-rs/awesome-seed-rs) - A curated list of awesome things related to Seed.
 - [awesome-bimanual-manipulation](https://github.com/Skylark0924/awesome-bimanual-manipulation) - Robot bimanual manipulation / dual-arm manipulation .
+- [awesome-ideation-tools](https://github.com/zazaalaza/awesome-ideation-tools) - Problem solving and idea generation tools.
 - [awesome-all](https://github.com/bradoyler/awesome-all) - A curated list of awesome lists of awesome frameworks, libraries and software.
-- [awesome-kubernetes-operator-resources](https://github.com/calvin-puram/awesome-kubernetes-operator-resources) - A curated list of awesome resources: articles, books and videos about Kubernetes Operators.
 - [MOOC-MBA](https://github.com/dperconti/MOOC-MBA) - Path to a free self-taught education in Business.
 - [awesome-long2short-on-lrms](https://github.com/hongcheng-gao/awesome-long2short-on-lrms) - Awesome-Long2short-on-LRMs is a collection of state-of-the-art, novel, exciting long2short methods on large reasoning models. It contains papers, codes, datasets, evaluations, and analyses.
 - [Awesome-Machine-Generated-Text](https://github.com/ICTMCG/Awesome-Machine-Generated-Text) - Continuously updated list of related resources for generative LLMs like GPT and their analysis and detection.
@@ -3359,7 +3365,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [Awesome-RAG](https://github.com/lucifertrj/Awesome-RAG) - RAG-VectorDB-Embedings-LlamaIndex-Langchain.
 - [awesome-i2p](https://github.com/mikalv/awesome-i2p) - A curated list of awesome I2P implementations, libraries, resources, projects, and shiny things. I2P is an anonymous overlay network - a network within a network. It is intended to protect communication from dragnet surveillance and monitoring by third parties such as ISPs.
 - [awesome-rehype](https://github.com/rehypejs/awesome-rehype) - Curated list of awesome rehype resources.
-- [awesome-ideation-tools](https://github.com/zazaalaza/awesome-ideation-tools) - Problem solving and idea generation tools.
 - [awesome-tabletop-rpgs](https://github.com/Zireael07/awesome-tabletop-rpgs) - Awesome list of free and/or open source tabletop RPGs.
 - [awesome-small-molecule-ml](https://github.com/benb111/awesome-small-molecule-ml) - A curated list of resources for machine learning for small-molecule drug discovery.
 - [awesome-storage](https://github.com/dalisoft/awesome-storage) - List of awesome cloud storage providers for individuals and family sorted by minimal plan price.
@@ -3377,12 +3382,12 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-cafezin](https://github.com/LetticiaNicoli/awesome-cafezin) - Lista pra vc que está buscando um cafezin incrível ☕️ ✨  🇧🇷 .
 - [awesome-marketing](https://github.com/ninjasort/awesome-marketing) - A curated list of resources related to internet marketing.
 - [awesome-web3.0](https://github.com/surajondev/awesome-web3.0) - A collection of awesome resources to learn Web 3.0🚀.
+- [awesome-learn](https://github.com/csantanapr/awesome-learn) - Cloud Native Learning Path.
 - [awesome-llm-pretraining](https://github.com/RUCAIBox/awesome-llm-pretraining) - Awesome LLM pre-training resources, including data, frameworks, and methods.
 - [awesome-scs](https://github.com/SJTU-SCS/awesome-scs) - 上海交通大学网安学院本科编程作业参考.
 - [awesome-tact](https://github.com/tact-lang/awesome-tact) - List of Tact-related resources and projects.
 - [awesome-umbraco](https://github.com/umbraco-community/awesome-umbraco) - A curated list of awesome Umbraco packages, resources and tools.
 - [awesome-passive-income](https://github.com/yourincomehome/awesome-passive-income) - A curated list of ways to make money online.
-- [awesome-learn](https://github.com/csantanapr/awesome-learn) - Cloud Native Learning Path.
 - [gpu-guide](https://github.com/mikeroyal/gpu-guide) - Graphics Processing Unit (GPU) Architecture Guide.
 - [Awesome-InverseRendering](https://github.com/tkuri/Awesome-InverseRendering) - List of awesome papers on Intrinsic Decomposition & Inverse Rendering.
 - [awesome-devins](https://github.com/e2b-dev/awesome-devins) - Awesome Devin-inspired AI agents.
@@ -3453,10 +3458,8 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-lesscode](https://github.com/dream2023/awesome-lesscode) - Less code / no code 前后端实践和工具列表.
 - [awesome-llm-attributions](https://github.com/HITsz-TMG/awesome-llm-attributions) - A Survey of Attributions for Large Language Models.
 - [awesome-homematic](https://github.com/homematic-community/awesome-homematic) - A curated list of Homematic related links :sparkles:.
-- [awesome-digital-marketing](https://github.com/paulbradish/awesome-digital-marketing) - 😎 A curated list of awesome digital marketing guides, resources, services, & more.
 - [awesome-egraphs](https://github.com/philzook58/awesome-egraphs) - An awesome list of e-graph resources.
 - [awesome-chip-8](https://github.com/tobiasvl/awesome-chip-8) - List of CHIP-8 resources.
-- [awesome-computercraft](https://github.com/tomodachi94/awesome-computercraft) - Useful libraries, programs, literature, and mods for ComputerCraft and its forks.
 - [awesome-harmony](https://github.com/Wscats/awesome-harmony) - 收录来源于网上鸿蒙系统开发的相关资料.
 - [awesome-amqp](https://github.com/xinchen10/awesome-amqp) - A curated list of AMQP 1.0 resources.
 - [awesome-deep-reinforcement-learning](https://github.com/jgvictores/awesome-deep-reinforcement-learning) - Curated list for Deep Reinforcement Learning (DRL): software frameworks, models, datasets, gyms, baselines.
@@ -3480,6 +3483,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-onsenui](https://github.com/OnsenUI/awesome-onsenui) - A curated list of awesome Onsen UI resources.
 - [awesome-flutter-linux](https://github.com/jpnurmi/awesome-flutter-linux) - A curated list of awesome Linux-specific Flutter packages and projects.
 - [awesome-table-structure-recognition](https://github.com/MathamPollard/awesome-table-structure-recognition) - A Curated List of Awesome Table Structure Recognition (TSR) Research. Including models, papers, datasets and codes. Continuously updating.
+- [awesome-adhd](https://github.com/mrseth01/awesome-adhd) - Awesome Resources for ADHD.
 - [awesome-dronecraft](https://github.com/ntakouris/awesome-dronecraft) - Resources to fully understand how autonomous drones work.
 - [awesome-webhooks](https://github.com/realadeel/awesome-webhooks) - A curated list about real-time webhooks.
 - [awesome-osticket](https://github.com/clonemeagain/awesome-osticket) - A curated list of awesome osTicket resources, plugins, tutorials and other nice things.
@@ -3488,7 +3492,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-simd](https://github.com/awesome-simd/awesome-simd) - A curated list of awesome SIMD frameworks, libraries and software.
 - [awesome-biological-visualizations](https://github.com/keller-mark/awesome-biological-visualizations) - A list of web-based interactive biological data visualizations.
 - [awesome-bikeprojects](https://github.com/mltbnz/awesome-bikeprojects) - A curated list of awesome projects around the bicycle 🚲.
-- [awesome-adhd](https://github.com/mrseth01/awesome-adhd) - Awesome Resources for ADHD.
 - [awesome-state](https://github.com/tnfe/awesome-state) - Collection of state management lib.
 - [awesome-llm-courses](https://github.com/wikit-ai/awesome-llm-courses) - A curated list of awesome online courses about Large Langage Models (LLMs).
 - [awesome-repositories](https://github.com/0xRitesh/awesome-repositories) - Useful GitHub Repos That Every Developer Should Follow.
@@ -3517,6 +3520,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [cuban-opensource](https://github.com/cuban-opensourcers/cuban-opensource) - Awesome list of Cuban opensource projects. Just to know what is being openly developed in Cuba.
 - [awesome-linux-apps](https://github.com/cuongndc9/awesome-linux-apps) - 🚀 A list of awesome applications for 🐧 Linux distributions.
 - [Awesome-PS4-Jailbreak](https://github.com/IH0kN3m/Awesome-PS4-Jailbreak) - A list of PS4 Jailbreak links.
+- [Awesome-Vision-Pro](https://github.com/jtmuller5/Awesome-Vision-Pro) - Collection of apps, developer resources, communities, and articles related to the Apple Vision Pro.
 - [awesome-dataops](https://github.com/kelvins/awesome-dataops) - :sunglasses: A curated list of awesome DataOps tools.
 - [awesome-dev-discord](https://github.com/ljosberinn/awesome-dev-discord) - A curated list of official, development-related Discord server.
 - [awesome-islands](https://github.com/lxsmnsyc/awesome-islands) - All about Islands Architecture and Partial Hydration.
@@ -3529,12 +3533,12 @@ Last generated: 2025-08-14, 8759 lists.
 - [Awesome-Paper-List](https://github.com/Doragd/Awesome-Paper-List) - A curated list of repositories in which many NLP/CV/ML papers and related area resources are collected.
 - [awesome-speaker](https://github.com/fsciuti/awesome-speaker) - A curated list of awesome resource for public speakers, trainers and so on!.
 - [Awesome-Efficient-AIGC](https://github.com/Efficient-ML/Awesome-Efficient-AIGC) - A list of papers, docs, codes about efficient AIGC. This repo is aimed to provide the info for efficient AIGC research, including language and vision, we are continuously improving the project. Welcome to PR the works (papers, repositories) that are missed by the repo.
-- [Awesome-Vision-Pro](https://github.com/jtmuller5/Awesome-Vision-Pro) - Collection of apps, developer resources, communities, and articles related to the Apple Vision Pro.
 - [awesome-reactive-programming](https://github.com/lucamezzalira/awesome-reactive-programming) - A repository for sharing all the resources available on Reactive Programming and Reactive Systems.
 - [awesome-profiling](https://github.com/msaroufim/awesome-profiling) - Awesome utilities for performance profiling.
 - [awesome-couchdb](https://github.com/quangv/awesome-couchdb) - CouchDB - curated meta resources & best practices list.
 - [awesome-webhid](https://github.com/robatwilliams/awesome-webhid) - Curated list of resources relating to the WebHID (Human Interface Device) API.
 - [awesome-techforgood](https://github.com/TechforgoodCAST/awesome-techforgood) - A selection of projects, organisations and useful tools for social-impact tech.
+- [awesome-suricata](https://github.com/satta/awesome-suricata) - A curated list of awesome things related to Suricata.
 - [awesome-stellar](https://github.com/stellar/awesome-stellar) - 👨‍🚀 A curated list of Stellar applications, blog posts, educational resources, tools, and more. .
 - [awesome-devops-br](https://github.com/devops-br/awesome-devops-br) - Lista de recursos (links, livros, Q&A) discutidos no canal do Telegram Devops-BR (
 - [awesome-generative-ai-apis](https://github.com/foss42/awesome-generative-ai-apis) - A curated list of useful Generative AI APIs for developers.
@@ -3560,8 +3564,8 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome_LLM-harmful-fine-tuning-papers](https://github.com/git-disl/awesome_LLM-harmful-fine-tuning-papers) - A survey on harmful fine-tuning attack for large language model.
 - [awesome-edtech-tools](https://github.com/hkalant/awesome-edtech-tools) - An ongoing curated list with awesome tools and resources for instructional designers.
 - [awesome-brazil-data](https://github.com/juliohm/awesome-brazil-data) - Curated list of Brazilian datasets for anyone interested in studying the country.
+- [awesome-evm-security](https://github.com/kareniel/awesome-evm-security) - 🕶 A high-level overview of the EVM security ecosystem.
 - [awesome-hackernews](https://github.com/lebriton/awesome-hackernews) - A curated list of FOSS tools to improve the Hacker News experience.
-- [awesome-suricata](https://github.com/satta/awesome-suricata) - A curated list of awesome things related to Suricata.
 - [awesome-sound_event_detection](https://github.com/soham97/awesome-sound_event_detection) - Reading list for research topics in Sound AI.
 - [guiadoprogramador](https://github.com/vncsmnl/guiadoprogramador) - 📖 Guia Definitivo de Programação.
 - [awesome-radiology-report-generation](https://github.com/zhjohnchan/awesome-radiology-report-generation) - A curated list of radiology report generation (medical report generation) and related areas. :-).
@@ -3575,11 +3579,11 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-danish](https://github.com/fnielsen/awesome-danish) - A curated list of awesome resources for Danish language technology.
 - [awesome-ai-safety](https://github.com/giskard-ai/awesome-ai-safety) - 📚 A curated list of papers & technical articles on AI Quality & Safety.
 - [computer-science-resources](https://github.com/kirillbobyrev/computer-science-resources) - Collection of interesting Computer Science resources.
+- [awesome-comfyui](https://github.com/lucianosb/awesome-comfyui) - An awesome & curated list of cool tools for ComfyUI.
 - [awesome-python-in-education-zh](https://github.com/wwj718/awesome-python-in-education-zh) - Python在教育方面的资源列表.
 - [freebies-hub](https://github.com/zcraber/freebies-hub) - Curated list of some super-useful but not-so-popular websites which offer FREE images, vectors, videos, music, templates etc.
 - [awesome-building-blocks-for-web-apps](https://github.com/componently-com/awesome-building-blocks-for-web-apps) - Standalone features to be integrated into web applications.
 - [awesome-thingsboard](https://github.com/devaskim/awesome-thingsboard) - A curated list of awesome Thingsboard widgets, widget bundles, dashboards, rule chains and custom rule nodes.
-- [awesome-evm-security](https://github.com/kareniel/awesome-evm-security) - 🕶 A high-level overview of the EVM security ecosystem.
 - [awesome_or-tools](https://github.com/or-tools/awesome_or-tools) - A curated list of awesome OR-Tools community resources.
 - [awesome-turso](https://github.com/tursodatabase/awesome-turso) - Awesome list about everything related to Turso.
 - [awesome-zksync](https://github.com/0xjuancito/awesome-zksync) - ↔️ A curated list of awesome zkSync resources.
@@ -3594,6 +3598,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-sweden](https://github.com/buren/awesome-sweden) - A curated list of awesome things to use when coding for the Swedish market.
 - [awesome-deep-time-series-representations](https://github.com/itouchz/awesome-deep-time-series-representations) - A curated list of state-of-the-art papers on deep learning for universal representations of time series.
 - [awesome-ai4eda](https://github.com/Thinklab-SJTU/awesome-ai4eda) - Awesome Artificial Intelligence for Electronic Design Automation Papers.
+- [Awesome-Deception](https://github.com/tolgadevsec/Awesome-Deception) - An awesome list of resources on deception-based security with honeypots and honeytokens.
 - [awesome](https://github.com/effector/awesome) - A curated list of delightful ☄️Effector resources.
 - [awesome-neuromorphic-hw](https://github.com/open-neuromorphic/awesome-neuromorphic-hw) - Repository collecting papers about neuromorphic hardware, such as ASIC and FPGA implementations of SNNs and stuff.
 - [awesome-earth-engine-apps](https://github.com/philippgaertner/awesome-earth-engine-apps) - A collection of all public Google Earth Engine Apps. .
@@ -3603,7 +3608,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-lidar-place-recognition](https://github.com/hogyun2/awesome-lidar-place-recognition) - A curated list of Place Recognition methods, datasets, and various algorithms for LiDAR.
 - [Awesome-shiny-apps-for-statistics](https://github.com/huyingjie/Awesome-shiny-apps-for-statistics) - 🌟 A curated list of Awesome Shiny Apps for Statistics (ASAS)🌟.
 - [awesome-avs](https://github.com/layr-labs/awesome-avs) - A curated list of awesome projects and resources related to AVS development and EigenLayer.
-- [awesome-comfyui](https://github.com/lucianosb/awesome-comfyui) - An awesome & curated list of cool tools for ComfyUI.
 - [awesome-learn-to-code](https://github.com/mike-north/awesome-learn-to-code) - A list of awesome resources for learning to code.
 - [awesome-python-blogs](https://github.com/mikeyny/awesome-python-blogs) - A curated list of Awesome Python Blogs and Newsletters for Python Developers and Newbies.
 - [awesome-data-science-viz](https://github.com/quantmind/awesome-data-science-viz) - :boom: :chart_with_upwards_trend: A curated list of data science, analysis and visualization tools.
@@ -3614,7 +3618,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-odroid-go](https://github.com/chrisdiana/awesome-odroid-go) - 🕹 A collection of awesome ODROID-GO emulators, games & resources 👾.
 - [awesome-Autopilot-algorithm](https://github.com/Hardy-Uint/awesome-Autopilot-algorithm) - Some algorithm about self-driving car，mainly including perception algorithm，2D/3D object detection，Semantic segmentation and so on.
 - [zero](https://github.com/nalgeon/zero) - Zero Dependency Club.
-- [Awesome-Deception](https://github.com/tolgadevsec/Awesome-Deception) - An awesome list of resources on deception-based security with honeypots and honeytokens.
 - [awesome-cairo](https://github.com/auditless/awesome-cairo) - Resources for Cairo 1.0 development.
 - [awesome-qsharp](https://github.com/ebraminio/awesome-qsharp) - A curated list of Q# code and resources.
 - [awesome-podcasts](https://github.com/Ghosh/awesome-podcasts) - 🎙 Curated podcasts for designers, developers, product managers, entrepreneurs and hustlers.
@@ -3624,6 +3627,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-ory](https://github.com/ory/awesome-ory) - A curated collection of examples and solutions created by the Ory Community. .
 - [awesome-uefi-security](https://github.com/river-li/awesome-uefi-security) - 👓A collection of papers/tools/exploits for UEFI security.
 - [awesome-adblock](https://github.com/cdransf/awesome-adblock) - A collection of awesome adblockers and related tools.
+- [awesome-hackathon](https://github.com/dribdat/awesome-hackathon) - Platforms, tools, and guides for critical organizers 🌆.
 - [awesome-RLAIF](https://github.com/mengdi-li/awesome-RLAIF) - A continually updated list of literature on Reinforcement Learning from AI Feedback (RLAIF) .
 - [awesome-ros](https://github.com/ps-micro/awesome-ros) - 😎 A curated list of awesome robotics resources based on ROS.
 - [awesome-startup-communities](https://github.com/pxue/awesome-startup-communities) - Awesome list of communities related to creating, running and being successful at startups.
@@ -3637,7 +3641,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-ai-directory](https://github.com/iamcorey/awesome-ai-directory) - AI资源工具导航站收录 / Find all the best AI directories.
 - [awesome-kysely](https://github.com/kysely-org/awesome-kysely) - A curated list of Kysely resources, tools, utilities and applications.
 - [self-taught-developer](https://github.com/SyedUmairCodes/self-taught-developer) - Free and high quality resources for beginners to learn how to code.
-- [awesome-hackathon](https://github.com/dribdat/awesome-hackathon) - Platforms, tools, and guides for critical organizers 🌆.
 - [awesome-hpc](https://github.com/dstdev/awesome-hpc) - A collection of Awesome HPC software and tools.
 - [awesome-erlang-cn](https://github.com/hstcscolor/awesome-erlang-cn) - Erlang资源大全中文版.
 - [awesome-performance-patches](https://github.com/kurtextrem/awesome-performance-patches) - 🚀⚡ Awesome list about performance related patches/PRs.
@@ -3671,6 +3674,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [Awesome_AI4Finance](https://github.com/AI4Finance-Foundation/Awesome_AI4Finance) - Resources.
 - [awesome-java-datum](https://github.com/CleverFan/awesome-java-datum) - Java学习资料总结，包括教学视频，电子书以及一些网站等.
 - [awesome-coder](https://github.com/coder/awesome-coder) - A curated list of awesome Coder resources.
+- [awesome-disaggregated-memory](https://github.com/dmemsys/awesome-disaggregated-memory) - A collection of awesome researchers and papers about disaggregated memory.
 - [Awesome-Multi-label-Image-Recognition](https://github.com/JiaweiZhao-git/Awesome-Multi-label-Image-Recognition) - Awesome Multi-label Image Recognition Paper List       .
 - [awesome-vitepress-v1](https://github.com/logicspark/awesome-vitepress-v1) - A curated list of awesome things related to VitePress.
 - [Pentest-Bookmarkz](https://github.com/SofianeHamlaoui/Pentest-Bookmarkz) - A collection of useful links for Pentesters.
@@ -3685,6 +3689,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-android-libraries](https://github.com/thanhtoan1196/awesome-android-libraries) - :sunglasses: A curated list of awesome Android libraries.
 - [awesome-gaussian-splatting](https://github.com/tomiwaAdey/awesome-gaussian-splatting) - A curated list of resources on Gaussian Splatting techniques, featuring seminal papers, cutting-edge research, practical implementations, and community discussions. Ideal for both beginners and experts.
 - [awesome-ai-newsletters](https://github.com/alternbits/awesome-ai-newsletters) - A curated list of top best AI Related Newsletters and ai agents newsletters.
+- [mcp-index](https://github.com/metorial/mcp-index) - An ever growing list of open source MCP servers 📡 📁 🚀.
 - [jivoi-awesome-osint](https://github.com/r3p3r/jivoi-awesome-osint) - A curated list of amazingly awesome OSINT.
 - [awesome-github](https://github.com/reziamini/awesome-github) - List of awesome GitHub repository.
 - [awesome-openlayers](https://github.com/webgeodatavore/awesome-openlayers) - List of all related content on OpenLayers library.
@@ -3698,8 +3703,11 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-visjs](https://github.com/visjs/awesome-visjs) - 🕶️ A curated list of resources around vis.js.
 - [awesome-dtrace](https://github.com/xen0l/awesome-dtrace) - A curated list of awesome DTrace books, articles, videos, tools and resources.
 - [awesome-startup-resources](https://github.com/ahmadnassri/awesome-startup-resources) - A curated list of useful resources for building a new startup business.
+- [awesome-cybersecurity](https://github.com/Annsec/awesome-cybersecurity) - Curated list of awesome cybersecurity companies and solutions.
+- [awesome-ironsworn](https://github.com/Billiam/awesome-ironsworn) - An awesome list of awesome Ironsworn projects.
 - [awesome-bitcoin-cash](https://github.com/dsmurrell/awesome-bitcoin-cash) - A curated list of awesome things related to Bitcoin Cash. Contribute yourself:.
 - [awesome-graph-reduction](https://github.com/Emory-Melody/awesome-graph-reduction) - [IJCAI 2024] Papers about graph reduction including graph coarsening, graph condensation, graph sparsification, graph summarization, etc.
+- [defi-risk-modelling-awesome](https://github.com/engn33r/defi-risk-modelling-awesome) - Resources for the budding field of risk modelling and analysis in DeFi.
 - [awesome-culture](https://github.com/expede/awesome-culture) - A curated list of awesome thought on tech culture. Inspired by the various awesome-* projects.
 - [awesome-theravada](https://github.com/johnjago/awesome-theravada) - Curated list of Theravada Buddhist teachings.
 - [awesome-cobol](https://github.com/loveOSS/awesome-cobol) - A curated list of awesome Cobol frameworks, libraries and software. Inspired by awesome-python.
@@ -3712,11 +3720,8 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-ai-services](https://github.com/sekwiatkowski/awesome-ai-services) - An overview of the AI-as-a-service landscape.
 - [bevy_awesome_prod](https://github.com/Vrixyz/bevy_awesome_prod) - My curated list of projects using bevy in production, preferably with a company or a business model in mind.
 - [Awesome-Stride](https://github.com/Doprez/Awesome-Stride) - Awesome resources for the fully open source Stride game engine.
-- [defi-risk-modelling-awesome](https://github.com/engn33r/defi-risk-modelling-awesome) - Resources for the budding field of risk modelling and analysis in DeFi.
 - [awesome-salesforce-marketingcloud](https://github.com/sfmcdg/awesome-salesforce-marketingcloud) - Useful resources for working and developing with Salesforce Marketing Cloud.
 - [You-Dont-Know-X](https://github.com/ythecombinator/You-Dont-Know-X) - 🙈 curated list of inspiring resources which show you don't know that much about something you thought you knew.
-- [awesome-cybersecurity](https://github.com/Annsec/awesome-cybersecurity) - Curated list of awesome cybersecurity companies and solutions.
-- [awesome-disaggregated-memory](https://github.com/dmemsys/awesome-disaggregated-memory) - A collection of awesome researchers and papers about disaggregated memory.
 - [awesomerag_paper](https://github.com/km1994/awesomerag_paper) - RAG 论文学习.
 - [awesome-system-design](https://github.com/linnykoleh/awesome-system-design) - Personal notes from courses and articles about system design.
 - [awesome-privacy-engineering](https://github.com/mplspunk/awesome-privacy-engineering) - A curated list of resources related to privacy engineering.
@@ -3745,8 +3750,8 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-operational_research](https://github.com/joaojunior/awesome-operational_research) - A curated list of awesome Operational research solvers, libraries, books, teachers and resources.
 - [Awesome-Face-Restoration](https://github.com/sczhou/Awesome-Face-Restoration) - A curated list of face restoration & enhancement papers and resources.
 - [awesome-electronic-engineering](https://github.com/SergioGasquez/awesome-electronic-engineering) - Awesome Electronic Engineering .
+- [awesome-opentofu](https://github.com/virtualroot/awesome-opentofu) - A curated list of OpenTofu tools, resources, and related projects.
 - [awesome-deepneuroimage](https://github.com/alxndrkalinin/awesome-deepneuroimage) - A curated list of awesome deep learning applications in the field of neurological image analysis.
-- [awesome-ironsworn](https://github.com/Billiam/awesome-ironsworn) - An awesome list of awesome Ironsworn projects.
 - [awesome-standards](https://github.com/donbarbos/awesome-standards) - A curated list of technical standards, they may be called requests for comments, proposals, drafts, notes, specifications, or something else.
 - [awesome-matrix](https://github.com/jryans/awesome-matrix) - A curated list of things related to the Matrix ecosystem, including software, research, etc.
 - [awesome-p2p](https://github.com/retrohacker/awesome-p2p) - An awesome list for those interested in building decentralized applications.
@@ -3763,7 +3768,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-iwb](https://github.com/awesome-iwb/awesome-iwb) - 🕶️ ✨ Collection of practical software for interactive whiteboard.  ✨ 全网最全的 教学辅助软件/一体机软件 推荐清单.
 - [awesome-interviews](https://github.com/resumejob/awesome-interviews) - Resources for preparing tech interviews.
 - [Awesome-AI](https://github.com/VidyasagarMSC/Awesome-AI) - The guide to master Artificial Intelligence (machine learning & deep learning) from beginner to advance.
-- [awesome-universal-react](https://github.com/axeldelafosse/awesome-universal-react) - A collection of awesome universal React and React Native frameworks, libraries, design systems, apps and resources.
 - [awesome-jamstack](https://github.com/BolajiAyodeji/awesome-jamstack) - :notebook_with_decorative_cover: Curated list of resources: books, videos, articles, speaker decks, tools about using the Jamstack.
 - [awesome-hamradio](https://github.com/DD5HT/awesome-hamradio) - Awesome hamradio repositories.
 - [learning-resources](https://github.com/evilfactorylabs/learning-resources) - A curated list of "basic" knowledge that "good to know" by evilfactorylabs members. But feel free to take a look and learn together!.
@@ -3774,6 +3778,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-backend-architecture](https://github.com/TFdream/awesome-backend-architecture) - 后端开发常用技术框架、数据库、开源中间件、微服务、系统架构集合。.
 - [Reading-Comprehension-Question-Answering-Papers](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers) - Survey on Machine Reading Comprehension.
 - [awesome-azure-sql](https://github.com/yorek/awesome-azure-sql) - An awesome list of Azure SQL samples for Developers of any Language and Platform.
+- [awesome-universal-react](https://github.com/axeldelafosse/awesome-universal-react) - A collection of awesome universal React and React Native frameworks, libraries, design systems, apps and resources.
 - [Awesome-cross-modality-person-re-identification](https://github.com/bismex/Awesome-cross-modality-person-re-identification) - Awesome Cross-modality Person Re-identification.
 - [fe-awesome-demos](https://github.com/BryanAdamss/fe-awesome-demos) - ✨前端入门demos集合.
 - [Awesome-Monocular-Depth](https://github.com/choyingw/Awesome-Monocular-Depth) - A curated list of recent monocular depth estimation papers.
@@ -3784,7 +3789,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [Computer-Science-Study](https://github.com/iaurg/Computer-Science-Study) - Conteúdo para estudo de Ciência da Computação. Melhorias e dicas são bem-vindas 🆙.
 - [awesome-adaptive-computation](https://github.com/koayon/awesome-adaptive-computation) - A curated reading list of research in Adaptive Computation, Inference-Time Computation & Mixture of Experts (MoE).
 - [awesome-priceops](https://github.com/priceops/awesome-priceops) - Links to articles, guides and resources related to software pricing and its implementation.  .
-- [awesome-opentofu](https://github.com/virtualroot/awesome-opentofu) - A curated list of OpenTofu tools, resources, and related projects.
 - [awesome-cashu](https://github.com/cashubtc/awesome-cashu) - A curated, collaborative list of awesome Cashu resources.
 - [awesome-python-roadmaps](https://github.com/DjangoEx/awesome-python-roadmaps) - Awesome Python roadmaps.
 - [awesome-snmp](https://github.com/eozer/awesome-snmp) - A curated list of awesome SNMP libraries, tools, and other resources.
@@ -3816,6 +3820,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-ddev](https://github.com/ddev/awesome-ddev) - A resource tracking DDEV tips, tricks, solutions, blogs, and services.
 - [awesome-developer-blogs](https://github.com/endymion1818/awesome-developer-blogs) - Are you a developer? Do you have a blog? Please submit a PR!.
 - [awesome-legacy-systems](https://github.com/feststelltaste/awesome-legacy-systems) - A curated list of awesome resources and links about tackling legacy systems that gives hope.
+- [awesome-cvpr-2024](https://github.com/harpreetsahota204/awesome-cvpr-2024) - 🤩 An AWESOME Curated List of Papers, Workshops, Datasets, and Challenges from CVPR 2024.
 - [awesome-telegram](https://github.com/kalanakt/awesome-telegram) - A curated list of awesome telegram groups, channels, bots, open source projects And Libraries.
 - [awesome-credit-modeling](https://github.com/mourarthur/awesome-credit-modeling) - A collection of awesome papers, articles and various resources on credit and credit risk modeling.
 - [awesome-phishing](https://github.com/PhishyAlice/awesome-phishing) - Collection of resources related to phishing.
@@ -3826,7 +3831,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-macOS](https://github.com/AndrewSB/awesome-macOS) - A curated list of awesome macOS open source projects and libraries.
 - [awesome-by-example](https://github.com/b0o/awesome-by-example) - 😎 A curated list of example-based learning resources.
 - [awesome-browser-security](https://github.com/cezary-sec/awesome-browser-security) - A curated list of awesome browser security learning material. .
-- [awesome-cvpr-2024](https://github.com/harpreetsahota204/awesome-cvpr-2024) - 🤩 An AWESOME Curated List of Papers, Workshops, Datasets, and Challenges from CVPR 2024.
 - [awesome-cryoem](https://github.com/kuixu/awesome-cryoem) - A collaborative list of awesome CryoEM (Cryo Electron Microscopy) resources. .
 - [awesome-chef](https://github.com/obazoud/awesome-chef) - A curated list of amazingly awesome Chef resources.
 - [awesome-ads](https://github.com/cenoura/awesome-ads) - A curated list of awesome advertising content, resources and libraries.
@@ -3867,6 +3871,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-aya](https://github.com/aya-rs/awesome-aya) - A curated list of awesome eBPF 🐝 projects using aya-rs and Rust 🦀.
 - [awesome-subgraphs](https://github.com/balakhonoff/awesome-subgraphs) - A curated list of awesome resources related to The Graph powered subgraph development.
 - [awesome-apm](https://github.com/knight-zxw/awesome-apm) - 客户端(Android/iOS) APM相关博客收藏.
+- [awesome-video-enhancement](https://github.com/liuzhen03/awesome-video-enhancement) - Paper list for video enhancement, including video super-resolution, interpolation, denoising, deblurring and inpainting.
 - [Osint-Resources](https://github.com/OldBonhart/Osint-Resources) - Data collected from publicly available sources to be used in an intelligence context.
 - [dev-stuff](https://github.com/patrykwozinski/dev-stuff) - 😎 Programming stuff for everyone. Collection of articles, videos about architecture, Domain Driven Design, microservices, testing etc.
 - [awesome-dactyl](https://github.com/PotHix/awesome-dactyl) - A curated list of dactyl related keyboard projects.
@@ -3957,6 +3962,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-cv](https://github.com/mawady/awesome-cv) - Curated educational list for computer vision.
 - [awesome-retext](https://github.com/retextjs/awesome-retext) - Curated list of awesome retext resources.
 - [awesome-safegraph-datascience](https://github.com/SafeGraphInc/awesome-safegraph-datascience) - A community-supported list of awesome data science resources relevant to SafeGraph data.
+- [awesome-micro-expression-recognition](https://github.com/Vision-Intelligence-and-Robots-Group/awesome-micro-expression-recognition) - A GitHub repository about micro-expression recognition, micro-expression detection, and micro-expression analysis.
 - [awesome-object-detection-in-aerial-images](https://github.com/visionxiang/awesome-object-detection-in-aerial-images) - A curated list of awesome resources for generic object detection in aerial images.
 - [awesome-ai4lam](https://github.com/AI4LAM/awesome-ai4lam) - A list of awesome AI in libraries, archives, and museum collections from around the world 🕶️.
 - [awesome-ton](https://github.com/copperbits/awesome-ton) - A curated list of awesome TON ecosystem 😎.
@@ -3980,7 +3986,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-anbernic](https://github.com/dag7dev/awesome-anbernic) - Resources for Anbernic consoles (links, CFW.).
 - [awesome-flow](https://github.com/dustinspecker/awesome-flow) - A list of awesome Flow integrations, tools, tutorials, etc.
 - [awesome-vctrs](https://github.com/krlmlr/awesome-vctrs) - A curated list of amazingly awesome R vector classes.
-- [awesome-video-enhancement](https://github.com/liuzhen03/awesome-video-enhancement) - Paper list for video enhancement, including video super-resolution, interpolation, denoising, deblurring and inpainting.
 - [awesome-neorg](https://github.com/nvim-neorg/awesome-neorg) - A collection of awesome Neorg notes, software and resources.
 - [awesome-web-performance-budget](https://github.com/pajaydev/awesome-web-performance-budget) - ⚡️Articles, Websites, Tools and Case Studies to implement performance budget to a website. (PR 's welcomed).
 - [awesome-computer-science-resources](https://github.com/shiv4nsh/awesome-computer-science-resources) - List of All awesome Computer Science Courses.
@@ -3996,7 +4001,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-snapmaker](https://github.com/shurushetr/awesome-snapmaker) - Curated list of things that help you make something awesome with Snapmaker machines.
 - [awesome-v2ex-tips](https://github.com/v2hot/awesome-v2ex-tips) - 给新手的 V2EX 指南.
 - [awesome-vietnamese](https://github.com/virusvn/awesome-vietnamese) - Open source by Vietnamese people.
-- [awesome-micro-expression-recognition](https://github.com/Vision-Intelligence-and-Robots-Group/awesome-micro-expression-recognition) - A GitHub repository about micro-expression recognition, micro-expression detection, and micro-expression analysis.
 - [awesome-browser-extensions-and-apps](https://github.com/vitalets/awesome-browser-extensions-and-apps) - :zap:A curated list of awesome resources for building browser extensions and apps.
 - [awesome-algeria](https://github.com/algeriatech/awesome-algeria) - A curated list of awesome things and projects built by Algerian developpers.
 - [awesome-cs-course](https://github.com/alwqx/awesome-cs-course) - Awesome university cs core courses.
@@ -4131,6 +4135,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-solr](https://github.com/Anant/awesome-solr) - A curated list of Awesome Apache Solr links and resources. .
 - [awesome-resources-cs](https://github.com/Bam92/awesome-resources-cs) - A sum of all available resources in CS, software engineering, etc.
 - [awesome-wordpress](https://github.com/dropndot/awesome-wordpress) - A curated list of Awesome WordPress Theme, Plugins and Framework development Resources and WordPress Communities.
+- [awesome-playgrounds](https://github.com/marcosnils/awesome-playgrounds) - List of awesome playgrounds.
 - [awesome-workplaces-slovenia](https://github.com/otobrglez/awesome-workplaces-slovenia) - Awesome workplaces in Slovenia 🇸🇮.
 - [awesome-pest](https://github.com/pest-parser/awesome-pest) - A curated list of resources, projects, and tools using or for the pest parser generator in Rust.
 - [awesome-raspberrypipico](https://github.com/slouchd/awesome-raspberrypipico) - Curation of Raspberry Pi Pico resources.
@@ -4143,6 +4148,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [DSP-Guide](https://github.com/mikeroyal/DSP-Guide) - Digital Signal Processing(DSP) Guide.
 - [awesome-iroh](https://github.com/n0-computer/awesome-iroh) - Curated list of awesome stuff built on & with iroh.
 - [awesome-legal-data](https://github.com/openlegaldata/awesome-legal-data) - Collection of Datasets for Legal Text Processing.
+- [montreal](https://github.com/opensourcecities/montreal) - A directory of companies, people, and projects that are Open Source and from Montréal.
 - [awesome-spacemacs](https://github.com/rajasegar/awesome-spacemacs) - A collection of awesome Spacemacs resources.
 - [awesome-hyperspectral-image-unmixing](https://github.com/xiuheng-wang/awesome-hyperspectral-image-unmixing) - Resource collection for the paper "Integration of Physics-Based and Data-Driven Models for Hyperspectral Image Unmixing: A summary of current methods" (SPM 2023).
 - [awesometools](https://github.com/byodian/awesometools) - 整理一些实用的软件工具和开发学习资源.
@@ -4152,9 +4158,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-sca](https://github.com/hysnsec/awesome-sca) - A curated list of Software Component Analysis (SCA) books, courses - free and paid, videos, tools, and tutorials.
 - [Awesome-Misinfo-Video-Detection](https://github.com/ICTMCG/Awesome-Misinfo-Video-Detection) - A curated list of works related to Misinformation Video Detection, as a companion material for an ACM Multimedia 2023 survey.
 - [awesome_neuropixels](https://github.com/Julie-Fabre/awesome_neuropixels) - A curated list of awesome Neuropixels resources.
-- [awesome-playgrounds](https://github.com/marcosnils/awesome-playgrounds) - List of awesome playgrounds.
 - [awesome-drupal](https://github.com/mrsinguyen/awesome-drupal) - A curated list of amazingly awesome Drupal open source, resources and shiny things.
-- [montreal](https://github.com/opensourcecities/montreal) - A directory of companies, people, and projects that are Open Source and from Montréal.
 - [awesome-kong](https://github.com/posquit0/awesome-kong) - :sunglasses: A curated list of awesome resources for Kong API Gateway.
 - [Awesome-Fake-News-Detection](https://github.com/wangbing1416/Awesome-Fake-News-Detection) - An awesome paper list of fake news detection (FND) and rumor detection.
 - [awesome-video-domain-adaptation](https://github.com/xuyu0010/awesome-video-domain-adaptation) - A comprehensive collection of awesome research and other items about video domain adaptation.
@@ -4168,6 +4172,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [pwa-awesome-ru](https://github.com/FluorescentHallucinogen/pwa-awesome-ru) - A curated list of awesome PWA resources (primarily in Russian).
 - [awesome_style_transfer](https://github.com/neuralchen/awesome_style_transfer) - The style transfer paper collection in International CV conference.
 - [awesome-interop](https://github.com/nomad-xyz/awesome-interop) - A curated list of awesome resources and projects that concern blockchain interoperability.
+- [awesome-egov-de](https://github.com/codedust/awesome-egov-de) - A curated list of resources on egovernment in Germany.
 - [awesome-iota](https://github.com/ertugrulyilmaz/awesome-iota) - A community driven list of useful IOTA blogs, articles, videos and tools.
 - [ios-apps](https://github.com/learn-anything/ios-apps) - Awesome iOS apps.
 - [awesome-gaussians](https://github.com/longxiang-ai/awesome-gaussians) - This repository tracks the latest advancements in 3D Gaussian Splatting from Arxiv, with daily automated updates. Stay up-to-date with cutting-edge research in this exciting field!.
@@ -4180,7 +4185,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [Awesome-Multimodal-Reasoning](https://github.com/Video-R1/Awesome-Multimodal-Reasoning) - Collections of Papers and Projects for Multimodal Reasoning.
 - [awesome-large-search-models](https://github.com/wu-zongyu/awesome-large-search-models) - Awesome-Large-Search-Models is a collection of papers and resources (Methods, Datasets and other resources) about search-oriented large reasoning models (Large search models). Awesome Large Search Models. Agentic Search.
 - [awesome-humanities-ontologies](https://github.com/CLARIAH/awesome-humanities-ontologies) - A curated list of ontologies for Digital Humanities.
-- [awesome-egov-de](https://github.com/codedust/awesome-egov-de) - A curated list of resources on egovernment in Germany.
 - [awesome-dreamcast](https://github.com/dreamcastdevs/awesome-dreamcast) - A collection of useful link and tool for Sega #Dreamcast development.
 - [awesome-llm-judges](https://github.com/haizelabs/awesome-llm-judges) - ⚖️ Awesome LLM Judges ⚖️.
 - [awesome-transformer](https://github.com/ictnlp/awesome-transformer) - A collection of transformer's guides, implementations and variants. .
@@ -4189,7 +4193,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-knockout](https://github.com/dnbard/awesome-knockout) - A curated list of awesome plugins for Knockout.
 - [Machine-Learning](https://github.com/ElizaLo/Machine-Learning) - Awesome list (courses, books, videos etc.) and implementation of Machine Learning Algorithms.
 - [awesome-programming-books](https://github.com/greyblake/awesome-programming-books) - List of good programming books for beginners and professionals.
-- [awesome-world-models](https://github.com/leofan90/awesome-world-models) - A comprehensive list of papers for the definition of World Models and using World Models for General Video Generation, Embodied AI, and Autonomous Driving, including papers, codes, and related websites.
 - [python_more_awesome](https://github.com/wilfreddesert/python_more_awesome) - The essential Python list.
 - [awesome-infosec](https://github.com/0xedward/awesome-infosec) - A curated list of awesome infosec blog posts, courses, books and more!.
 - [awesome-jtbd](https://github.com/brianrhea/awesome-jtbd) - All things Jobs-to-Be-Done. Inspired by 'awesome-' repos. PRs welcomed. Contribute to the awesome.
@@ -4238,6 +4241,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-digital-twins](https://github.com/edt-community/awesome-digital-twins) - Curated repository of awesome Digital Twin resources.
 - [Awesome-Quantum-Games](https://github.com/HuangJunye/Awesome-Quantum-Games) - A (not really) complete list of quantum games.
 - [Awesome-Crystal-GNNs](https://github.com/kdmsit/Awesome-Crystal-GNNs) - This repository contains a collection of resources and papers on GNN Models on Crystal Solid State Materials.
+- [awesome-data-contamination](https://github.com/lyy1994/awesome-data-contamination) - The Paper List on Data Contamination for Large Language Models Evaluation.
 - [NLP-Guide](https://github.com/mikeroyal/NLP-Guide) - Natural Language Processing (NLP). Covering topics such as Tokenization, Part Of Speech tagging (POS), Machine translation, Named Entity Recognition (NER), Classification, and Sentiment analysis. .
 - [Awesome-LLM-Powered-Phone-GUI-Agents](https://github.com/PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents) - LLM-Powered GUI Agents in Phone Automation: Surveying Progress and Prospects.
 - [awesome-productivity-tools](https://github.com/ProductivityDirectory/awesome-productivity-tools) - My Awesome list of productivity tools and products.
@@ -4293,6 +4297,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-lastfm](https://github.com/jnguyen1098/awesome-lastfm) - A curated list of Last.fm tools and resources.
 - [awesome-nwjs](https://github.com/nw-cn/awesome-nwjs) - Awesome NW.js (node-webkit).
 - [awesome-metamask-snaps](https://github.com/piotr-roslaniec/awesome-metamask-snaps) - A curated list of awesome MetaMask Snaps related resources.
+- [awesome-mllm-hallucination](https://github.com/shikiw/awesome-mllm-hallucination) - Papers about Hallucination in Multi-Modal Large Language Models (MLLMs).
 - [awesome-cultural-nlp](https://github.com/simran-khanuja/awesome-cultural-nlp) - Resources for cultural NLP research.
 - [Awesome-Scene-Change-Detection](https://github.com/DoongLi/Awesome-Scene-Change-Detection) - This repo contains a curative list of scene change detection(SCD), including papers, videos, codes, and related websites.
 - [awesome-visual-localization-papers](https://github.com/Dylancer1998/awesome-visual-localization-papers) - The relocalization task aims to estimate the 6-DoF pose of a novel (unseen) frame in the coordinate system given by the prior model of the world. .
@@ -4311,11 +4316,11 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-omscs](https://github.com/kathgironpe/awesome-omscs) - Awesome Georgia Tech Online Master of Science in Computer Science Guides, Articles and so on!.
 - [awesome-rlhf](https://github.com/louieworth/awesome-rlhf) - An index of algorithms for reinforcement learning from human feedback (rlhf)).
 - [awesome-mautic](https://github.com/luizeof/awesome-mautic) - Curated List of Mautic Plugins, Blogs, Repositories and Themes.
-- [awesome-data-contamination](https://github.com/lyy1994/awesome-data-contamination) - The Paper List on Data Contamination for Large Language Models Evaluation.
 - [awesome-js-dev-id](https://github.com/mazipan/awesome-js-dev-id) - 😎 Daftar para developer/programmer JavaScript terkece asal Indonesia.
 - [awesome-spanner](https://github.com/rakyll/awesome-spanner) - A curated list of awesome Google Cloud Spanner references, tools, libraries and more.
 - [find-oss](https://github.com/SimoMay/find-oss) - A list of popular open source alternatives to proprietary SaaS.
 - [awesome-azure-static-web-apps](https://github.com/staticwebdev/awesome-azure-static-web-apps) - Curated list of resources for Azure Static Web Apps.
+- [awesome-imbalanced-learning-on-graphs](https://github.com/yanliang3612/awesome-imbalanced-learning-on-graphs) -  A repository contains a collection of resources and papers on Imbalance Learning On Graphs.
 - [Awesome-IDEs](https://github.com/zeelsheladiya/Awesome-IDEs) - A curated list of Integrated Development Environments (IDEs) and related tools that can enhance your coding experience and boost your productivity. .
 - [awesome-speech-emotion-recognition](https://github.com/abikaki/awesome-speech-emotion-recognition) - 😎 Awesome lists about Speech Emotion Recognition.
 - [awesome-hexo-theme](https://github.com/Ailln/awesome-hexo-theme) - 🌟排名前 10 的 Hexo 主题 | Top 10 Hexo theme.
@@ -4333,7 +4338,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-LLMs-finetuning](https://github.com/pdaicode/awesome-LLMs-finetuning) - Collection of resources for finetuning Large Language Models (LLMs). .
 - [software-development-resources](https://github.com/rafaels88/software-development-resources) - Curated list of Software Development resources.
 - [awesome-georgia](https://github.com/Stichoza/awesome-georgia) - 🇬🇪 A curated list of awesome libraries and packages specific/related to Georgia (country).
-- [awesome-imbalanced-learning-on-graphs](https://github.com/yanliang3612/awesome-imbalanced-learning-on-graphs) -  A repository contains a collection of resources and papers on Imbalance Learning On Graphs.
+- [awesome-mentalhealth](https://github.com/theimpossibleastronaut/awesome-mentalhealth) - A curated list of awesome mental health resources.
 - [awesome-android-awesomeness](https://github.com/yongjhih/awesome-android-awesomeness) - A curated list of android awesomeness.
 - [awesome-computational-geometry](https://github.com/atkirtland/awesome-computational-geometry) - A curated list of awesome computational geometry visualizations, frameworks, and resources .
 - [awesome-blitzjs](https://github.com/blitz-js/awesome-blitzjs) - Curated list of awesome resources for blitz.js.
@@ -4344,6 +4349,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [Awesome-CSS-Resources](https://github.com/MarketingPipeline/Awesome-CSS-Resources) - An awesome list of CSS / SCSS frameworks & resources.
 - [security-study-tutorial](https://github.com/mykings/security-study-tutorial) - Summary of online learning materials.
 - [awesome-research-software-registries](https://github.com/NLeSC/awesome-research-software-registries) - Awesome list of Research Software Registries.
+- [awesome-persian-blogs](https://github.com/ohmydevops/awesome-persian-blogs) -  📝 لیست وبلاگ‌های فارسی‌زبان در حوزه‌های مختلف.
 - [awesome-osu](https://github.com/osu-translate-zh/awesome-osu) - 😎A curated list of awesome osu resource.
 - [awesome-dojo](https://github.com/petk/awesome-dojo) - A curated list of awesome Dojo JavaScript Toolkit libraries, resources and other shiny things.
 - [awesome-face-generation](https://github.com/zhangzjn/awesome-face-generation) - Basic GAN frameworks and approaches for face swap, reenactment, and stylizing.
@@ -4353,8 +4359,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [Awesome-LLM-reasoning](https://github.com/luban-agi/Awesome-LLM-reasoning) - A curated paper list on LLM reasoning.
 - [awesome-webots](https://github.com/lukicdarkoo/awesome-webots) - Awesome Webots.
 - [awesome-reconsidera-takeaway](https://github.com/reconsidera/awesome-reconsidera-takeaway) - 《数字极权时代生存手记》的工具包.
-- [awesome-mllm-hallucination](https://github.com/shikiw/awesome-mllm-hallucination) - Papers about Hallucination in Multi-Modal Large Language Models (MLLMs).
-- [awesome-mentalhealth](https://github.com/theimpossibleastronaut/awesome-mentalhealth) - A curated list of awesome mental health resources.
 - [awesome-python-data-science](https://github.com/thomasjpfan/awesome-python-data-science) - A curated list of Python libraries used for data science.
 - [awesome-wintercms](https://github.com/wintercms/awesome-wintercms) - A curated list of awesome things related to WinterCMS.
 - [awesome-feature-flag-management](https://github.com/andrewdmaclean/awesome-feature-flag-management) - A curated list of awesome resources related to feature flagging & management 🚩.
@@ -4374,7 +4378,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-maker-br](https://github.com/makers-brazil/awesome-maker-br) - Makers Brasil.
 - [awesome-javascript-design-patterns](https://github.com/mazzur/awesome-javascript-design-patterns) -  A collection of awesome resources for learning design patterns in JavaScript.
 - [awesome-security](https://github.com/mbcrump/awesome-security) - A collection of awesome ethical hacking and security related content!.
-- [awesome-persian-blogs](https://github.com/ohmydevops/awesome-persian-blogs) -  📝 لیست وبلاگ‌های فارسی‌زبان در حوزه‌های مختلف.
 - [awesome-ora](https://github.com/ora-io/awesome-ora) - A curated list of awesome ORA ecosystem.
 - [awesome-tidalcycles](https://github.com/tidalcycles/awesome-tidalcycles) - List of awesome things related to the live coding system TidalCycles and its close relatives.
 - [Awesome-EdgeAI](https://github.com/wangxb96/Awesome-EdgeAI) - Resources of our survey paper "Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies".
@@ -4397,6 +4400,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [Chrome-OS-Guide](https://github.com/mikeroyal/Chrome-OS-Guide) - Chrome OS Guide.
 - [awesome-bitcoin-sv](https://github.com/monkeylord/awesome-bitcoin-sv) - A curated list of bitcoin services and tools for software developers.
 - [awesome-vision-to-music-generation](https://github.com/wzk1015/awesome-vision-to-music-generation) - [ISMIR 2025] A curated list of vision-to-music generation: methods, datasets, evaluation and challenges.
+- [awesome-time-tracking](https://github.com/ever-works/awesome-time-tracking) - Time Tracking - Software, Methodologies and Practices - 
 - [awesome-cadence-temporal-workflow](https://github.com/firdaus/awesome-cadence-temporal-workflow) - A curated list of awesome things related to the Cadence and Temporal Workflow Engines.
 - [awesome-lucid-dreams](https://github.com/IAmCoder/awesome-lucid-dreams) - A hand-picked collection of the best lucid dreaming apps, research papers, books, forums, discord servers, podcasts, games, movies, YouTube channels, and techniques. Find open-source projects, sleep tracking software, reality checks, mindfulness exercises, and everything you need to explore and master lucid dreaming.
 - [awesome-aha](https://github.com/jondot/awesome-aha) - Awesome list for "Aha!" moments related to programming and computer science. Accelerate your learning.
@@ -4440,6 +4444,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [fucking-awesome-sysadmin](https://github.com/Correia-jpv/fucking-awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources. With up-to-date repository stars⭐ and forks🍴.
 - [awesome-things](https://github.com/ctimbai/awesome-things) - 程序员开拓眼界和提升效率——持续更新。。。.
 - [awesome-nutrition-tracking](https://github.com/jrhizor/awesome-nutrition-tracking) - List of awesome nutrition tracking software.
+- [awesome-few-shot-generation](https://github.com/kobeshegu/awesome-few-shot-generation) - [IJCV-2025] A curated list of awesome few-shot image generation papers.
 - [Awesome-Transformer-based-SLAM](https://github.com/KwanWaiPang/Awesome-Transformer-based-SLAM) - Paper Survey for Transformer-based SLAM.
 - [awesome-astronomy](https://github.com/mbiesiad/awesome-astronomy) - 😎 Awesome lists about Astronomy stuff. ⭐ Databases, sites, Twitter accounts, projects, NASA, ESA, JAXA, and more 🚀.
 - [awesome-article-collection](https://github.com/Olanetsoft/awesome-article-collection) - Curated articles by writers, both technical and non-technical. This was made specifically to encourage content creators to discover their strengths and consistently produce quality articles. You are welcome to participate by sending a PR.
@@ -4462,11 +4467,11 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-hwd-tools](https://github.com/TM90/awesome-hwd-tools) - A curated list of awesome open source hardware design tools.
 - [Awesome-LLM-with-RAG](https://github.com/WangRongsheng/Awesome-LLM-with-RAG) - A curated list of Large Language Model with RAG.
 - [awesome-blockchain](https://github.com/0xtokens/awesome-blockchain) - Curated List of awesome Blockchain and Crytocurrency Resources.
+- [awesome-multi-objective-deep-learning](https://github.com/baijiong-lin/awesome-multi-objective-deep-learning) - A comprehensive list of gradient-based multi-objective optimization algorithms in deep learning.
 - [awesome-embedded-swift](https://github.com/Cosmo/awesome-embedded-swift) - ⚡️🛠🧰 A curated list for Embedded and Low-Level development in the Swift programming language.
 - [awesome-eosio](https://github.com/DanailMinchev/awesome-eosio) - :sunglasses: A curated list of awesome EOSIO resources for users and developers.
 - [awesome-startup-resources](https://github.com/eferrares/awesome-startup-resources) - Curated list of resources to start and grow your startup.
 - [awesome-starter-packs](https://github.com/ericclemmons/awesome-starter-packs) - Bluesky Starter Packs to find awesome accounts to follow.
-- [awesome-time-tracking](https://github.com/ever-works/awesome-time-tracking) - Time Tracking - Software, Methodologies and Practices - 
 - [awesome-nn-optimization](https://github.com/harsh306/awesome-nn-optimization) - Awesome list for Neural Network Optimization methods.
 - [awesome-AIGC-tools](https://github.com/jiji262/awesome-AIGC-tools) - AIGC information including ChatGPT , GPT-4 and others.
 - [awesome-llm](https://github.com/KennethanCeyer/awesome-llm) - Awesome series for Large Language Model(LLM)s.
@@ -4483,7 +4488,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [ru-awesome-opensource](https://github.com/Hexlet/ru-awesome-opensource) - Список опенсорсных проектов, в которых можно принять участие.
 - [jimsghstars](https://github.com/jimbrig/jimsghstars) - A curated application for browsing my GitHub stars! ⭐.
 - [awesome-myanmar-unicode](https://github.com/khzaw/awesome-myanmar-unicode) - :sparkles: A curated list of resources for Myanmar Unicode.
-- [awesome-few-shot-generation](https://github.com/kobeshegu/awesome-few-shot-generation) - [IJCV-2025] A curated list of awesome few-shot image generation papers.
 - [newsletters](https://github.com/learn-anything/newsletters) - Awesome Newsletters.
 - [awesome-liveshare](https://github.com/lostintangent/awesome-liveshare) - ⚡️Awesome resources for Visual Studio Live Share.
 - [awesome-veganism](https://github.com/sdassow/awesome-veganism) - Curated list of awesome resources, pointers, and tips related to veganism.
@@ -4496,6 +4500,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-trunk-based-dev](https://github.com/cgbystrom/awesome-trunk-based-dev) - A curated list of trunk based development resources.
 - [awesome-blockchain-security](https://github.com/chainflag/awesome-blockchain-security) - A curated list of awesome things related to Blockchain security.
 - [awesome-multiagent-learning](https://github.com/chuangyc/awesome-multiagent-learning) - A curated list of multiagent learning and related area resources.
+- [awesome-kurds](https://github.com/DevelopersTree/awesome-kurds) - A curated list of awesome Kurds.
 - [awesome-go-tools](https://github.com/gobuild/awesome-go-tools) - A list of awesome Go tools. Not like awesome-go here only maintains golang awesome tools.
 - [awesome-korean-products-hacking](https://github.com/kaist-hacking/awesome-korean-products-hacking) - A collection of links related to Korean products hacking.
 - [awesome-env-config-cn](https://github.com/mengyou658/awesome-env-config-cn) - 各种开发语言项目环境国内（中国国内加速镜像）配置教程和部分实践经验，包括GitHub.com, Node.js，npm，nvm, yarn, java, maven, gradle, python, mysys2, elasticsearch, php,golang等等，更多正在加入中.
@@ -4532,7 +4537,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [Awesome-Efficient-Inference-for-LRMs](https://github.com/yueliu1999/Awesome-Efficient-Inference-for-LRMs) - Awesome-Efficient-Inference-for-LRMs is a collection of state-of-the-art, novel, exciting, token-efficient methods for Large Reasoning Models (LRMs). It contains papers, codes, datasets, evaluations, and analyses. 
 - [awesome-0data](https://github.com/0dataapp/awesome-0data) - Resources around owning your data 100%.
 - [awesome-privacy-papers](https://github.com/brighter-ai/awesome-privacy-papers) - Machine/deep learning papers that address the topic of privacy in visual data.
-- [awesome-kurds](https://github.com/DevelopersTree/awesome-kurds) - A curated list of awesome Kurds.
 - [awesome-postgresql](https://github.com/devton/awesome-postgresql) - A curated list of awesome PostgreSQL tools, scripts, slides, and short examples. inspired by the other awesome lists.
 - [awesome-coco](https://github.com/dougmasten/awesome-coco) - A curated list of awesome Tandy Color Computer development tools, software and resources.
 - [awesome-product-hunt](https://github.com/fmerian/awesome-product-hunt) - Awesome developer tools launched on Product Hunt.
@@ -4542,6 +4546,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-io_uring](https://github.com/noteflakes/awesome-io_uring) - Awesome io_uring.
 - [awesome-agile-essentials](https://github.com/SaadAAkash/awesome-agile-essentials) - An awesome list of concepts & resources of Agile Software Development, curated from handpicked project management contents, courses & more!.
 - [awesome-olap](https://github.com/samber/awesome-olap) - A curated list of awesome Online Analytical Processing databases, frameworks, ressources and other awesomeness.
+- [awesome-cilium](https://github.com/seifrajhi/awesome-cilium) - A curated list of awesome projects related to cilium.
 - [awesome-portable](https://github.com/shnbwmn/awesome-portable) - Curated list of awesome portable apps.
 - [awesome-iac-testing](https://github.com/ultral/awesome-iac-testing) - A list of awesome IaC testing articles, speeches & links. Especially about Ansible.
 - [awesome-regex-resources](https://github.com/varunram/awesome-regex-resources) - A curated list of Regex Resources. Inspired by other awesome stuff.
@@ -4604,7 +4609,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-rcj-soccer](https://github.com/robocup-junior/awesome-rcj-soccer) - A curated list of resources relevant to RoboCupJunior Soccer.
 - [awesome-frontend-security](https://github.com/rustcohlnikov/awesome-frontend-security) - ☔️A curated list of tools, articles & resources to help take your frontend security to the next level. Feel free to contribute!.
 - [adversarial-attacks-and-defenses-for-windows-pe-malware-detection](https://github.com/ryderling/adversarial-attacks-and-defenses-for-windows-pe-malware-detection) - A curated resource list of adversarial attacks and defenses for Windows PE malware detection.
-- [awesome-cilium](https://github.com/seifrajhi/awesome-cilium) - A curated list of awesome projects related to cilium.
 - [awesome-micro-frontends](https://github.com/semlinker/awesome-micro-frontends) - An Awesome list of posts, videos and tutorials on Micro Frontends.
 - [awesome-platform-engineering](https://github.com/ShakedBraimok/awesome-platform-engineering) - A curated list of awesome Platform Engineering tools, practices and resources.
 - [awesome-falsehoods-programmers-believe](https://github.com/spickermann/awesome-falsehoods-programmers-believe) - A curated list of falsehoods programmers believe.
@@ -4676,6 +4680,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-matrix](https://github.com/rodolpheh/awesome-matrix) - A curated list of awesome stuff around Matrix.
 - [awesome-code-benchmark](https://github.com/tongye98/awesome-code-benchmark) - A comprehensive code domain benchmark review of LLM researches.
 - [awesome-recruitment-tests](https://github.com/zsoltime/awesome-recruitment-tests) - A curated list of awesome coding assignments and recruitment tests.
+- [awesome-multi-objective-optimization](https://github.com/AnjieCheng/awesome-multi-objective-optimization) - A curated list of awesome multi-objective optimization research resources. .
 - [awesome-bookmarks](https://github.com/awesome-wiki/awesome-bookmarks) - 书签「利器」收集 🍪🍿 Wiki 在线阅读👉.
 - [awesome-web-apps](https://github.com/brillout/awesome-web-apps) - Curated List of Web Apps.
 - [Awesome-Object-Detections](https://github.com/daicoolb/Awesome-Object-Detections) - Object detection records.
@@ -4720,6 +4725,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome](https://github.com/tomatophp/awesome) - Awesome List of TomatoPHP Community Plugins.
 - [awesome-ai-image](https://github.com/xaramore/awesome-ai-image) - A curated list of awesome AI tools for image processing, editing, enhancement, and more.
 - [awesome-ai-writing](https://github.com/xaramore/awesome-ai-writing) - A curated list of Awesome AI tools for writing, content creation, grammar checking, and more.
+- [awesome-xmake](https://github.com/xmake-examples/awesome-xmake) - 💕 A curated list of awesome XMake projects, plugins, examples and others.
 - [awesome-few-shot-learning-in-nlp](https://github.com/zhjohnchan/awesome-few-shot-learning-in-nlp) - A curated list of few-shot learning in NLP. :-).
 - [awesome-security-for-ai](https://github.com/zmre/awesome-security-for-ai) - Awesome products for securing AI systems includes open source and commercial options and an infographic licensed CC-BY-SA-4.0.
 - [awesome-msdyn365fo](https://github.com/anderson-joyle/awesome-msdyn365fo) - A curated list of awesome Microsoft Dynamics 365 for Finance and Operations repositories, blogs, documents and resources.
@@ -4746,7 +4752,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-thirdweb](https://github.com/warengonzaga/awesome-thirdweb) - A curated list of awesome thirdweb resources, libraries, examples, showcase, and open source projects. 📌✨.
 - [web3together](https://github.com/web3together/web3together) - 🗣 Public open-ended discussions about Blockchain, Web3, NFTs, DeFi, .
 - [awesome-multiversx-dev-resources](https://github.com/xdevguild/awesome-multiversx-dev-resources) - Awesome MultiversX dev resources: Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
-- [awesome-xmake](https://github.com/xmake-examples/awesome-xmake) - 💕 A curated list of awesome XMake projects, plugins, examples and others.
 - [awesome-opensource-school](https://github.com/zefanja/awesome-opensource-school) - Awesome free and open source software (FOSS) for schools.
 - [awesome_piv](https://github.com/alexlib/awesome_piv) - List of repositories related to PIV (particle image velocimetry) to learn from.
 - [awesome-devs-on-tiktok](https://github.com/awesometechtok/awesome-devs-on-tiktok) - A community-built list of developers making content on TikTok!.
@@ -4755,9 +4760,11 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-open-source-licensing](https://github.com/CodeScoring/awesome-open-source-licensing) - Cool links, tools & papers related to Open Source Licensing.
 - [mps.rocks](https://github.com/coolya/mps.rocks) - A curated list of awesome MPS extensions/libraries, software and resources.
 - [Awesome-Google-Gemini-AI](https://github.com/Curated-Awesome-Lists/Awesome-Google-Gemini-AI) -  Gemini AI, Google's latest and greatest, surpasses its predecessor, even outshining GPT-4. It's the newest iteration in Google's lineup of AI models, excelling in various tasks. With Nano, Pro, and the upcoming Ultra versions, it's designed for diverse user needs.
+- [awesome-cloth](https://github.com/dragonbook/awesome-cloth) - Some awesome researches about cloth(modeling, rendering, simulation etc).
 - [awesome-crypto](https://github.com/Helmi/awesome-crypto) - An Awesome List About Everything Crypto Currency.
 - [awesome-github-star](https://github.com/huruji/awesome-github-star) - 我在 GitHub 上 star 过的项目整理.
 - [Awesome-Engineering-Manager](https://github.com/jakubsvobodacz/Awesome-Engineering-Manager) - 💡 A curated list of resources for engineering managers.
+- [awesome-free-and-essential-products-for-startups](https://github.com/jitenbansal/awesome-free-and-essential-products-for-startups) - Curated list of free and essential products.
 - [awesome-projects](https://github.com/jslee02/awesome-projects) - :sunglasses: A curated list of awesome projects.
 - [awesome-nlp-resource](https://github.com/luyaojie/awesome-nlp-resource) - Awesome nlp resource.
 - [Awesome-Clone](https://github.com/MasterBrian99/Awesome-Clone) - A curated list of AWESOME clones made with react,vue,svelte.
@@ -4773,7 +4780,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [blog](https://github.com/awesomedevin/blog) - Welcome to Devin's blog,I'm trying to be a fullstack developer and sticking with it ！！！.
 - [awesome-mapbox-external-developer-resources](https://github.com/chriswhong/awesome-mapbox-external-developer-resources) - An awesome list of third-party developer resources to help you work with the Mapbox suite of location-based services, APIs, ADKs, libraries, and data.
 - [awesome-telegram-dev-groups-uz](https://github.com/doniyor2109/awesome-telegram-dev-groups-uz) - Curated list of Uzbek Telegram dev groups.
-- [awesome-cloth](https://github.com/dragonbook/awesome-cloth) - Some awesome researches about cloth(modeling, rendering, simulation etc).
 - [awesome-erlang](https://github.com/erlang-punch/awesome-erlang) - An (accurate) list of awesome Erlang resources.
 - [awesome-GAN](https://github.com/Faldict/awesome-GAN) - A curated list of awesome Generative Adversarial Nets resources.
 - [awesome-gno](https://github.com/gnoverse/awesome-gno) - Curated list of great gno.land resources by the community.
@@ -4783,7 +4789,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-job-boards](https://github.com/idimetrix/awesome-job-boards) - The best job boards for fast hiring.
 - [awesome-fortran-77](https://github.com/interkosmos/awesome-fortran-77) - A curated list of awesome FORTRAN 77 resources.
 - [awesome-javascript](https://github.com/iwanjunaid/awesome-javascript) - A Curated List of Awesome JavaScript Frameworks, Libraries, Tools and Resources.
-- [awesome-free-and-essential-products-for-startups](https://github.com/jitenbansal/awesome-free-and-essential-products-for-startups) - Curated list of free and essential products.
 - [awesome-solid](https://github.com/kustomzone/awesome-solid) - Awesome list of Solid links & projects. :sunglasses:.
 - [telegram-groups](https://github.com/learn-anything/telegram-groups) - Awesome Telegram Groups.
 - [well-documented](https://github.com/MaxwellBo/well-documented) - 📖 A collection of analyses, tutorials, walkthroughs and literate implementations of moderately complex standalone applications.
@@ -4799,7 +4804,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-glasgow-tech](https://github.com/AddJam/awesome-glasgow-tech) - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 A collection of awesome things for the tech community in Glasgow.
 - [Visual-Transformer-Paper-Summary](https://github.com/AIprogrammer/Visual-Transformer-Paper-Summary) - Summary of Transformer applications for computer vision tasks.
 - [awesome-kaggle-kernels](https://github.com/alfarias/awesome-kaggle-kernels) - Compilation of good Kaggle Kernels.
-- [awesome-multi-objective-optimization](https://github.com/AnjieCheng/awesome-multi-objective-optimization) - A curated list of awesome multi-objective optimization research resources. .
 - [awesome-spatial-data](https://github.com/bchapuis/awesome-spatial-data) - A list of awesome spatial datasets.
 - [awesome-rails-bootstrapped-br](https://github.com/diegolinhares/awesome-rails-bootstrapped-br) - Construa negócios bootstrapped com Rails de forma ágil. templates, livros, mockups, e muito mais!.
 - [awesome-ray](https://github.com/JiahaoYao/awesome-ray) - Ray - A curated list of resources: 
@@ -4940,6 +4944,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-utrecht-university](https://github.com/utrechtuniversity/awesome-utrecht-university) - A curated list of awesome open source projects from Utrecht University. .
 - [awesome-visual-localization](https://github.com/youkely/awesome-visual-localization) - Literature review of visual localization.
 - [awesome-xcode-plugins](https://github.com/youssman/awesome-xcode-plugins) - Awesome Xcode plugins to rocket your productivity :).
+- [awesome-gnuradio](https://github.com/ysk256/awesome-gnuradio) - Awesome gnuradio / SDR software.
 - [awesome-of-time-series-prediction](https://github.com/zzw-zwzhang/awesome-of-time-series-prediction) - A curated list of time series prediction resources.
 - [awesome-coworking](https://github.com/ahmadnassri/awesome-coworking) - Directory of Awesome Co-Working spaces around the globe.
 - [awesome-areweyet](https://github.com/avidseeker/awesome-areweyet) - Current adoption status of various technologies.
@@ -4957,11 +4962,9 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-springboard-capstones](https://github.com/springboard-curriculum/awesome-springboard-capstones) - Place for collecting great projects/capstones from previous springboard students. .
 - [awesome-london](https://github.com/tolgaergin/awesome-london) - A curated list of links for UK based contractors.
 - [awesome-markdown](https://github.com/webiaio/awesome-markdown) - Awesome markdown writing tools.
-- [awesome-gnuradio](https://github.com/ysk256/awesome-gnuradio) - Awesome gnuradio / SDR software.
 - [awesome-pdf](https://github.com/abhi18av/awesome-pdf) - List of tools for dealing with the wonderful PDF format.
 - [awesome-nord](https://github.com/Aceto1/awesome-nord) - This repository contains community-created ports and themes of this color palette for all our beloved applications.
 - [awesome-split-learning](https://github.com/aidecentralized/awesome-split-learning) - A curated repository for various papers in the domain of split learning.
-- [awesome-multi-objective-deep-learning](https://github.com/baijiong-lin/awesome-multi-objective-deep-learning) - A comprehensive list of gradient-based multi-objective optimization algorithms in deep learning.
 - [awesome-d4](https://github.com/cagartner/awesome-d4) - 🎉 A curated list of awesome things related to Diablo 4.
 - [awesome-video-segmentation](https://github.com/ChanChiChoi/awesome-video-segmentation) - Papers about video segmentation.
 - [awesome-trackmania](https://github.com/EvoEsports/awesome-trackmania) - Curated list of all awesome TrackMania resources!.
@@ -4979,6 +4982,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-blockspace](https://github.com/0xperp/awesome-blockspace) - Overview of Blockspace its demand, pricing, and trading.
 - [awesome-rethinkdb](https://github.com/analytik/awesome-rethinkdb) -  A curated list of RethinkDB resources and libraries.
 - [awesome-rl-for-legged-locomotion](https://github.com/apexrl/awesome-rl-for-legged-locomotion) - A curated list of awesome material on legged robot locomotion using reinforcement learning (RL) and sim-to-real techniques.
+- [awesome-recipes](https://github.com/bbbenji/awesome-recipes) - A curated list of awesome food recipes.
 - [awesome-csv](https://github.com/csvspecs/awesome-csv) - Awesome Comma-Separated Values (CSV) - What's Next? - Frequently Asked Questions (F.A.Q.s) - Libraries & Tools.
 - [awesome-parenting](https://github.com/davidpelayo/awesome-parenting) - Parenting information & advice for expectant fathers. The first worldwide collaborative fatherhood guide.
 - [awesome-gel](https://github.com/geldata/awesome-gel) - A curated list of resources related to EdgeDB.
@@ -4998,6 +5002,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-software-architecture](https://github.com/yasir2000/awesome-software-architecture) - A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles.
 - [belajar-ngoding-bhs-indo](https://github.com/amuritna/belajar-ngoding-bhs-indo) - "Awesome list" of Indonesian programming resources. / Daftar bahan belajar pemrograman berbahasa Indonesia.
 - [awesome-python-audio](https://github.com/andreimatveyeu/awesome-python-audio) - Awesome Python resources related to audio and music.
+- [awesome](https://github.com/bnb-chain/awesome) - A curated list of awesome projects in BNB Chain ecosystem.
 - [awesome-scene-change-detections](https://github.com/chickenbestlover/awesome-scene-change-detections) - A curated list of datasets, codes, and papers related to scene change detection.
 - [awesome-curated-tools](https://github.com/chow-petit/awesome-curated-tools) - A curated list of digital tools we use, ranging from accounting and data science to scientific research and liquid democracy. Commented, connected, by everyone and for everyone !.
 - [fucking-awesome-mac](https://github.com/correia-jpv/fucking-awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories. With repository stars⭐ and forks🍴.
@@ -5024,7 +5029,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-redmine](https://github.com/alexandermeindl/awesome-redmine) - A curated list of awesome Redmine tools, plugins, themes and services.
 - [awesome-front-end-curriculum](https://github.com/auchenberg/awesome-front-end-curriculum) - A crowd sourced curriculum of mandatory material for new front-end devs.
 - [awesome-ukraine-support](https://github.com/bgruening/awesome-ukraine-support) - A list of resources and inititive to help the Ukraine.
-- [awesome](https://github.com/bnb-chain/awesome) - A curated list of awesome projects in BNB Chain ecosystem.
 - [awesome-react](https://github.com/Cyanhall/awesome-react) - Better Awesome React List with 🔥 Stars 🌐 Dependent Packages 📝 Last Commit.
 - [awesome-tree-sitter](https://github.com/drom/awesome-tree-sitter) - Curated list of awesome tree-sitter language grammars, bindings, tools, libraries.
 - [awesome-mint](https://github.com/egajda/awesome-mint) -  A refreshing collection of awesome Mint libraries, tools, and software.
@@ -5048,6 +5052,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-mllm-uncertainty](https://github.com/ruiyang-061x/awesome-mllm-uncertainty) - ✨A curated list of papers on the uncertainty in multi-modal large language model (MLLM).
 - [Mac-Menubar-Megalist](https://github.com/SKaplanOfficial/Mac-Menubar-Megalist) - Sorted list of 1800+ macOS menubar apps.
 - [Awesome-Target-driven-Navigation](https://github.com/Skylark0924/Awesome-Target-driven-Navigation) - Paper and summaries about state-of-the-art robot Target-driven Navigation task.
+- [awesome-free-mit](https://github.com/SuperSonicHub1/awesome-free-mit) - A collection of free stuff you can get at the Massachusetts Institute of Technology.
 - [awesome-drupal](https://github.com/theodorosploumis/awesome-drupal) - A collection of awesome resources, tools, books, podcasts etc for Drupal CMS.
 - [awesome-fr](https://github.com/websealevel/awesome-fr) - Une liste organisée de ressources gratuites pour la programmation, le web et le design. Régulièrement mise à jour.
 - [awesome-mantine](https://github.com/xiaohanyu/awesome-mantine) - A curated list of mantine docs, libs and resources.
@@ -5065,7 +5070,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [Awesome-LLM-Empathy](https://github.com/JhCircle/Awesome-LLM-Empathy) - Papers list of empathy in LMs: theory, modeling, systems, emotion, evaluation.
 - [awesome-osdev](https://github.com/leap0x7b/awesome-osdev) - List of resources and projects for operating system development.
 - [awesome-livepeer](https://github.com/livepeer/awesome-livepeer) - A community curated list of projects, tutorials, demos, and resources within the Livepeer ecosystem.
-- [awesome-modding](https://github.com/loicreynier/awesome-modding) - A curated list of video game modding projects and resources.
 - [ARM-Guide](https://github.com/mikeroyal/ARM-Guide) - ARM Guide .
 - [Linux-Mint-Guide](https://github.com/mikeroyal/Linux-Mint-Guide) - Linux Mint Guide.
 - [ScriptKiddy](https://github.com/ohidurbappy/ScriptKiddy) - 💻Scripts that will make you feel WOW 😍.
@@ -5079,9 +5083,11 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-open-science](https://github.com/ZoranPandovski/awesome-open-science) - :books: :microscope: :unlock:  :mag: A curated list of resources, data, tools, scholarship related to Open Access, Data and Open Science :books: :microscope: :unlock:  :mag: .
 - [LearningDevOpsUkraine](https://github.com/allozavrr/LearningDevOpsUkraine) - LearningDevOpsUkraine.
 - [awesome-anvil](https://github.com/anvil-works/awesome-anvil) - A collection of resources for all your Anvil needs. Including awesome projects from the community, demos, blogs and tutorials.
+- [student-gpt-tools](https://github.com/bydeng01/student-gpt-tools) - AI tools collection for students and researchers. 学生和研究人员的AI工具合集。.
 - [awesome-papers](https://github.com/Data-Centric-GraphML/awesome-papers) - A collection of papers and resources about Data-centric Graph Machine Learning (DC-GML).
 - [awesome-elm-pltd](https://github.com/hayleigh-dot-dev/awesome-elm-pltd) - A showcase of awesome programming language projects and resources written in Elm.
 - [awesome-recruit-engineer-careers](https://github.com/hotchemi/awesome-recruit-engineer-careers) - リクルートグループのエンジニア採用情報.
+- [awesome-purchasing-power-parity](https://github.com/jaipandya/awesome-purchasing-power-parity) - Global products with support for Purchasing Power Parity.
 - [awesome-human-pose-prediction](https://github.com/karttikeya/awesome-human-pose-prediction) - A selection of State Of The Art research papers (and code) on human locomotion (pose + trajectory) prediction (forecasting) .
 - [awesome-llmops](https://github.com/KennethanCeyer/awesome-llmops) - Awesome series for LLMOps.
 - [awesome-covid19-korea](https://github.com/NullFull/awesome-covid19-korea) - 2020년 코로나바이러스 대유행 정보 시각화를 시도한 국내외 사이트를 취합합니다.
@@ -5091,11 +5097,11 @@ Last generated: 2025-08-14, 8759 lists.
 - [Awesome-Visual-Object-Tracking](https://github.com/Xuchen-Li/Awesome-Visual-Object-Tracking) - A visual object tracking paper list, articles related to visual object tracking have been documented.
 - [awesome-flux](https://github.com/yanmagale/awesome-flux) - A curated list about Flux arquitechture and your implementations.
 - [awesome-bitcoin-cash](https://github.com/2qx/awesome-bitcoin-cash) - Bitcoin Cash projects & resources .
+- [awesome-ascii](https://github.com/90dy/awesome-ascii) - 👻 Awesome ASCII games, libraries, tools, softwares and more. just for the fun.
 - [awesome-codeql](https://github.com/advanced-security/awesome-codeql) - A curated list of awesome CodeQL resources.
 - [awesome-oss-data-analytics](https://github.com/Aleyasen/awesome-oss-data-analytics) - A curated list of open source alternatives for data analytics start-up products.  .
 - [awesome-embedded-fuzzing](https://github.com/andreia-oca/awesome-embedded-fuzzing) - A list of resources (papers, books, talks, frameworks, tools) for understanding fuzzing for IoT/embedded devices.
 - [awesome-haskell-videos](https://github.com/andys8/awesome-haskell-videos) - A collection of awesome Haskell videos. Inspired by awesome projects line.
-- [awesome-recipes](https://github.com/bbbenji/awesome-recipes) - A curated list of awesome food recipes.
 - [awesome-bible-developer-resources](https://github.com/biblenerd/awesome-bible-developer-resources) - A curated list of awesome resources for developers (and other nerds) working with biblical texts and related tools.
 - [awesome-opensearch](https://github.com/bigdataboutique/awesome-opensearch) - A curated list of links and resources all about Opensearch. Maintained by the Opensearch experts at BigData Boutique (makers of Pulse for Opensearch).
 - [awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 各种 CS 的必备技能，Go 语言、云原生、kubernetes、docker以及开源社区的记录，学习笔记.
@@ -5123,9 +5129,9 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-ai-marketing](https://github.com/alternbits/awesome-ai-marketing) - A curated list of top best ai tools for marketing.
 - [awesome-pmod](https://github.com/arturo182/awesome-pmod) - A curated list of Open Source PMOD boards.
 - [awesome-amortized-inference](https://github.com/bayesflow-org/awesome-amortized-inference) - This is a community-driven collection of resources around amortized inference.
-- [student-gpt-tools](https://github.com/bydeng01/student-gpt-tools) - AI tools collection for students and researchers. 学生和研究人员的AI工具合集。.
 - [awesome-ctf](https://github.com/c4pr1c3/awesome-ctf) - Forked from 
 - [awesome-sap-commerce](https://github.com/eminyagiz42/awesome-sap-commerce) - A curated list of delightful SAP Commerce resources.
+- [awesome-mir-labs](https://github.com/ldzhangyx/awesome-mir-labs) - A full collection of Music Informatic Retrieval (MIR) and AI Music labs.
 - [awesome-llama-resources](https://github.com/MIBlue119/awesome-llama-resources) - Just collections  about Llama2.
 - [Flutter-Guide](https://github.com/mikeroyal/Flutter-Guide) - Flutter Guide.
 - [Xcode-Guide](https://github.com/mikeroyal/Xcode-Guide) - Xcode Guide.
@@ -5152,11 +5158,11 @@ Last generated: 2025-08-14, 8759 lists.
 - [rime-list](https://github.com/hantang/rime-list) - RIME相关配置、词库和输入法方案汇集。.
 - [awesome_software_securities](https://github.com/hong6914/awesome_software_securities) - Sites and URLs on software and securities that I hope to learn from you guys.
 - [awesome-road-map](https://github.com/isLinXu/awesome-road-map) - 🗺️awesome-road-map🗺️.
-- [awesome-purchasing-power-parity](https://github.com/jaipandya/awesome-purchasing-power-parity) - Global products with support for Purchasing Power Parity.
 - [awesome-chinese-fonts](https://github.com/kevchentw/awesome-chinese-fonts) - A curated list of awesome chinese fonts.
 - [awesome-pelican](https://github.com/kmonsoor/awesome-pelican) - A curated list of awesome open-source projects, directly related to Pelican, the static-site-generator.
 - [awesome-offline-to-online-RL-papers](https://github.com/linhlpv/awesome-offline-to-online-RL-papers) -  A list of Offline to Online RL papers (continually updated).
 - [awesome-x6](https://github.com/lloydzhou/awesome-x6) - Awesome list of antv x6.
+- [awesome-modding](https://github.com/loicreynier/awesome-modding) - A curated list of video game modding projects and resources.
 - [awesome-tools](https://github.com/lotapp/awesome-tools) - 逆天开发常用库（整理更新ing）.
 - [awesome-notes](https://github.com/sabertazimi/awesome-notes) - :dragon: Personal Learning Notes - Today I Learned (TIL).
 - [awesome-dao-zh](https://github.com/SeeDAO-OpenSource/awesome-dao-zh) - 📚 DAO 相关开源工具精选中文版.
@@ -5165,6 +5171,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-semantic-shapes](https://github.com/w3c-cg/awesome-semantic-shapes) - A curated list of RDF Shape resources.
 - [awesome-cv-best-paper-list](https://github.com/yyyujintang/awesome-cv-best-paper-list) - Awesome Best Papers in Computer Vision Top Conference(CVPR/ICCV/ECCV).
 - [awesome-identity-management](https://github.com/abhir9/awesome-identity-management) - 😎 Awesome lists about Identity Management Solutions .
+- [awesome-autonomous-driving-security-resources](https://github.com/allenpandas/awesome-autonomous-driving-security-resources) - 🚗 A  repository for documenting and exploring the world of autonomous driving safety, featuring a curated collection of research papers, reports, and resource.
 - [awesome-starred](https://github.com/almereyda/awesome-starred) - A curated list of my GitHub stars!.
 - [tech-resources](https://github.com/andou/tech-resources) - 🔧 A list of useful resources for tech enthusiasts.  .
 - [awesome-celestia](https://github.com/celestiaorg/awesome-celestia) - An Awesome List of Celestia Resources.
@@ -5173,6 +5180,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-payload](https://github.com/danailminchev/awesome-payload) - :sunglasses: A curated list of awesome Payload resources for users and developers.
 - [awesome-datree](https://github.com/datreeio/awesome-datree) - ⚙️ A curated list of resources for using Datree's CLI tool.
 - [awesome-keyboard](https://github.com/Delapouite/awesome-keyboard) - A curated list of awesome resources about configuring and building keyboards.
+- [awesome-disastertech](https://github.com/DisasterTechCrew/awesome-disastertech) - A selection of projects, organisations and useful tools that help humans in crisis situations.
 - [awesome-ruby-api](https://github.com/edymerchk/awesome-ruby-api) - A collection of awesome libraries, tools, frameworks and software to create beautiful APIs using Ruby.
 - [awesome-sse](https://github.com/emad7105/awesome-sse) - A curated list of resources about Searchable Symmetric Encryption (SSE).
 - [awesome-swarm](https://github.com/ethersphere/awesome-swarm) - This is a list of free and open source projects related to Swarm and its growing ecosystem.
@@ -5180,7 +5188,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-sparklyr](https://github.com/harryprince/awesome-sparklyr) - An awesome sparklyr related package collection.
 - [awesome-javascript-data-science](https://github.com/hodovani/awesome-javascript-data-science) - Awesome JavaScript Data Science.
 - [awesome-vmix](https://github.com/jensstigaard/awesome-vmix) - A curated list of especially useful resources related to vMix.
-- [awesome-mir-labs](https://github.com/ldzhangyx/awesome-mir-labs) - A full collection of Music Informatic Retrieval (MIR) and AI Music labs.
 - [awesome-tsukuba](https://github.com/Make-IT-TSUKUBA/awesome-tsukuba) - 筑波大学に関連する便利なツール・サイト・スマホアプリなど.
 - [awesome-osu-tournaments](https://github.com/MiraiSubject/awesome-osu-tournaments) - A collection of useful tools and resources for managing an osu! tournament.
 - [awesome-kramdown](https://github.com/mundimark/awesome-kramdown) - A collection of awesome kramdown goodies for the converter for (structured) text with formatting markup in markdown conventions.
@@ -5199,8 +5206,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-edge](https://github.com/yarncraft/awesome-edge) - A qualitative compilation of production-ready frameworks, services and repositories with a focus on Edge Computing & IoT.
 - [awesome-text-style-transfer](https://github.com/yd1996/awesome-text-style-transfer) - A list of resources about Text Style Transfer.
 - [awesome-turkish-nlp](https://github.com/yusufusta/awesome-turkish-nlp) - A curated list of awesome Turkish language processing libraries, models, resources and datasets. The main focus is on open source tools, downloadable data and research papers with code.
-- [awesome-ascii](https://github.com/90dy/awesome-ascii) - 👻 Awesome ASCII games, libraries, tools, softwares and more. just for the fun.
-- [awesome-autonomous-driving-security-resources](https://github.com/allenpandas/awesome-autonomous-driving-security-resources) - 🚗 A  repository for documenting and exploring the world of autonomous driving safety, featuring a curated collection of research papers, reports, and resource.
 - [awesome-chip](https://github.com/bartjakobs/awesome-chip) - A curated list of awesome CHIP related projects. Many of the links are down :(.
 - [awesome-scratch-projects](https://github.com/CodeLabClub/awesome-scratch-projects) - A curated list of awesome scratch projects.
 - [fucking-Awesome-Linux-Software](https://github.com/Correia-jpv/fucking-Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros. With repository stars⭐ and forks🍴.
@@ -5212,6 +5217,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [slack-groups](https://github.com/learn-anything/slack-groups) - Awesome Slack Groups.
 - [cssehfoda](https://github.com/marcelabomfim/cssehfoda) - Lista de links fodas sobre css.
 - [awesome-resources](https://github.com/meet59patel/awesome-resources) - 🔥Awesome Resources, Bookmarks, Websites and Stars of the Web! 😎🔥.
+- [my-awesome-lua](https://github.com/MegaBedder/my-awesome-lua) - My list of quality Lua packages and resources.
 - [flutter-ranking](https://github.com/myConsciousness/flutter-ranking) - ✨👑 Fully Automated Ranking of Flutter packages 👑✨ This repository aims to visualize the packages published on pub.dev as a ranking, to invigorate the community and promote competition. It is automatically updated everyday between 06:00 and 07:00 based on UTC time ✨.
 - [awesome-personal-finance-canada](https://github.com/NickLewanowicz/awesome-personal-finance-canada) - Curated list of online resources for your personal finance.
 - [awesome-ai-agents](https://github.com/PathOnAIOrg/awesome-ai-agents) - Collection of Materials on AI Agents.
@@ -5243,7 +5249,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-3dgs-slam](https://github.com/kwanwaipang/awesome-3dgs-slam) - Paper Survey for 3DGS SLAM.
 - [awesome-ApacheSpark-collections](https://github.com/Mageswaran1989/awesome-ApacheSpark-collections) - A curated list of awesome Apache Spark packages and resources.
 - [awesome-voron](https://github.com/matthewlloyd/awesome-voron) - A curated list of links related to Voron printers.
-- [my-awesome-lua](https://github.com/MegaBedder/my-awesome-lua) - My list of quality Lua packages and resources.
 - [awesome-conference-videos](https://github.com/onmyway133/awesome-conference-videos) - 🎸 Conference videos. Visit  .
 - [awesome-splunk](https://github.com/outcoldman/awesome-splunk) - A curated list of awesome Splunk links.
 - [ml-engineering-blogs](https://github.com/primaprashant/ml-engineering-blogs) - 📚 Curated list of machine learning engineering blogs.
@@ -5251,10 +5256,12 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-cordova-plugins](https://github.com/rdn87/awesome-cordova-plugins) - A curated list of awesome Cordova Apache Plugins 
 - [awesome-diagrams](https://github.com/terrastruct/awesome-diagrams) - A collection of software architecture diagrams.
 - [awesome-chinese-learning](https://github.com/thomashirtz/awesome-chinese-learning) - Repository to share curated resources and tips accumulated while studying in China.
+- [awesome-personal-websites](https://github.com/tk-notes/awesome-personal-websites) - It's my attempt to store all personal website I find interesting.
 - [awesome-audio-plugin-framework](https://github.com/Tremus/awesome-audio-plugin-framework) - Curated list of small C/C++ libraries for building your own custom audio plugin framework.
 - [awesome-mihoyo](https://github.com/Vant1032/awesome-mihoyo) - Genshin Impact, Honkai: Star Rail, Zenless Zone Zero, Honkai Impact content collect. 原神、崩坏星穹铁道、绝区零、崩坏3二创及官方内容集锦，分门别类整理好了。.
 - [awesome-tactile-sensing](https://github.com/vocdex/awesome-tactile-sensing) - Important research papers, blogposts, repos on tactile sensing ( vision-based).
 - [awesome-cue](https://github.com/xinau/awesome-cue) - A curated list of awesome CUE projects, libraries, tools and resources.
+- [awesome-on-device-AI](https://github.com/ysyisyourbrother/awesome-on-device-AI) - A curated list of awesome projects and papers for AI on Mobile/IoT/Edge devices. Everything is continuously updating. Welcome contribution!.
 - [awesome-energy](https://github.com/bpetit/awesome-energy) - ICT focussed energy-related list of publications.
 - [fucking-awesome-privacy](https://github.com/Correia-jpv/fucking-awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. With repository stars⭐ and forks🍴.
 - [Awesome-Auto-GPT](https://github.com/Curated-Awesome-Lists/Awesome-Auto-GPT) - A curated list of awesome projects related to AutoGPT, an autonomous AI agent that can perform tasks independently using ChatGPT.
@@ -5277,6 +5284,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-github-copilot](https://github.com/program247365/awesome-github-copilot) - A curated list of awesome things regarding GitHub CoPilot.
 - [awesome-useless-websites](https://github.com/scriptex/awesome-useless-websites) - A curated list of pointless yet funny websites.
 - [awesome-chatgpt-resources](https://github.com/tarrysingh/awesome-chatgpt-resources) - Awesome ChatGPT | Massive Resources & Collection On The Internet.
+- [awesome-technical-writing-learning](https://github.com/wongyah/awesome-technical-writing-learning) - 😎 A curated list of awesome and free resources about technical writing.
 - [Awesome-Deep-Group-Recommendation](https://github.com/yueliu1999/Awesome-Deep-Group-Recommendation) - Awesome Deep Group Recommendation is a collection of SOTA, novel deep group recommendation methods (papers, codes, and datasets).
 - [awesome-iran-opendata](https://github.com/alirezach/awesome-iran-opendata) - A repo to introduce website that share Data and Dataset about Iran [Useful for Journalist and Researchers ].
 - [awesome-microsoft-fabric](https://github.com/bhakthan/awesome-microsoft-fabric) - A curated list of awesome Microsoft Fabric resources, updates,  blogs, videos and more.
@@ -5286,7 +5294,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome_jetbrains_plugins](https://github.com/clutcher/awesome_jetbrains_plugins) - This is a list of all top and best plugins for Jetbrains IDEs ( (IntelliJ IDEA, PyCharm, WebStorm, PhpStorm, Rider, CLion, RubyMine, GoLand, RustRover, Aqua, Android Studio).
 - [awesome-gamecube-development](https://github.com/command-tab/awesome-gamecube-development) - WIP: A curated list of Nintendo GameCube development resources including toolchains, documentation, emulators, example code, and more.
 - [fucking-awesome-python-cn](https://github.com/Correia-jpv/fucking-awesome-python-cn) - Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。 With repository stars⭐ and forks🍴.
-- [awesome-disastertech](https://github.com/DisasterTechCrew/awesome-disastertech) - A selection of projects, organisations and useful tools that help humans in crisis situations.
 - [awesome-feeds](https://github.com/DongjunLee/awesome-feeds) - A curated list of tech, machine learning, biz and etc. feeds.
 - [awesome-financial-open-source](https://github.com/gavincyi/awesome-financial-open-source) - Collection of financial institution open source groups.
 - [awesome-self-supervised-learning-papers](https://github.com/guyulongcs/awesome-self-supervised-learning-papers) - Awesome Self-supervised papers in CV, NLP, Graph, Recommendation, ML and so on.
@@ -5310,7 +5317,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-arts](https://github.com/Spacial/awesome-arts) - Awesome Arts is a collection of arts links and stuff.
 - [awesome-chatgpt-zh](https://github.com/tksye/awesome-chatgpt-zh) - 各种ChatGPT资源生成力精选资源清单，以及如何更有效地使用中文与ChatGPT进行交流的方法。.
 - [awesome-knowleges](https://github.com/wmenjoy/awesome-knowleges) - 汇总有用的知识.
-- [awesome-technical-writing-learning](https://github.com/wongyah/awesome-technical-writing-learning) - 😎 A curated list of awesome and free resources about technical writing.
 - [awesome-vscode-article](https://github.com/xiaoxiunique/awesome-vscode-article) - 用爬虫在全网范围内检索 VSCode 的优秀文章，聚合在此。平台包括 「CSDN」「掘金」「简书」「知乎」「SegmentFault」「博客园」「开源中国」「慕课手记」，相信无论你对 VSCode 目前了解到什么程度，这个项目都能帮到你。.
 - [Awesome-gait-recognition](https://github.com/XKMar/Awesome-gait-recognition) - A collection of AWESOME things about Gait Recognition.
 - [Awesome-Multi-Modal-Dialog](https://github.com/Yuco-Z/Awesome-Multi-Modal-Dialog) - [Paperlist] Awesome paper list of multimodal dialog, including methods, datasets and metrics.
@@ -5336,9 +5342,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-failure-diagnosis](https://github.com/phamquiluan/awesome-failure-diagnosis) - Awesome resources for failure diagnosis research.
 - [awesome-EOS](https://github.com/ptalmeida/awesome-EOS) - A curated list of awesome EOS resources and projects .
 - [Road2R](https://github.com/Ronlee12355/Road2R) - A curated list of amazingly awesome R libraries, resources and package collection.
-- [awesome-personal-websites](https://github.com/tk-notes/awesome-personal-websites) - It's my attempt to store all personal website I find interesting.
 - [awesome-smart-contracts](https://github.com/transmute-industries/awesome-smart-contracts) - Awesome Ethereum Projects List.
-- [awesome-on-device-AI](https://github.com/ysyisyourbrother/awesome-on-device-AI) - A curated list of awesome projects and papers for AI on Mobile/IoT/Edge devices. Everything is continuously updating. Welcome contribution!.
 - [awesome-hapi](https://github.com/anhldbk/awesome-hapi) - A curated list of delightful HapiJS packages & resources.
 - [awesome-wiki-books](https://github.com/awesome-wiki/awesome-wiki-books) - 收集高质量值得一读的书籍 📚 在线阅读👉.
 - [Awesome-Open-domain-Dialogue-Models](https://github.com/cingtiye/Awesome-Open-domain-Dialogue-Models) - Awesome Open-domain Dialogue Models，高质量开放域对话模型集合.
@@ -5415,7 +5419,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-adk](https://github.com/rashraj/awesome-adk) - A curated list of awesome resources, tools, libraries, tutorials, and references for Google Application Development Kit (ADK).
 - [awesome-refinerycms](https://github.com/refinerycms-contrib/awesome-refinerycms) - A collection of awesome Refinery CMS extensions, resources and shiny things.
 - [awesome-arangodb](https://github.com/RienNeVaPlus/awesome-arangodb) - 🥑 List of awesome ArangoDB repositories and links.
-- [awesome-free-mit](https://github.com/SuperSonicHub1/awesome-free-mit) - A collection of free stuff you can get at the Massachusetts Institute of Technology.
 - [awesome-web-graphics](https://github.com/taenykim/awesome-web-graphics) - A collection of WEB Graphics | css | canvas | webgl | library | awesome web pages.
 - [Awesome-Machine-learning-for-discovery-of-physical-laws](https://github.com/usccolumbia/Awesome-Machine-learning-for-discovery-of-physical-laws) - A curated list of awesome resources on using machine learning and data science for discovery of physical laws.
 - [awesome-avd](https://github.com/alan-turing-institute/awesome-avd) - A curated list of research resources in automated vulnerability detection (AVD).
@@ -5435,6 +5438,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-compopt](https://github.com/MartinEesmaa/awesome-compopt) - A list of the awesome archive compressor and optimizer programs.
 - [awesome-contao](https://github.com/may17/awesome-contao) - A helpful list of awesome things related to the Contao CMS.
 - [my-development-awesome-list](https://github.com/mcicolella/my-development-awesome-list) - My development awesome list! .
+- [awesome-dpsg](https://github.com/mstoetzer/awesome-dpsg) - A curated collection of Free Software, web applications and useful tools for working within DPSG (Deutsche Pfadfinderschaft St. Georg). These resources support group leaders, board members and active members in organizing, communicating and shaping their scouting activities.
 - [awesome_vision_transformer](https://github.com/murufeng/awesome_vision_transformer) - Implementation of vision transformer. ⭐⭐⭐.
 - [awesomeJulia](https://github.com/old-julia-codes/awesomeJulia) - Awesome Julia.
 - [awesome-bqn](https://github.com/pellertson/awesome-bqn) - A list of awesome libraries for BQN.
@@ -5465,7 +5469,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-lost-and-found](https://github.com/mikemybytes/awesome-lost-and-found) - A personal list of useful software engineering resources.
 - [Deep-Learning-Guide](https://github.com/mikeroyal/Deep-Learning-Guide) - Deep learning Guide.
 - [awesome-diffusion-iclr-2025](https://github.com/moatifbutt/awesome-diffusion-iclr-2025) - List of diffusion related active submissions on OpenReview for ICLR 2025.
-- [awesome-dpsg](https://github.com/mstoetzer/awesome-dpsg) - A curated collection of Free Software, web applications and useful tools for working within DPSG (Deutsche Pfadfinderschaft St. Georg). These resources support group leaders, board members and active members in organizing, communicating and shaping their scouting activities.
 - [Awesome-Private-Browsing](https://github.com/onsitejs/Awesome-Private-Browsing) - A curated list of awesome private web browsing tools, projects, software, ideas, and resources.
 - [awesome-hive](https://github.com/openhive-network/awesome-hive) - A curated list of awesome Hive resources.
 - [awesome-pmm](https://github.com/percona/awesome-pmm) - A curated list of awesome Percona Monitoring and Management (PMM) free and opensource software, libraries and resources.
@@ -5941,6 +5944,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome_eos](https://github.com/SheldonHH/awesome_eos) - General Catalog for EOS resources.
 - [awesome-umcs](https://github.com/s-tyda/awesome-umcs) - A curated list of awesome Maria Curie-Sklodowska University links and resources.
 - [awesome-vtk](https://github.com/tkoyama010/awesome-vtk) - A curated list of awesome stuff related to VTK 😎.
+- [awesome-parametric-knowledge-in-llms](https://github.com/trae1oung/awesome-parametric-knowledge-in-llms) -  Must-read papers and blogs about parametric knowledge mechanism in LLMs.
 - [awesome-quantum-chemistry](https://github.com/twoXes/awesome-quantum-chemistry) - Quantum Chemistry is awesome. Throw your textbook in the garbage, light the garbage can on fire, and blend the ashes into your cold brew almond milk latte and read this.
 - [awesome-AI-for-emotion-recognition-papers](https://github.com/ultramarineX/awesome-AI-for-emotion-recognition-papers) - A list of papers (with available code), tutorials, and surveys on recent AI for emotion recognition (AI4ER).
 - [awesome-masonite](https://github.com/vaibhavmule/awesome-masonite) - Curating the best Masonite packages and resources.
@@ -6029,7 +6033,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [Awesome-List](https://github.com/ryparker/Awesome-List) - A list of my favorite findings in the software industry. 🕶️.
 - [awesome-citizen-science-nl](https://github.com/sodascience/awesome-citizen-science-nl) - A curated list of awesome Citizen Science Projects in the Netherlands.
 - [awesome-persistence](https://github.com/Stuuxx/awesome-persistence) - Persistence techniques for windows.
-- [awesome-parametric-knowledge-in-llms](https://github.com/trae1oung/awesome-parametric-knowledge-in-llms) -  Must-read papers and blogs about parametric knowledge mechanism in LLMs.
 - [awesome-test-engineer](https://github.com/upgundecha/awesome-test-engineer) - Curated resources for learning the skills listed in Redgate Test Engineer Skill Map - 
 - [awesome-material-components](https://github.com/webdenim/awesome-material-components) - A curated list of awesome projects related to Google's Material Design Components.
 - [awesome-web3](https://github.com/yosriady/awesome-web3) - A curated list of awesome Web3 tools, books, courses, and more. Launch and learn on web3 faster!.
@@ -6082,6 +6085,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-farming-tech](https://github.com/thefarmhub/awesome-farming-tech) - A collection of valuable resources for making your own IoT aquaponic monitoring system.
 - [awesome-agile-workshop](https://github.com/tunepolo/awesome-agile-workshop) - アジャイル開発・チームビルディングに役立つワークショップのまとめ.
 - [awesome-mpsoc](https://github.com/Vitorian/awesome-mpsoc) - Public resources available for Xilinx  MPSOC+ and SDSOC hardware.
+- [awesome-vector-database](https://github.com/xiaomingx/awesome-vector-database) - A curated list of resources, tools, tutorials, and libraries for exploring and utilizing vector databases. This repository aims to provide comprehensive insights into the use of vector databases for efficient data retrieval, similarity search, and machine learning applications. .
 - [metric-learning-papers](https://github.com/Xlgd/metric-learning-papers) - A collection of metric learning papers.
 - [resources](https://github.com/zavsievich/resources) - Learning resources to develop skills across the frontend and related areas. PR's are welcome!.
 - [my-awesome](https://github.com/zoroqi/my-awesome) - My Awesome List.
@@ -6142,7 +6146,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-app-js](https://github.com/soixantecircuits/awesome-app-js) - This document list all the JavaScript libs used at Soixante circuits. They are compatible with Webpack and run in the browser and / or node only.
 - [lista-telegram-brasil](https://github.com/TI-Brasil/lista-telegram-brasil) - Grupos Brasileiros sobre Tecnologia no Telegram.
 - [awesome](https://github.com/toweave/awesome) - Awesome Awesome Awesome ! Try to update every week.
-- [awesome-vector-database](https://github.com/xiaomingx/awesome-vector-database) - A curated list of resources, tools, tutorials, and libraries for exploring and utilizing vector databases. This repository aims to provide comprehensive insights into the use of vector databases for efficient data retrieval, similarity search, and machine learning applications. .
 - [awesome-foundation-models-on-graphs](https://github.com/zehong-wang/awesome-foundation-models-on-graphs) - A collection of graph foundation models including papers, codes, and datasets. .
 - [awesome-disentanglement-in-nlp](https://github.com/zhjohnchan/awesome-disentanglement-in-nlp) - A curated list of disentanglement in NLP. :-).
 - [awesome-leetcode](https://github.com/zhuifengshen/awesome-leetcode) - LeetCode Efficient Training Guide!.
@@ -6321,6 +6324,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-polywrap](https://github.com/polywrap/awesome-polywrap) - Polywrap is building a unified execution environment for the internet that is safe, open, and user-owned. Use Polywrap to create endlessly extensible software that runs anywhere.
 - [awesome_quantmetry](https://github.com/Quantmetry/awesome_quantmetry) - A list of repositories commonly used @ Quantmetry.
 - [awesome-pika](https://github.com/rajasegar/awesome-pika) - Awesome list of Pika - Move the web forward.
+- [awesome-game-boy-camera-and-game-boy-printer-projects](https://github.com/raphael-boichot/awesome-game-boy-camera-and-game-boy-printer-projects) - Awesome list of all the Game Boy Camera / Game Boy Printer related projects on the internet.
 - [awesome-mobile-growth](https://github.com/renedeanda/awesome-mobile-growth) - Awesome Mobile Growth is a curated list of the best mobile growth related resources, blogs, & tools in one place.
 - [awesome-remix](https://github.com/rjoydip/awesome-remix) - Curated list of awesome remix resources.
 - [awesome-monero](https://github.com/safekeys/awesome-monero) - Curated list of links to useful resources for the Monero Cryptocurrency. #Monero #XMR.
@@ -6365,6 +6369,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-inclusive-user-research](https://github.com/Grunet/awesome-inclusive-user-research) - A collection of resources around the area of inclusive user research. Also check out 
 - [awesome-rse-education](https://github.com/hifis-net/awesome-rse-education) - An awesome list of educational resources for Research Software Engineers and Engineering (RSE) .
 - [awesome-learning](https://github.com/hvnobug/awesome-learning) - :octocat: GitHub repository learning resource!.
+- [awesome_concept_learning_list](https://github.com/iCGY96/awesome_concept_learning_list) - A curated list of papers & resources linked to concept learning.
 - [awesome-atomist](https://github.com/janekdb/awesome-atomist) - A curated list of Atomist articles, references, guides, courses, books, videos and presentations.
 - [awesome-vue-js](https://github.com/joshsaintjacque/awesome-vue-js) - A collection of awesome resources for Vue.js development.
 - [awesome-android-opensource](https://github.com/JoshuaFern/awesome-android-opensource) - Curated List of Awesome Android FOSS.
@@ -6392,7 +6397,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-vcs-tools](https://github.com/postpdm/awesome-vcs-tools) - A curated list of awesome Version control tools - clients, diffs etc.
 - [awesome-upgradeability](https://github.com/PraneshASP/awesome-upgradeability) - A curated list of awesome resources and projects that concern smartcontract upgradeability.
 - [awesome-korean-developer-groups](https://github.com/ragingwind/awesome-korean-developer-groups) - Korea Developers Groups.
-- [awesome-game-boy-camera-and-game-boy-printer-projects](https://github.com/raphael-boichot/awesome-game-boy-camera-and-game-boy-printer-projects) - Awesome list of all the Game Boy Camera / Game Boy Printer related projects on the internet.
 - [awesome-multimodal-sequence-learning](https://github.com/Redaimao/awesome-multimodal-sequence-learning) - Reading list for multimodal sequence learning.
 - [awesome-derby](https://github.com/russll/awesome-derby) - A collection of awesome derby components.
 - [awesome-cycling](https://github.com/sfdye/awesome-cycling) - A curated list of resources for cyclists and bike-packers :bicyclist:.
@@ -6441,10 +6445,10 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-woocommerce](https://github.com/harshalslimaye/awesome-woocommerce) - A curated list of free and open source WooCommerce extensions and add-ons.
 - [awesome-bayes-nets](https://github.com/hayesall/awesome-bayes-nets) - ⚗️ A curated list of Books, Research Papers, and Software for Bayesian Networks.
 - [awesome-varnish](https://github.com/huayra/awesome-varnish) - The A-list of awesome Varnish and VCL related software, libraries, tools and resources, inspired by awesome-postgresql.
-- [awesome_concept_learning_list](https://github.com/iCGY96/awesome_concept_learning_list) - A curated list of papers & resources linked to concept learning.
 - [awesome-hyperspectral-image-classification](https://github.com/immortal13/awesome-hyperspectral-image-classification) - An comprehensive list of hyperspectral image classification resources (papers & codes & related websites) collected by Jiaqi Zou (immortal@whu.edu.cn).
 - [awesome-3D-avatar-collections](https://github.com/itsmetamike/awesome-3D-avatar-collections) - A list of tokenized VRM avatar collections, example files and associated metadata.
 - [Awesome-AI-Systems](https://github.com/Jason-cs18/Awesome-AI-Systems) - Resources for recent AI systems (deployment concerns, cost and accessibility). -- closed.
+- [awesome-ai-courses](https://github.com/Jasonlee1995/awesome-ai-courses) - Awesome free AI courses available on YouTube.
 - [awesome-jet](https://github.com/JohnRSim/awesome-jet) - 🎉 A curated list of awesome things related to Oracle Jet Toolkit.
 - [awesome-graph-incremental-learning](https://github.com/jwsu825/awesome-graph-incremental-learning) - This repo contians a list of paper related to graph incremental learning.
 - [awesome-ggplot2](https://github.com/kazutan/awesome-ggplot2) - Ggplot2に関連する素敵なパッケージリスト.
@@ -6478,6 +6482,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [react-awesome](https://github.com/wellyal/react-awesome) - A set of links of my experience learning react on a real project.
 - [awesome-holochain](https://github.com/wimpheling/awesome-holochain) -  ♓️ ‏A curated list of awesome Holochain resources.
 - [awesome-ai-tools-for-game-dev](https://github.com/xiaomingx/awesome-ai-tools-for-game-dev) - Awesome AI Tools for Game Development: A curated collection of the best AI tools, libraries, and resources to enhance game development workflows. From procedural content generation to NPC behavior, this repository gathers state-of-the-art AI solutions for game developers.
+- [awesome-volatility](https://github.com/ZarKyo/awesome-volatility) - A curated list of ressources for Volatility 2 & 3.
 - [awesome-rgb-protocol](https://github.com/22388o/awesome-rgb-protocol) -  A curated list of RGB projects and resources .
 - [awesome-ml-for-systems](https://github.com/AgrawalAmey/awesome-ml-for-systems) - 📖 A curated list of resources dedicated to Machine Learning for Systems research.
 - [awesome-incubators](https://github.com/ahmadnassri/awesome-incubators) - A curated list of startup incubators around the globe.
@@ -6558,6 +6563,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [grpc-protos](https://github.com/wenerme/grpc-protos) - A collection of grpc proto.
 - [awesome-team-build](https://github.com/whatwewant/awesome-team-build) - 组件一个 MVP 团队的资源.
 - [awesome-molecular-modeling-and-drug-discovery](https://github.com/wudangt/awesome-molecular-modeling-and-drug-discovery) - A curated list of awesome Molecular Modeling And Drug Discovery 🔥.
+- [awesome-clone-games](https://github.com/xiaomingx/awesome-clone-games) - 超过 100 个开源项目，包含像 Airbnb、Amazon、Instagram、Netflix、TikTok、Spotify、WhatsApp 和 YouTube 等热门网站的克隆版和替代方案。这些项目提供源代码、教程、演示链接、技术栈和 GitHub 星标数量，非常适合学习和参考！.
 - [awesome-papers](https://github.com/yangwenmai/awesome-papers) - Awesome papers in reading list.
 - [awesome-marp-template](https://github.com/ykicchan/awesome-marp-template) - An ultimate Marp template for your awesome presentation!.
 - [awesome-complex-systems-community](https://github.com/yrCSS/awesome-complex-systems-community) - A list of awesome resources for new (and less new) members of the Complexity Science research community.
@@ -6591,6 +6597,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-self-supervised-vision](https://github.com/fawazsammani/awesome-self-supervised-vision) - Awesome Self-Supervised Vision Learning.
 - [awesome-ai](https://github.com/gavfu/awesome-ai) - AI 相关资料、模型、代码、项目、工具等汇总.
 - [awesome-remote-sensing-papers](https://github.com/geoslegend/awesome-remote-sensing-papers) - Selection of remote sensing papers.
+- [awesome-diffusion-samplers](https://github.com/greatdrake/awesome-diffusion-samplers) - A collection of resources and papers on diffusion samplers.
 - [awesome-female-creators](https://github.com/gwenf/awesome-female-creators) - Female online tutorial and course creators!.
 - [awesome-rse-fair](https://github.com/hifis-net/awesome-rse-fair) - An awesome list of FAIR resources for Research Software Engineers and Engineering (RSE) .
 - [awesome-visual-attention](https://github.com/hongyuanyu/awesome-visual-attention) - A curated list of visual attention modules.
@@ -6648,7 +6655,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-nonprofit](https://github.com/tresni/awesome-nonprofit) - A list of vendors that provide discounts for non-profit organizations.
 - [awesome-political-tech](https://github.com/trozzelle/awesome-political-tech) - An awesome list of political tech.
 - [awesome-self-supervised-speech-representation-learning](https://github.com/vectominist/awesome-self-supervised-speech-representation-learning) - A comprehensive list of awesome self-supervised speech representation learning papers.
-- [awesome-clone-games](https://github.com/xiaomingx/awesome-clone-games) - 超过 100 个开源项目，包含像 Airbnb、Amazon、Instagram、Netflix、TikTok、Spotify、WhatsApp 和 YouTube 等热门网站的克隆版和替代方案。这些项目提供源代码、教程、演示链接、技术栈和 GitHub 星标数量，非常适合学习和参考！.
 - [data-protection-list](https://github.com/adgellida/data-protection-list) - 🔒 Manual of resistance to surveillance capitalism - Based on Valentin Delacour version -  - Telegram group:  - 
 - [awesome-sre](https://github.com/adriannovegil/awesome-sre) - Awesome SRE page.
 - [awesome-php-videos](https://github.com/alfiesal/awesome-php-videos) - A list of interesting conference talks and great videos about PHP(Frameworks, Testing, Architecture, Deployment).
@@ -6692,7 +6698,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome](https://github.com/gaui/awesome) - A curated list of my GitHub stars!  Generated by [starred](
 - [awesome-kahoot](https://github.com/gcruchon/awesome-kahoot) - Liste de quiz Kahoot pour animer vos team meetings!.
 - [awesome-juggling](https://github.com/GiantZOC/awesome-juggling) - 🤹 This is an awesome list for juggling resources.
-- [awesome-diffusion-samplers](https://github.com/greatdrake/awesome-diffusion-samplers) - A collection of resources and papers on diffusion samplers.
 - [awesome-it-architect](https://github.com/gtonic/awesome-it-architect) - A curated list of IT architecture technologies and resources.
 - [awesome-WeatherAI](https://github.com/HeQinWill/awesome-WeatherAI) - A curated list of awesome resources related to using AI for weather forecasting and climate modeling.
 - [awesome-robot-combat](https://github.com/IainIsCreative/awesome-robot-combat) - A list of resources, links, and tips for people who want to building fighting robots.
@@ -6700,7 +6705,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-iobroker](https://github.com/ioBroker/awesome-iobroker) - A curated list of amazingly awesome ioBroker resources. .
 - [awesome-straico](https://github.com/ivopereira/awesome-straico) - 🏆 A curated list of awesome Straico resources, tools, articles and more.
 - [awesome-web-developer](https://github.com/ivqonsanada/awesome-web-developer) - My Web Developer Awesome List.
-- [awesome-ai-courses](https://github.com/Jasonlee1995/awesome-ai-courses) - Awesome free AI courses available on YouTube.
 - [awesome-scalingo](https://github.com/jdauphant/awesome-scalingo) - A collaborative curated list of awesome Scalingo resources.
 - [awesome-developer-community-in-korea](https://github.com/JihunDev/awesome-developer-community-in-korea) - 😎한국의 개발자 커뮤니티 목록 모음.
 - [awesome-list](https://github.com/JingwenTian/awesome-list) - A curated list of awesome awesomeness.
@@ -6736,7 +6740,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-titanium](https://github.com/winterstefan/awesome-titanium) - Interesting facts and links for the Titanium framework.
 - [awesome-face-swap](https://github.com/xh-liu-tech/awesome-face-swap) - A collection of resources on face swap.
 - [awesome-js](https://github.com/yashprit/awesome-js) - A curated list of delightful JavaScript packages and resources.
-- [awesome-volatility](https://github.com/ZarKyo/awesome-volatility) - A curated list of ressources for Volatility 2 & 3.
 - [awesome-web-components](https://github.com/zedix/awesome-web-components) - A curated list of web components libraries and resources.
 - [Awesome-AI-resources](https://github.com/zelalemgetahun9374/Awesome-AI-resources) - Different kinds of resources useful for learning artificial intelligence including maths and statistics.
 - [awesome-security-GRC](https://github.com/zhaoyu5105/awesome-security-GRC) - Awesome-security-GRC 是一个用来聚集安全GRC的知识存储库.
@@ -6750,6 +6753,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-home-automation](https://github.com/apehex/awesome-home-automation) - :house: A curated list of awesome home automation tools, projects & resources.
 - [awesome-software-running-on-old-hardware](https://github.com/arthurlutz/awesome-software-running-on-old-hardware) - Abandonware on old hardware renders it unsecure, partially unusuable. Let's upgrade or replace it. (mirror).
 - [awesome-bytecode](https://github.com/artpar/awesome-bytecode) - Awesome list for binary.
+- [awesome-crypto-wallets](https://github.com/awesomelistsio/awesome-crypto-wallets) - A curated list of awesome resources, tools, and wallets for securely storing, managing, and transferring cryptocurrencies. This list covers software wallets, hardware wallets, multi-currency wallets, and privacy-focused options.
 - [awesome-nlp](https://github.com/awesomelistsio/awesome-nlp) - A curated list of awesome frameworks, libraries, tools, datasets, tutorials, and research papers for Natural Language Processing (NLP). This list covers a variety of NLP tasks, from text processing and tokenization to state-of-the-art language models and applications like sentiment analysis and machine translation.
 - [awesome-reinforcement-learning](https://github.com/awesomelistsio/awesome-reinforcement-learning) - A curated list of awesome frameworks, libraries, tools, environments, tutorials, research papers, and resources for reinforcement learning (RL). This list covers fundamental concepts, advanced algorithms, applications, and popular frameworks for building RL models.
 - [awesome-move](https://github.com/awesome-move/awesome-move) - Awesome Move  .
@@ -6794,6 +6798,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-csirt](https://github.com/Lalospidey/awesome-csirt) - A list of awesome CSIRT tools and presentations.
 - [awesome-plasma](https://github.com/Lamarkaz/awesome-plasma) - A curated collection of resources for Ethereum Plasma .
 - [iosawesomeblogpost](https://github.com/layneios/iosawesomeblogpost) - IOS awesome blog. 😀😀😀 .
+- [awesome-webfishing](https://github.com/letsgoawaydev/awesome-webfishing) - Links and stuff related to WEBFISHING.
 - [awesome-french-cilium](https://github.com/littlejo/awesome-french-cilium) - Together all French contents.
 - [Awesome_ML](https://github.com/LovelyBuggies/Awesome_ML) - Some good resources to study machine learning 📖.
 - [awesome-maestro](https://github.com/ludovicobesana/awesome-maestro) - A curated list of awesome tools, utils and projects using Maestro.
@@ -6802,6 +6807,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-metaljs](https://github.com/matuzalemsteles/awesome-metaljs) - 😎 A collection of awesome things regarding Metal.js ecosystem.
 - [awesome_chilean_context](https://github.com/maurotoro/awesome_chilean_context) - Curated fact checked list of Chilean disparities, to be used as an understanding for the civil uproar of October 2019.
 - [awesome-ai-for-gui-agents](https://github.com/maxi-w/awesome-ai-for-gui-agents) - Awesome resources about AI for GUI Agents.
+- [awesome](https://github.com/mdn/awesome) - A curated list of awesome things related to MDN.
 - [gpt-store](https://github.com/metehan777/gpt-store) - The unofficial GPT Store for the OpenAI Chat GPTs. You can send your custom GPTs to this repo.
 - [CNT-Guide](https://github.com/mikeroyal/CNT-Guide) - Carbon Nanotubes (CNTs) Guide.
 - [awesome-interior-design](https://github.com/mrspartak/awesome-interior-design) - A curated collection of interior design resources for professionals and enthusiasts. Includes design principles, color palettes, space planning, furniture layouts, CAD tools, material libraries, and professional tips. Find hand-picked blogs, books, software, and free resources to create beautiful spaces.
@@ -6859,7 +6865,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-sitecore](https://github.com/Anant/awesome-sitecore) - A collection of awesome Sitecore resources.
 - [awesome-lf-image-video](https://github.com/asprasan/awesome-lf-image-video) - List of resources for LF image and video reconstruction.
 - [awesome-allure](https://github.com/Avaddon-tfa/awesome-allure) - The collection of all Allure Report adaptors for tools and frameworks .
-- [awesome-crypto-wallets](https://github.com/awesomelistsio/awesome-crypto-wallets) - A curated list of awesome resources, tools, and wallets for securely storing, managing, and transferring cryptocurrencies. This list covers software wallets, hardware wallets, multi-currency wallets, and privacy-focused options.
 - [awesome-ffmpeg](https://github.com/awesomelistsio/awesome-ffmpeg) - A curated list of awesome tools, libraries, guides, and resources for FFmpeg, a complete, cross-platform solution to record, convert, and stream audio and video.
 - [awesome-mechanical-engineering](https://github.com/awesomelistsio/awesome-mechanical-engineering) - A curated list of tools, platforms, resources, and educational content for Mechanical Engineering.
 - [Awesome-Online-Efficiency](https://github.com/Awesome-Online-Efficiency/Awesome-Online-Efficiency) - 🧰 A collection of online efficiency tools,including useful and emerging.
@@ -6913,14 +6918,12 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-foundation-model](https://github.com/Kyrie-Zhao/awesome-foundation-model) - Foundation Model for X and X for Foundation Model.
 - [practice-python-programming-projects](https://github.com/labex-labs/practice-python-programming-projects) - Build real Python projects with 92 beginner-friendly challenges. Learn by doing with guided coding exercises and practical applications.
 - [awesome-interface-agents](https://github.com/lectrician1/awesome-interface-agents) - List of AI tools that can interact with user interfaces.
-- [awesome-webfishing](https://github.com/letsgoawaydev/awesome-webfishing) - Links and stuff related to WEBFISHING.
 - [awesome-cli-tui-software](https://github.com/lgaggini/awesome-cli-tui-software) - A collection of cli-tui software.
 - [awesome-neural-code-intelligence](https://github.com/Linyxus/awesome-neural-code-intelligence) - A curated list for awesome machine learning methods for neural code intelligence.
 - [awesome-cryptocurrency](https://github.com/Liquidator2048/awesome-cryptocurrency) - Solo alcuni link utili.
 - [awesome-wix](https://github.com/loeiks/awesome-wix) - List of some tools, code packages and tutorials related with Wix ecosystem.
 - [awesome-segmentation-and-graph-method](https://github.com/LQY404/awesome-segmentation-and-graph-method) - This is a repository of the segmentation method and graph method. In the segmentation part, the instance, sematic, panoptic and referring segmentation are included. In the graph part, the representation learning, clustering and so on methods are included. We will update continue.
 - [awesome-contrastive-learning-for-nlp](https://github.com/malteos/awesome-contrastive-learning-for-nlp) - A collection of papers about contrastive learning for natural language processing.
-- [awesome](https://github.com/mdn/awesome) - A curated list of awesome things related to MDN.
 - [awesome-open-source-marketing](https://github.com/metamatex/awesome-open-source-marketing) - Awesome list of open-source marketing resources.
 - [awesome-czech-covid19](https://github.com/michalbcz/awesome-czech-covid19) - List of links and informations about COVID-19 in Czech Republic. Language of list and linked websites is czech.
 - [awesome-tshirts](https://github.com/mikeHTweety/awesome-tshirts) - A repository containing best developer t-shirts on the market.
@@ -6947,6 +6950,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-sjtu-tes](https://github.com/sjtu-tes/awesome-sjtu-tes) - SJTU Technology Engage Square.
 - [awesome-solidity](https://github.com/solidity-developer/awesome-solidity) - A curated list of Solidity resources.
 - [awesome-kg-qaie](https://github.com/suamin/awesome-kg-qaie) - Awesome quickstart readings and resources for KGs with applications in QA and IE.
+- [awesome-open-source](https://github.com/Superp0sit1on/awesome-open-source) - 😎 A curated list of all the best free and open-source software for every need!.
 - [awesome-audio-visual-question-answering](https://github.com/swarupbehera/awesome-audio-visual-question-answering) - A curated list of resources in audio visual question answering and related area. :-).
 - [awesome-sysadmin-tools](https://github.com/Sysadminka/awesome-sysadmin-tools) - Awesome Tools for Sysadmins.
 - [Awesome-Daily](https://github.com/Tarek-Hasan/Awesome-Daily) - Awesome open-source & free software for daily usage.
@@ -6961,6 +6965,9 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-ai-tool](https://github.com/xiaomingx/awesome-ai-tool) - "Awesome AI Tool" 是一个精选的人工智能工具集合，涵盖机器学习、深度学习、NLP等领域，帮助开发者快速找到最适合的AI工具和资源。欢迎贡献优秀项目，共同打造最全面的AI工具库。.
 - [awesome-cto](https://github.com/xiaomingx/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups.
 - [awesome-edge-ai](https://github.com/xiaomingx/awesome-edge-ai) - A curated list of resources for embedded AI.
+- [awesome-opensource-alternatives-plus](https://github.com/xiaomingx/awesome-opensource-alternatives-plus) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀.
+- [awesome-wasm](https://github.com/xiaomingx/awesome-wasm) - “Awesome-wasm” 是一个汇集WebAssembly (Wasm) 相关资源的精选列表，包括教程、工具、框架、开源项目等。致力于帮助开发者更高效地学习、使用和探索WebAssembly，适用于构建高性能的现代Web应用。.
+- [awesome-ycombinator](https://github.com/xiaomingx/awesome-ycombinator) - 🚀 A collection of awesome YCombinator resources for maximizing your startup and business success.
 - [awesome-mcp](https://github.com/xlxxcc/awesome-mcp) - Awesome Model Context Protocol Servers.
 - [awesome-gif](https://github.com/ycaihua/awesome-gif) - A curated list of awesome gif tools & scripts.
 - [awesome-automated-machine-learning](https://github.com/YIWEI-CHEN/awesome-automated-machine-learning) - A curated list of awesome automated machine learning resources.
@@ -6989,7 +6996,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-sparse-autoencoders](https://github.com/chrisliu298/awesome-sparse-autoencoders) - A resource repository of sparse autoencoders for large language models.
 - [awesome-face-detection-and-recognition](https://github.com/coderonion/awesome-face-detection-and-recognition) - A collection of some awesome public face detection and recognition projects.
 - [fucking-awesome-fp-js](https://github.com/correia-jpv/fucking-awesome-fp-js) - 😎 A curated list of awesome functional programming stuff in js. With repository stars⭐ and forks🍴.
-- [awesome-hacking](https://github.com/cpscript/awesome-hacking) - A repo full of information about hacking.
 - [awesome-mobile-solana-apps](https://github.com/creativedrewy/awesome-mobile-solana-apps) - A community-curated list of all the amazing mobile apps & games built on Solana!.
 - [awesome-eos](https://github.com/cryptopeng/awesome-eos) - Eos blockchain develop information.
 - [awesome-devops-tools](https://github.com/curated-awesome-lists/awesome-devops-tools) - A curated compilation of top-notch DevOps tools tailored for developers and sysadmins.
@@ -7063,7 +7069,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-service-workers](https://github.com/StartPolymer/awesome-service-workers) - A collection of awesome Service Workers resources.
 - [awesome-typescript](https://github.com/suin/awesome-typescript) - A curated list of amazingly awesome TypeScript libraries, resources and shiny things.
 - [awesome-book](https://github.com/sunxyz/awesome-book) - A curated list of awesome things related to book .
-- [awesome-open-source](https://github.com/Superp0sit1on/awesome-open-source) - 😎 A curated list of all the best free and open-source software for every need!.
 - [awesome-vibe-coding](https://github.com/techiediaries/awesome-vibe-coding) - A curated list of vibe coding assistants, IDEs, tools and references for learning how to efficently collaborate with AI to write code. Best practices of prompt enginnering for developers. AI-powered tools for coding and UX/UI design. Our focus is on tools that allow for generating code or designs using natural language prompts.
 - [awesome-latin](https://github.com/thekarel/awesome-latin) - A curated list of some *egregius* latin language resources.
 - [awesome-vfx](https://github.com/tokejepsen/awesome-vfx) - A curated list of awesome CG tools.
@@ -7078,12 +7083,9 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-blockchain-security](https://github.com/werew/awesome-blockchain-security) - A curated list of awesome blockchain security resources.
 - [awesome-wtm](https://github.com/wethemakers-dev/awesome-wtm) - Awesome Links & Resources for WTM Team.
 - [awesome-anomaly-detection](https://github.com/xiaomingx/awesome-anomaly-detection) - Anomaly detection related books, papers, videos, and toolboxes.
-- [awesome-opensource-alternatives-plus](https://github.com/xiaomingx/awesome-opensource-alternatives-plus) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀.
 - [awesome-security](https://github.com/xiaomingx/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 - [awesome-threejs](https://github.com/xiaomingx/awesome-threejs) - A curated list of awesome ThreeJS resources;Three.js 是一个 JavaScript 库，用于在网页上创建和渲染 3D 图形。它基于 WebGL（Web 图形库），使得开发者能够在浏览器中轻松地绘制复杂的三维图形、动画、交互式 3D 内容等，而无需深入了解 WebGL 的底层技术。.
-- [awesome-wasm](https://github.com/xiaomingx/awesome-wasm) - “Awesome-wasm” 是一个汇集WebAssembly (Wasm) 相关资源的精选列表，包括教程、工具、框架、开源项目等。致力于帮助开发者更高效地学习、使用和探索WebAssembly，适用于构建高性能的现代Web应用。.
 - [awesome-wechat-app](https://github.com/xiaomingx/awesome-wechat-app) - 微信小程序开发资源汇总 💯.
-- [awesome-ycombinator](https://github.com/xiaomingx/awesome-ycombinator) - 🚀 A collection of awesome YCombinator resources for maximizing your startup and business success.
 - [awesome-nodejs](https://github.com/xiaqijian/awesome-nodejs) -  这个仓库主要是收集 Node生态 好用的中间件、新闻资讯、网站等，欢迎star.
 - [awesome-rust-cn](https://github.com/xu767142206/awesome-rust-cn) - Rust 中文资源库  大部分转载自awesome-rust.
 - [awesome-html-css](https://github.com/zedix/awesome-html-css) - Resources on the super power of HTML and CSS.
@@ -7105,6 +7107,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-blogging](https://github.com/awesomelistsio/awesome-blogging) - A curated list of awesome tools, resources, platforms, and tips for bloggers of all levels.
 - [awesome-computer-vision](https://github.com/awesomelistsio/awesome-computer-vision) - A curated list of awesome libraries, frameworks, tools, datasets, and research papers in computer vision, covering topics such as object detection, image segmentation, 3D vision, and more.
 - [awesome-drone-engineers](https://github.com/awesomelistsio/awesome-drone-engineers) - A curated list of resources, tools, and communities for drone engineers.
+- [awesome-open-science](https://github.com/awesomelistsio/awesome-open-science) - A curated list of tools, platforms, resources, and communities that promote Open Science, emphasizing transparency, reproducibility, collaboration, and open access in research and scientific practices.
 - [awesome-p2p-networks](https://github.com/awesomelistsio/awesome-p2p-networks) - A curated list of awesome resources, tools, protocols, and educational content related to Peer-to-Peer (P2P) Networks. P2P networks are decentralized architectures that enable nodes to connect directly, share resources, and collaborate without a central server.
 - [awesome-seo](https://github.com/awesomelistsio/awesome-seo) - A curated list of awesome SEO resources and tips to help you improve your website's search engine optimization.
 - [awesome-reader](https://github.com/Awyugan/awesome-reader) - 一个阅读者的好用工具.
@@ -7129,6 +7132,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [fucking-awesome-micro-npm-packages](https://github.com/correia-jpv/fucking-awesome-micro-npm-packages) - A curated list of small, focused npm packages. With repository stars⭐ and forks🍴.
 - [fucking-awesome-R](https://github.com/Correia-jpv/fucking-awesome-R) - A curated list of awesome R packages, frameworks and software. With repository stars⭐ and forks🍴.
 - [fucking-awesome-react](https://github.com/correia-jpv/fucking-awesome-react) - A collection of awesome things regarding React ecosystem. With repository stars⭐ and forks🍴.
+- [awesome-hacking](https://github.com/cpscript/awesome-hacking) - A repo full of information about hacking.
 - [awesome-ARTificial](https://github.com/cruelpleasure/awesome-ARTificial) - ARTificial Intelligence / Machine Learning Tools for (Visual) Artist and Designer.
 - [awesome-programming-movie](https://github.com/damaiyatri/awesome-programming-movie) - A collection of incredible programming films that can inspire you.
 - [fintech-awesome-libraries](https://github.com/Davelexic/fintech-awesome-libraries) - Compilation of libraries that have been helpful for data analysis.
@@ -7142,6 +7146,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-algebraic-statistics](https://github.com/FatemehTarashi/awesome-algebraic-statistics) - A curated list of Algebraic Statistics tools and resources.
 - [frontend-toolchain](https://github.com/Frontend-Layers/frontend-toolchain) - List of the useful resources for frontend development. Performance meteres, security, image compressors etc.
 - [awesome-fusion](https://github.com/fsn-dev/awesome-fusion) - A curated list of awesome Fusion resources.
+- [Manipuri-NLP](https://github.com/galax19ksh/Manipuri-NLP) - A comprehensive overview of research regarding Natural Language Processing (NLP) of Manipuri language.
 - [awesomeai](https://github.com/generalistcodes/awesomeai) - Curated list of Awesome AI Apps and Projects(Open Source and Non Open Source).
 - [resources](https://github.com/giorgenes/resources) - A curated list of resources collected in my 20+ years of experience as a software engineer and indiehacker.
 - [good-to-read](https://github.com/git-hulk/good-to-read) - The Awesome Article I Have Read.
@@ -7225,6 +7230,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-woka](https://github.com/WokaCentral/awesome-woka) - An independent awesome collection about virtual 2D/3D collabspaces & -verses like workadventure & more.
 - [survey](https://github.com/worldbench/survey) - 3D and 4D World Modeling: A Survey.
 - [awesome-3D-gaussian-splatting](https://github.com/XiaomingX/awesome-3D-gaussian-splatting) - Curated list of papers and resources focused on 3D Gaussian Splatting, intended to keep pace with the anticipated surge of research in the coming months.
+- [awesome-backdoor-resources](https://github.com/xiaomingx/awesome-backdoor-resources) - Backdoor learning is an emerging research area focusing on the security issues in the training process of machine learning algorithms. It is critical for ensuring the safe adoption of third-party training resources or models in real-world applications.
 - [awesome-coding-interview](https://github.com/xiaomingx/awesome-coding-interview) - A complete computer science study plan to become a software engineer.
 - [awesome-data-engineer](https://github.com/xiaomingx/awesome-data-engineer) - This is a repo with links to everything you'd ever want to learn about data engineering.
 - [awesome-react](https://github.com/xiaomingx/awesome-react) - A collection of awesome things regarding React ecosystem.
@@ -7255,7 +7261,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-deep-learning](https://github.com/awesomelistsio/awesome-deep-learning) - A curated list of awesome frameworks, libraries, tools, tutorials, research papers, and resources for deep learning. This list covers neural networks, model optimization, NLP, computer vision, and other deep learning applications.
 - [awesome-go](https://github.com/awesomelistsio/awesome-go) - A curated list of awesome Go resources and tips to help you become a more productive and proficient Go developer.
 - [awesome-ocaml](https://github.com/awesomelistsio/awesome-ocaml) - A curated list of awesome frameworks, libraries, tools, and resources for the OCaml programming language.
-- [awesome-open-science](https://github.com/awesomelistsio/awesome-open-science) - A curated list of tools, platforms, resources, and communities that promote Open Science, emphasizing transparency, reproducibility, collaboration, and open access in research and scientific practices.
 - [awesome-smart-contracts](https://github.com/awesomelistsio/awesome-smart-contracts) - A curated list of awesome tools, frameworks, resources, and educational content for developing and auditing smart contracts. This list covers everything from the basics of smart contract development to advanced security practices.
 - [awesome-frontend-watch](https://github.com/Axolotat/awesome-frontend-watch) - In this list, we've curated an awesome collection of resources that can assist front-end developers in staying up-to-date with the latest trends and technologies.
 - [awesome-oauth-sec](https://github.com/b1narygl1tch/awesome-oauth-sec) - Awesome OAuth security: OAuth2.0 and OpenID from an information security perspective.
@@ -7375,6 +7380,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-chatgpt-summary](https://github.com/richzw/awesome-chatgpt-summary) - Collection of awesome tools, demos, docs for ChatGPT, GPT-3 and GPT-4.
 - [my-bookmarks](https://github.com/RitwikN7/my-bookmarks) - A curated list of articles, repositories, and learning resources for CS, Economics, and more.
 - [awesome-js-resources](https://github.com/rjoydip/awesome-js-resources) - Collection of JavaScript resources (PDF, Video, Link).
+- [awesome-video-segmentation](https://github.com/rkyuca/awesome-video-segmentation) - Awesome Video Segmentation: Recent progress in video segmentation.
 - [awesome-octoherd-scripts](https://github.com/robvanderleek/awesome-octoherd-scripts) - Carefully curated list of awesome Octoherd scripts for GitHub automation.
 - [awesome_machine_learning_interview_question](https://github.com/rohan-paul/awesome_machine_learning_interview_question) - WORLD'S MOST COMPREHENSIVE RESOURCE FOR MACHINE LEARNING INTERVIEW QUESTIONS.
 - [awesome-nextjs-boilerplates](https://github.com/sasikanth513/awesome-nextjs-boilerplates) - Awesome nextjs boilerplates.
@@ -7405,7 +7411,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-video-understanding](https://github.com/vvukimy/awesome-video-understanding) - A curated list of resources (paper, code, data) on video understanding research.
 - [remote-awesome-list](https://github.com/wenderalves/remote-awesome-list) - Para quem está passando por problemas ou dificuldades com a quarentena do covid-19 segue esta lista para trabalhar remoto e garantir uma pequena renda.
 - [awesome-web](https://github.com/whinc/awesome-web) - Web 前端相关的优质开源项目集合.
-- [awesome-backdoor-resources](https://github.com/xiaomingx/awesome-backdoor-resources) - Backdoor learning is an emerging research area focusing on the security issues in the training process of machine learning algorithms. It is critical for ensuring the safe adoption of third-party training resources or models in real-world applications.
 - [awesome-deno](https://github.com/xiaomingx/awesome-deno) - Curated list of awesome things related to Deno.
 - [awesome-electron](https://github.com/xiaomingx/awesome-electron) - Useful resources for creating apps with Electron.
 - [awesome-llvm](https://github.com/xiaomingx/awesome-llvm) - A curated list of awesome LLVM (including Clang, etc) related resources.
@@ -7440,6 +7445,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-aerospace-engineering](https://github.com/awesomelistsio/awesome-aerospace-engineering) - A curated list of tools, frameworks, resources, and educational content for Aerospace Engineering.
 - [awesome-ai-edge-computing](https://github.com/awesomelistsio/awesome-ai-edge-computing) - A curated list of awesome tools, frameworks, libraries, and resources for running AI models on edge devices, including smartphones, IoT devices, embedded systems, and hardware accelerators. Edge AI focuses on processing data locally on the device, reducing latency and enhancing privacy.
 - [awesome-audiovisual](https://github.com/awesomelistsio/awesome-audiovisual) - A curated list of awesome tools, libraries, frameworks, and resources for working with audiovisual content, including video editing, audio processing, streaming, and multimedia applications.
+- [awesome-civil-engineering](https://github.com/awesomelistsio/awesome-civil-engineering) - A curated list of tools, frameworks, resources, and educational content for Civil Engineering.
 - [awesome-computational-mathematics](https://github.com/awesomelistsio/awesome-computational-mathematics) - A curated list of tools, frameworks, libraries, and educational resources for computational mathematics.
 - [awesome-content-marketing](https://github.com/awesomelistsio/awesome-content-marketing) - A curated list of tools, platforms, strategies, and resources for content marketing.
 - [awesome-couchdb](https://github.com/awesomelistsio/awesome-couchdb) - A curated list of awesome libraries, tools, frameworks, and resources for CouchDB, an open-source NoSQL database known for its ease of use, scalability, and master-master replication.
@@ -7501,7 +7507,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-hackathon](https://github.com/florianherrengt/awesome-hackathon) - A collection of awesome resources to build an MVP.
 - [Awesome-Microsoft365](https://github.com/fmorrison42/Awesome-Microsoft365) - Links, Tools, Tips, and all kinds of awesomeness to help you navigate and administrate Microsoft 365.
 - [awesome-nodebb](https://github.com/fralonra/awesome-nodebb) - Curated list for NodeBB.
-- [Manipuri-NLP](https://github.com/galax19ksh/Manipuri-NLP) - A comprehensive overview of research regarding Natural Language Processing (NLP) of Manipuri language.
 - [awesome](https://github.com/geocine/awesome) - 🕶 My Awesome List.
 - [free-operating-system-resources](https://github.com/getvmio/free-operating-system-resources) - Operating System Free Resources | This repo collects 36 of free resources for Operating System. 🖥️ Delve into the core of computing with our OS Kernel repository! Offering a comprehensive collection of free resources on operating systems and an interactive online playground, this is your lab for .
 - [awesome-continuous-ai](https://github.com/githubnext/awesome-continuous-ai) - An awesome list of Continuous AI Actions and Frameworks.
@@ -7597,7 +7602,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-french](https://github.com/prise6/awesome-french) - 😎 List of awesome french thing.
 - [stars](https://github.com/r44cx/stars) - A collection of useful projects (IMO).
 - [awesome-instant-pot](https://github.com/rkram5424/awesome-instant-pot) - Instant Pot recipes, accessories, resources, and more.
-- [awesome-video-segmentation](https://github.com/rkyuca/awesome-video-segmentation) - Awesome Video Segmentation: Recent progress in video segmentation.
 - [awesome-smw](https://github.com/rodamaral/awesome-smw) - :sunglasses: Awesome list about Super Mario World.
 - [awesome-txstreet](https://github.com/roman2k/awesome-txstreet) - Awesome list for TxStreet.
 - [awesome-scs](https://github.com/saeidshirazi/awesome-scs) - A curated list of Awesome Smart Contracts Security References.
@@ -7840,7 +7844,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-cs](https://github.com/mawady/awesome-cs) - Curated educational list for computer science.
 - [awesome-resources](https://github.com/meal/awesome-resources) - A curated list of resources I find useful and use in both my professional career as well as for hobbies. .
 - [awesome-metabase](https://github.com/metabase/awesome-metabase) - Metabase examples, related projects, and ecosystem.
-- [mcp-index](https://github.com/metorial/mcp-index) - An ever growing list of open source MCP servers 📡 📁 🚀.
 - [awesome-rag](https://github.com/MIBlue119/awesome-rag) - Some collections about Retrieval Augmented Generation resources.
 - [awesome_video-guided_surgery](https://github.com/mjahmadee/awesome_video-guided_surgery) - Awesome Image-guided Surgery.
 - [awesome-dl4g](https://github.com/ML4GLand/awesome-dl4g) - (Soon to be) community-curated list of software packages and data resources for deep learning for genomics (DL4G).
@@ -7980,7 +7983,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-chatgpt](https://github.com/awesomelistsio/awesome-chatgpt) - A curated list of tools, extensions, prompts, projects, and resources for ChatGPT and the OpenAI ecosystem.
 - [awesome-ci](https://github.com/awesomelistsio/awesome-ci) - A curated list of awesome Continuous Integration (CI) tools, services, workflows, and resources for building, testing, and deploying code with confidence.
 - [awesome-civic-tech](https://github.com/awesomelistsio/awesome-civic-tech) - A curated list of open source projects, platforms, communities, and tools advancing civic engagement and public service through technology.
-- [awesome-civil-engineering](https://github.com/awesomelistsio/awesome-civil-engineering) - A curated list of tools, frameworks, resources, and educational content for Civil Engineering.
 - [awesome-climate-tech](https://github.com/awesomelistsio/awesome-climate-tech) - A curated list of high-quality resources, startups, tools, and frameworks driving innovation in climate technology.
 - [awesome-cms](https://github.com/awesomelistsio/awesome-cms) - A curated list of awesome content management systems (CMS), libraries, tools, platforms, and resources.
 - [awesome-codepen](https://github.com/awesomelistsio/awesome-codepen) - A curated list of awesome CodePen demos, collections, resources, and inspiration for front-end developers and designers.
@@ -8026,6 +8028,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-osint](https://github.com/awesomelistsio/awesome-osint) - A curated list of high-quality open-source intelligence (OSINT) tools, resources, and techniques for investigations, journalism, cybersecurity, and more.
 - [awesome-political-science](https://github.com/awesomelistsio/awesome-political-science) - A curated list of high-quality resources, tools, datasets, and educational content related to political science.
 - [awesome-privacy](https://github.com/awesomelistsio/awesome-privacy) - A curated list of tools, resources, and knowledge to protect your digital privacy and maintain online anonymity.
+- [awesome-qa](https://github.com/awesomelistsio/awesome-qa) - A curated list of awesome Quality Assurance (QA) tools, frameworks, communities, and resources.
 - [awesome-quantum-programming-frameworks](https://github.com/awesomelistsio/awesome-quantum-programming-frameworks) - A curated list of frameworks, tools, libraries, and resources for quantum programming.
 - [awesome-self-publishing](https://github.com/awesomelistsio/awesome-self-publishing) - A curated list of awesome tools, resources, communities, and platforms for self-publishing authors.
 - [awesome-serverless](https://github.com/awesomelistsio/awesome-serverless) - A curated list of awesome services, frameworks, tools, and resources for building serverless applications.
@@ -8360,6 +8363,7 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-planet-pluto](https://github.com/web-work-tools/awesome-planet-pluto) - Links related to Planet Pluto Static Feed Aggregator.
 - [awesome-open-images](https://github.com/widged/awesome-open-images) - Listing of websites with images under a permissive license.
 - [awesome-baas](https://github.com/wonderfan/awesome-baas) - Curated list of blockchain as a service.
+- [awesome-ip-camera](https://github.com/wryun/awesome-ip-camera) - Awesome IP Camera.
 - [awesome-linux-links](https://github.com/xellor-dev/awesome-linux-links) - A curated collection of essential links and resources for Linux users, from official documentation to community tools and tutorials.
 - [xhlf-awesome](https://github.com/XinHuaLuFang/xhlf-awesome) - 日常收集.
 - [awesome-algorithm-engineer](https://github.com/xw3278/awesome-algorithm-engineer) - 算法工程师学习资料.
@@ -8873,7 +8877,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-cyber-range-list](https://github.com/thomas-mckanna/awesome-cyber-range-list) - A curated list of tools and technologies that support building Cyber Ranges.
 - [awesome-recommendations](https://github.com/tiagoprn/awesome-recommendations) - Awesome repository with my content recommendations (YouTube channels, podcasts, articles, etc.).
 - [personal-awesome-list](https://github.com/timothyrusso/personal-awesome-list) - Personal Wiki Project.
-- [best-of-nix](https://github.com/tolkonepiu/best-of-nix) - 🏆  A ranked list of the best resources in the Nix community. Updated weekly.
 - [awesome-sources](https://github.com/Tomlevron/awesome-sources) - Lists of libraries, blog, book and more that are found useful.
 - [awesome-ide](https://github.com/tonycody/awesome-ide) - A curated collection of fantastic VS Code extensions and JetBrains plugins to boost your productivity.  We’re gathering the best tools for developers – check it out and contribute!.
 - [awesome-icd-coding](https://github.com/Tou7and/awesome-icd-coding) - The awesome papers and materials about ICD coding.
@@ -8902,7 +8905,6 @@ Last generated: 2025-08-14, 8759 lists.
 - [awesome-cra-v2](https://github.com/willnguyen1312/awesome-cra-v2) - My playground on create-react-app v2 with Netlify.
 - [awesome-windhamdavid](https://github.com/windhamdavid/awesome-windhamdavid) - My list of lists.
 - [awesome-computer-vision](https://github.com/wpsliu123/awesome-computer-vision) - A curated list of awesome computer vision resources.
-- [awesome-ip-camera](https://github.com/wryun/awesome-ip-camera) - Awesome IP Camera.
 - [awesome-collections](https://github.com/wwwx/awesome-collections) - Collecting some useful website for Front-end develop.
 - [awesome-python](https://github.com/wyfish/awesome-python) - 一些Python相关的框架、代码、资源、库的集合.
 - [awesome-tools](https://github.com/xiangfeigao/awesome-tools) - 分享一些不限程序猿开拓眼界和提升效率的工具或平台，持续更新中。。。.
