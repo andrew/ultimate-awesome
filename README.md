@@ -3,7 +3,7 @@ Every awesome list on every topic, including awesome lists of awesome lists, upd
 
 This list was generated automatically from [awesome.ecosyste.ms](https://awesome.ecosyste.ms/), an open API service indexing awesome lists of open source software. It includes every eligible awesome list with at least 30 items and a description. Within each section, lists are grouped by star count (1,000–9,999, 100–999, 10–99, and so on), highest groups first, then sorted alphabetically.
 
-Last generated: 2026-11-01, 10386 lists.
+Last generated: 2026-11-02, 10393 lists.
 
 ## Contents
 - [Lists of Lists](#lists-of-lists)
@@ -1810,9 +1810,11 @@ Last generated: 2026-11-01, 10386 lists.
 - [Auto-Empirical-Research-Skills](https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills) - 🔬 A curated collection of 23,000+ agent skills for empirical research across 8 social science disciplines. | 精选 23,000+ AI Agent 技能库，覆盖8大社会科学学科的实证研究。CoPaper.AI 20分钟完成一篇可复现的规范实证论文，并支持用户上传 Skills。-- Maintained by CoPaper.AI from Stanford REAP.
 - [awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) - Tutorials, Guides and Agent Skills Directories.
 - [awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code and Codex skills.
+- [awesome-claude-video-skills](https://github.com/zhuyansen/awesome-claude-video-skills) - Open-source skills and toolkits that let Claude Code, Codex and other coding agents make video. 180 repos by type, each security-graded. English / 中文.
 - [awesome-hermes-agent](https://github.com/0xnyk/awesome-hermes-agent) - Independent directory of useful skills, plugins, memory providers, tools, surfaces, and guides for Nous Research's open-source Hermes Agent.
 - [awesome-japanese-nlp-resources](https://github.com/taishi-i/awesome-japanese-nlp-resources) - A curated list of resources for Japanese natural language processing (NLP): Python libraries, LLMs, dictionaries, corpora, and datasets. Includes Claude Code and Codex skills to search resources.
 - [awesome-persona-distill-skills](https://github.com/xixu-me/awesome-persona-distill-skills) - Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives.
+- [awesome-short-drama-skills](https://github.com/underleveledbuilder/awesome-short-drama-skills) - AI 短剧 · 漫剧 Skill（技能包）精选：剧本、改编、分镜、Seedance / 可灵 / MiniMax 视频提示词，千问、豆包、龙虾 OpenClaw、WorkBuddy、Claude Code、Codex 等智能体可用 | Curated agent skills for AI short drama, micro drama / microdrama, vertical drama and manju (AI comic drama): screenwriting, storyboards, Seedance / Kling / MiniMax video prompts.
 - [awesome-academic-research-skills](https://github.com/kael-odin/awesome-academic-research-skills) - 面向中文用户的学术论文与科研 Agent Skill 每日排行榜 · 自动搜索、过滤并排名 GitHub 上的 Claude Code / Codex / OpenCode 科研 Skill 仓库.
 - [awesome-agent-skills](https://github.com/JackyST0/awesome-agent-skills) - 🤖 精选的 AI Agent Skills 列表，适用于 Cursor、Claude Code、GitHub Copilot 等 AI 编程工具.
 - [awesome-agent-skills](https://github.com/kodustech/awesome-agent-skills) - Curated list of Agent Skills for AI coding agents like Claude Code, Codex and Cursor.
@@ -1836,6 +1838,7 @@ Last generated: 2026-11-01, 10386 lists.
 - [awesome-grok-bot](https://github.com/ZeroPointRepo/awesome-grok-bot) - Grok Bot skills, plugins, and MCP servers: 60+ verified entries plus self-hosted alternatives.
 - [awesome-stock-quant-skills](https://github.com/Serennity007/awesome-stock-quant-skills) - 炒股/量化交易/选股 AI Skill 合集：收录国内外 GitHub 上的股票分析、量化交易、选股策略 Agent Skills，附索引与合规转载.
 - [many-ppt-skills](https://github.com/brycewang-stanford/many-ppt-skills) - Every AI slide-deck skill worth knowing, on one page — both the HTML and native-PPTX routes, compared on what actually decides the choice rather than on star count. Bilingual, auto-refreshed.
+- [onchain-agents](https://github.com/satohubai/onchain-agents) - ⬡ The scored, daily-updated index of the onchain agent stack — frameworks, MCPs, wallets, payment rails, live agents.
 - [skills-tracker](https://github.com/linny006/skills-tracker) - Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend.
 - [awesome-agent-cli](https://github.com/shuyhere/awesome-agent-cli) - A curated collection of CLI tools designed for AI agents — classified by domain, tagged, and reviewed. Productivity, research, project management, and more.
 - [awesome-agent-harness](https://github.com/zients/awesome-agent-harness) - A curated list of useful Agent Skills for Claude Code, Codex, Gemini CLI, OpenClaw, Hermes, and other AI coding agents.
@@ -3538,6 +3541,7 @@ Last generated: 2026-11-01, 10386 lists.
 ### Cryptocurrency Topic Lists
 
 - [awesome-deep-trading](https://github.com/cbailes/awesome-deep-trading) - List of awesome resources for machine learning-based algorithmic trading.
+- [financial-machine-learning](https://github.com/firmai/financial-machine-learning) - A curated list of practical financial machine learning tools and applications.
 - [Awesome](https://github.com/Am0rphous/Awesome) - Awesome collection of resources 😎 Work in progress🔥.
 - [awesome-cryptoeconomics](https://github.com/L4ventures/awesome-cryptoeconomics) - 📚 A curated collection of links for cryptoeconomists.
 - [awesome_osint_blockchain_analysis](https://github.com/aaarghhh/awesome_osint_blockchain_analysis) - A list of useful Crypto resources for OSINT investigations.
@@ -3588,6 +3592,7 @@ Last generated: 2026-11-01, 10386 lists.
 - [channels](https://github.com/andrew--r/channels) - 📺 A collection of useful YouTube channels for JavaScript developers and web designers.
 - [frontend-case-studies](https://github.com/andrew--r/frontend-case-studies) - 💼 A curated list of talks and articles about real world frontend development.
 - [frontendDaily](https://github.com/kujian/frontendDaily) - 前端开发博客，分享互联网最精彩的前端技术，欢迎关注我微信公众号：前端开发博客，回复 1024，领取前端进阶资料包，回复 加群，与大神一起交流学习。.
+- [must-watch-css](https://github.com/AllThingsSmitty/must-watch-css) - CSS talks you have to see covering CSS Grid, flexbox, custom variables, performance, frameworks, tooling, and more! 📺.
 - [awesome-bitrix](https://github.com/awesomebitrix/awesome-bitrix) - Потрясающий Битрикс - полезные статьи о настройке и разработке 1C-Bitrix и Bitrix 24, а также компоненты и модули, php и JavaScript библиотеки.
 - [awesome-design-systems](https://github.com/klaufel/awesome-design-systems) - 📒 A curated list of bookmarks, resources and articles about design systems focused on developers.
 - [awesome-frontend-dev](https://github.com/filimonovalexey/awesome-frontend-dev) - Подборка полезных материалов для начинающих веб-разработчиков!
@@ -5801,6 +5806,7 @@ Last generated: 2026-11-01, 10386 lists.
 ### Marketing Topic Lists
 
 - [marketing-for-founders](https://github.com/edostra/marketing-for-founders) - Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup.
+- [PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) - Compiled list of links from "Ask HN: Where can I post my startup to get beta users?".
 - [awesome-developer-marketing](https://github.com/ronakganatra/awesome-developer-marketing) - A living document of hand-picked resources for marketers working on dev-centric products.
 - [awesome-digital-marketing](https://github.com/paulbradish/awesome-digital-marketing) - 😎 A curated list of awesome digital marketing guides, resources, services, & more.
 - [awesome-ecommerce-stack](https://github.com/astrotars/awesome-ecommerce-stack) - 💰 Popular marketing tools and add-ons used by 10,000+ of the top e-commerce stores.
@@ -7914,6 +7920,7 @@ Last generated: 2026-11-01, 10386 lists.
 - [Awesome-LLM4AD](https://github.com/Thinklab-SJTU/Awesome-LLM4AD) - A curated list of awesome LLM/VLM/VLA/World Model for Autonomous Driving(LLM4AD) resources (continually updated).
 - [Awesome-LLM4IE-Papers](https://github.com/quqxui/Awesome-LLM4IE-Papers) - Awesome papers about generative Information Extraction (IE) using Large Language Models (LLMs).
 - [Awesome-LLMs-Datasets](https://github.com/lmmlzn/Awesome-LLMs-Datasets) - Summarize existing representative LLMs text datasets.
+- [awesome-llms-for-video-understanding](https://github.com/yoloytang/awesome-llms-for-video-understanding) - 🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.
 - [awesome-llms-for-video-understanding](https://github.com/yunlong10/awesome-llms-for-video-understanding) - 🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.
 - [awesome-LLMs-In-China](https://github.com/wgwang/awesome-LLMs-In-China) - 中国大模型.
 - [awesome-local-ai](https://github.com/janhq/awesome-local-ai) - An awesome repository of local AI tools.
