@@ -3,7 +3,7 @@ Every awesome list on every topic, including awesome lists of awesome lists, upd
 
 This list was generated automatically from [awesome.ecosyste.ms](https://awesome.ecosyste.ms/), an open API service indexing awesome lists of open source software. It includes every eligible awesome list with at least 30 items and a description. Within each section, lists are grouped by star count (1,000–9,999, 100–999, 10–99, and so on), highest groups first, then sorted alphabetically.
 
-Last generated: 2026-11-02, 10393 lists.
+Last generated: 2026-11-03, 10391 lists.
 
 ## Contents
 - [Lists of Lists](#lists-of-lists)
@@ -535,7 +535,6 @@ Last generated: 2026-11-02, 10393 lists.
   - [Server Topic Lists](#server-topic-lists)
   - [Server-side rendering Topic Lists](#server-side-rendering-topic-lists)
   - [Serverless Topic Lists](#serverless-topic-lists)
-  - [Shadcn UI Topic Lists](#shadcn-ui-topic-lists)
   - [Shadowsocks Topic Lists](#shadowsocks-topic-lists)
   - [Shell Topic Lists](#shell-topic-lists)
   - [Shizuku Topic Lists](#shizuku-topic-lists)
@@ -7051,10 +7050,6 @@ Last generated: 2026-11-02, 10393 lists.
 - [awesome-lilypad](https://github.com/lilypad-tech/awesome-lilypad) - Lilypad examples, use cases, and more!
 - [awesome-postserver](https://github.com/arran4/awesome-postserver) - Awesome Post-Cloud Post-NAS (True Serverless) Syncing.
 
-### Shadcn UI Topic Lists
-
-- [awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
-
 ### Shadowsocks Topic Lists
 
 - [awesome-network-stuff](https://github.com/alphaSeclab/awesome-network-stuff) - Resources about network security, including: Proxy/GFW/ReverseProxy/Tunnel/VPN/Tor/I2P, and MiTM/PortKnocking/NetworkSniff/NetworkAnalysis/etc。More than 1700 open source tools for now. Post incoming.
@@ -7707,7 +7702,6 @@ Last generated: 2026-11-02, 10393 lists.
 - [awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) - :metal: awesome-semantic-segmentation.
 - [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) - TensorFlow - A curated list of dedicated resources.
-- [awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces.
 - [awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js.
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs.
