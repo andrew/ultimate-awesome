@@ -3,7 +3,7 @@ Every awesome list on every topic, including awesome lists of awesome lists, upd
 
 This list was generated automatically from [awesome.ecosyste.ms](https://awesome.ecosyste.ms/), an open API service indexing awesome lists of open source software. It includes every eligible awesome list with at least 30 items and a description. Within each section, lists are grouped by star count (1,000–9,999, 100–999, 10–99, and so on), highest groups first, then sorted alphabetically.
 
-Last generated: 2026-11-10, 10395 lists.
+Last generated: 2026-11-11, 10396 lists.
 
 ## Contents
 - [Lists of Lists](#lists-of-lists)
@@ -2937,6 +2937,7 @@ Last generated: 2026-11-10, 10395 lists.
 
 ### C Topic Lists
 
+- [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS.
 - [awesome-c](https://github.com/uhub/awesome-c) - A curated list of awesome C frameworks, libraries and software.
 - [awesome-quantdev-learn](https://github.com/0voice/awesome-quantdev-learn) - 本仓库面向所有对量化分析或开发感兴趣的量化交易从业者，提供系统性学习量化开发的技术路线，从数据获取、策略开发、回测系统到实盘部署。.
 - [awesome_c-cpp_projects](https://github.com/0voice/awesome_c-cpp_projects) - 2025年 最新收录整理 500+ 个高质量的 C/C++ 项目，包括但不限于核心开发、基础工具、系统与并发、系统编程、图形处理、网络通信、数据处理、应用框架、开源工具、嵌入式开发等多个领域。适合学习、参考和实战。.
